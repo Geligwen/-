@@ -66,14 +66,14 @@ label prologue:
             "Это может быть сон, но он кажется слишком реальным."
             "Ты что, пони?":
                 unknown "Ну, вообще-то, единорог..."
-            "Ты только что сказал \"книга заклинаний\"?":
+            "Ты только что сказала \"книга заклинаний\"?":
                 unknown "Да, я только что произнесла заклинание и ... .."
         unknown "Погоди, это я должна задавать вопросы!"
-        unnamedmc "But I have no idea what's going on, and you just called me a slave!"
+        unnamedmc "Но я понятия не имею, что происходит, а ты только что назвала меня рабом!"
         show moxie silhouetteserious with dissolve
-        unknown "Alright, fine... I'm Mo-... Moxie."
-        moxie "You're in my home, my wagon, in the city of Arcadia."
-        "I'm in a wagon? I wiggle my toes and feel the wooden panels beneath me."
+        unknown "Ладно, хорошо... Я Мо-... Мокси"
+        moxie "Ты в моем доме, в моем фургоне, в городе Аркадия."
+        "Я в фургоне? Я шевелю пальцами ног и чувствую, что стою на деревянном полу."
         "As I look around the dark room, there's a soft yet delightful smell of lavender in the air."
         "What I'm feeling is visceral and I'm experiencing every little detail. This is definitely not a dream, this is real."
         moxie "I want to ask questions now. What's your name?"
