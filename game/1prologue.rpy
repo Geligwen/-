@@ -55,7 +55,7 @@ label prologue:
         stop music fadeout 30.0
         "Я слегка наклоняюсь к ней, но она отшатывается с широко раскрытыми глазами; она так потрясена, как будто только что увидела паука, ползущего по мне."
         show moxie silhouetteserious with dissolve
-        unknown "Т-ты только что говорил! Ты не должен этого делать! Плохой раб!"
+        unknown "Т-ты умеешь говорить! Ты не должен этого делать! Плохой раб!"
         unnamedmc "О чем ты говоришь? Конечно, я могу говорить..."
         show moxie silhouettesad with dissolve
         unknown "О... Но в книге заклинаний сказано, что это невозможно!"
@@ -74,83 +74,83 @@ label prologue:
         unknown "Ладно, хорошо... Я Мо-... Мокси"
         moxie "Ты в моем доме, в моем фургоне, в городе Аркадия."
         "Я в фургоне? Я шевелю пальцами ног и чувствую, что стою на деревянном полу."
-        "As I look around the dark room, there's a soft yet delightful smell of lavender in the air."
-        "What I'm feeling is visceral and I'm experiencing every little detail. This is definitely not a dream, this is real."
-        moxie "I want to ask questions now. What's your name?"
-        unnamedmc "My name is..."
+        "Когда я начал осматривать темную комнату, в воздухе разлился восхитительно мягкий запах лаванды"
+        "Всё, что я чувствую, и всё, что я испытываю внутри себя вплоть до самых мельчайших деталей, явно не похоже на сон, это явь чистой воды."
+        moxie "Теперь моя очередь задавать вопросы. Как тебя зовут?"
+        unnamedmc "Меня зовут..."
         python:
-            playername = renpy.input("What is your first name?")
+            playername = renpy.input("Как тебя зовут?")
             playername = playername.strip()
 
             if not playername:
-                playername = "Anon"
+                playername = "Анон"
         mc "[playername]"
         show moxie silhouetteneutral
         with dissolve
-        moxie "Well [playername]..."
+        moxie "Хорошо [playername]..."
         show moxie closesilhouettesad
         with dissolve
-        "She lifts up a book and pushes it toward me with a specific page open."
-        moxie "Look! This book says that you're not supposed to be sentient!"
-        mc "I can't read this at all, it's too dark."
+        "Она поднимает книгу и показывает мне открытую страницу."
+        moxie "Смотри! Тут написано, что ты не должны быть разумным!"
+        mc "е могу ничего разглядеть, тут слишком темно."
         scene bg black with dissolve
         hide moxie closesilhouettesad with dissolve
-        "Moxie turns around and places the book back on the table. Her horn briefly glows a magnificent purple, and a lamp in the corner of the room spontaneously switches on."
+        "Мокси оборачивается и кладет книгу обратно на стол. Ее рог на мгновение вспыхивает пурпурным светом, и лампа в углу комнаты включается сама."
         play music wagon fadein 6.0
         scene bg moxiewagonlamp
         show moxie shy
         with moxiespell
-        "The room brightens and as the new light provides clarity, I almost can't believe what I'm seeing."
+        "В комнате светлеет, и я могу разглядеть все предельно четко, но все равно не могу поверить в то, что вижу."
         show moxie fullres with dissolve:
           xpos 700
           ypos 700
           linear 10.0 xpos 700 ypos 2750
-        "Under the illumination of the lamp, there's an unashamed nude creature, breasts and more, I can even see a tail, and a unicorn horn."
-        "Where do I even begin to analyse this impossible situation?"
-        "The girl in front of me, she's a unicorn? I'm utterly bewildered."
+        "В свете лампы я вижу вызывающе обнаженное создание, ее грудь и многое другое, я вижу даже хвост и рог."
+        "Как мне вообще понять, в какую невозможную ситуацию я попал?"
+        "Неужели девушка передо мной - единорог? Я совершенно сбит с толку."
         hide moxie fullres with dissolve
         show moxie serious with dissolve
         menu:
-            "What do you mean I'm not supposed to be sentient?":
+            "Что ты подразумеваешь под \"не должен быть разумным\"?":
                 show moxie shocked with dissolve
-                moxie "Well, you were the product of a spell I cast. I summoned a temporary familiar to do my bidding."
-                moxie "This spell book says 'doesn't talk, no sentience, just follows orders'!"
-                moxie "You're supposed to be a mindless stallion that follows my orders."
-            "Why were you calling me a slave?":
+                moxie "Ну, ты создан заклинанием, которое я наложила. Я вызвала временного фамильяра, чтобы тот выполнил мою просьбу."
+                moxie "В книге заклинаний написано: \"не разговаривает, не чувствует, просто выполняет приказы\"!"
+                moxie "Ты должен был быть безмозглым жеребцом, который только выполняет мои приказы."
+            "Почему ты называешь меня рабом?":
                 show moxie bashful with dissolve
-                moxie "Sorry! You're not my slave, that was just my hubris talking, we can be equals if you want!"
+                moxie "Извини! Ты не мой раб, просто во мне говорит высокомерие, мы можем быть на равных, если хочешь!"
                 moxie "I-I was just trying to cast the spell 'summon familiar' which summons a temporary familiar to do my bidding."
                 moxie "This spell book says 'doesn't talk, no sentience, just follows orders'!"
                 moxie "You're supposed to be a mindless stallion that follows my orders."
         show moxie sad with dissolve
-        moxie "You're not even a stallion... Sheesh, how awful am I at magic?"
-        mc "Let me get this right, you cast a spell and summoned me? That makes me your slave or familiar?"
+        moxie "Ты даже не жеребец ... Блин, насколько же ужасна в магии?"
+        mc "Позволь кое-что прояснить, ты наложила заклинание и призвала меня? Это делает меня твоим рабом или фамильяром?"
         show moxie shy with dissolve
-        moxie "Yup, the spell was 'Summon Familiar', it's from a book Penelope let me borrow from the library."
+        moxie "Ага, это было заклинание «Призыв фамильяра» из книги, которую я взяла в библиотеке у Пенелопы."
         menu:
-            "I don't believe it.":
+            "Не верю.":
                 show moxie shocked with dissolve
-                moxie "Huh?"
-                mc "I'm not your familiar."
+                moxie "Ха?"
+                mc "Я не твой фамильяр"
                 show moxie shy with dissolve
-                mc "I have memories, and a life, I can't be."
-            "Yeah, I'm probably the result of your spell.":
+                mc "У меня есть воспоминания о жизнь, соответственно я не могу быть им."
+            "Да, наверное, я результат твоего заклинания.":
                 show moxie happy with dissolve
-                moxie "You really think so? I cast the right spell and just made a 'super familiar'? Maybe Penelope was onto something."
-                mc "Yeah, maybe, but there's a small problem."
+                moxie "О, ты правда так думаешь? Я наложила правильное заклинание и только что сделал «супер-фамильяра»? Может, Пенелопа что-то перепутала..."
+                mc "Да уж, возможно, но есть небольшая проблема."
                 show moxie serious with dissolve
-                moxie "What's that?"
-                mc "I can't be your slave, I have a life back at home."
-        mc "Last thing I remember, I was snoozing in bed, so your magical spell must have moved me from there to here."
+                moxie "Что такое?"
+                mc "Я не могу быть твоим рабом, у меня есть своя жизнь дома."
+        mc "Последнее, что я помню,это как я дремал в постели, так что твое заклинание, должно быть, переместло меня оттуда сюда."
         show moxie shocked with dissolve
-        moxie "Woah... You have memories, and stuff?"
-        mc "I certainly do, I'm a real person after all."
+        moxie "Вау ... У тебя есть воспоминания и все такое?"
+        mc "Конечно, я все-таки настоящий человек."
         show moxie serious with dissolve
-        moxie "Hmm... Tell me more about yourself."
+        moxie "Хм ... Расскажи мне побольше о себе."
         show moxie neutral with dissolve
-        mc "Well uh, I'm a human, from the planet Earth."
+        mc "ЭЭ, ну, я человек с планеты Земля."
         show moxie shocked with dissolve
-        moxie "That's the name of our planet! But I've never heard of a 'human' before..."
+        moxie "Так называется наша планета! Но я никогда раньше не слышал о «человеке» ..."
         show moxie laughing with dissolve
         moxie "I can only conclude that the great and powerful Moxie has created a brand new, sentient, and intelligent lifeform. This is perfect..."
         mc "I'm not new! I'm a real person!"
