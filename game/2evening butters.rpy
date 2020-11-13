@@ -8,12 +8,12 @@ label eveningbutters:
     $ rand = renpy.random.randint(1,3)
     if rand == 1:
         show butters succubus with dissolve
-        "Sometime during the evening, Butters slowly turned into her succubus form. Does she really need to get undressed every time?."
-        butters "OH HOOONEYY! I'M HOOOOME!"
+                "Sometime during the evening, Баттерс превращается в суккуба. Неужели ей нужно раздеваться каждый раз?."
+        butters "ОХ, МИИИЛЫЙ! Я ДООООМА!"
         jump eveningbutterssuccmenu
     else:
         show butters dresshappy with dissolve
-        "Me and Butters get cozy as we spend the evening together."
+        "Я и Баттерс договорились провести вечер вместе."
         jump eveningbuttersmenu
     label eveningbutters1:
         scene bg buttershousenight with dissolve
@@ -22,12 +22,12 @@ label eveningbutters:
             jump buttersimpregintro
         if livingwithbutters == 1:
             show butters dresshappy with dissolve
-            butters "Back from your walk honey?"
+            butters "Вернулся с прогулки, дорогой?"
             jump eveningbuttersmenu
         else:
             if rand == 1:
                 show butters succsadistic with dissolve
-                butters "Perfect, the midnight snack has arrived."
+                butters "Изумительно, ночная закуска уже здесь."
                 jump eveningbutterssuccmenu
             else:
                 show butters dresshappy with dissolve
