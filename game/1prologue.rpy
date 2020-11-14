@@ -178,25 +178,25 @@ label prologue:
                 mc "Ах да, сегодня я спал голышом, потому что было ужасно жарко."
             "Ох, я бы тебя...":
                 show moxie horny with dissolve
-                moxie "Ох, хе-хе, грязные словечки... Держу пари,  фамильяр так не может."
+                moxie "Ох, хе-хе, грязные мыслишки... Держу пари,  фамильяр так не может."
         mc "Вообще, что такое фамильяр?"
         show moxie shy with dissolve
         moxie  "Нуу этоо... эфирное тело, которое может взаимодействовать со планом смертных..."
-        "She says reading word for word from the spell book."
+        "Она говорит, повторяя слово в слово книгу заклинаний"
         show moxie bashful with dissolve
-        moxie "It can follow orders and stuff."
-        mc "And you tried to summon this thing why?"
+        moxie "Он может выполнять приказы и прочее."
+        mc "И зачем ты пыталась призвать это?"
         show moxie serious with dissolve
-        moxie "Come over here, let's sit down and talk."
+        moxie "Подойди сюда, давай сядем и поговорим."
         hide moxie serious with dissolve
-        "She puffs her chest out and goes to sit down on her sofa and pats the cushions as if to encourage me to sit with her."
-        "As she creates some distance between us, I take the opportunity to glance and analyse her inhuman body."
+        "Она выпячивает грудь, садится на диван и похлопывает по подушкам, словно приглашая меня сесть рядом."
+        "Когда она отходит на некоторое расстояние, я пользуюсь случаем, чтобы взглянуть и оценить ее нечеловеческое тело."
         show moxie boobs with dissolve
-        "While there's fur covering almost her entire body, I can still see her nipples."
-        "Her bare breasts are gorgeous and I don't often have the opportunity to see such beauties in person."
+        "Не смотря на то, что мех покрывает почти все тело, я все еще вижу ее соски."
+        "Её оголенная грудь великолепна, и я не часто могу увидеть такую красавицу лично."
         show moxie pussy with dissolve
-        "And with a quick perverted glance between her legs, I can see her vulva too."
-        "Is this girl not shy about her nudity?"
+        "Быстро кинув непристойный взгляд между ее ног, я увидел и ее вульву."
+        "Неужели эта девка не стесняется своей наготы?"
         show moxie closehorny with dissolve
         "After stealing a few glances, I sit down beside her. I may not know much about the situation, but she's distractingly sexy."
         "As I sit, some of her fur grazes my thigh, it's incredibly soft and pleasant to the touch."
