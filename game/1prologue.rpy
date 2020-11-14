@@ -115,13 +115,13 @@ label prologue:
                 show moxie shocked with dissolve
                 moxie "Ну, ты создан заклинанием, которое я наложила. Я вызвала временного фамильяра, чтобы тот выполнил мою просьбу."
                 moxie "В книге заклинаний написано: \"не разговаривает, не чувствует, просто выполняет приказы\"!"
-                moxie "Ты должен был быть безмозглым жеребцом, который только выполняет мои приказы."
+                moxie "Ты должен был быть безмозглым жеребцом, который делает все, что я захочу."
             "Почему ты называешь меня рабом?":
                 show moxie bashful with dissolve
                 moxie "Извини! Ты не мой раб, просто во мне говорит высокомерие, мы можем быть на равных, если хочешь!"
-                moxie "I-I was just trying to cast the spell 'summon familiar' which summons a temporary familiar to do my bidding."
-                moxie "This spell book says 'doesn't talk, no sentience, just follows orders'!"
-                moxie "You're supposed to be a mindless stallion that follows my orders."
+                moxie "Я-я просто пыталась сотворить заклинание «Призыв фамильяра», которое вызывает временного фамильяра, исполняющего мои приказы."
+                moxie "В книге заклинаний написано: «не разговаривает, не разумен, просто следует приказам».!"
+                moxie "Ты должен быть бездумным жеребцом, который делает все, что я захочу."
         show moxie sad with dissolve
         moxie "Ты даже не жеребец ... Блин, насколько же ужасна в магии?"
         mc "Позволь кое-что прояснить, ты наложила заклинание и призвала меня? Это делает меня твоим рабом или фамильяром?"
@@ -152,36 +152,36 @@ label prologue:
         show moxie shocked with dissolve
         moxie "Так называется наша планета! Но я никогда раньше не слышал о «человеке» ..."
         show moxie laughing with dissolve
-        moxie "I can only conclude that the great and powerful Moxie has created a brand new, sentient, and intelligent lifeform. This is perfect..."
-        mc "I'm not new! I'm a real person!"
-        mc "If anything, you, and everything else is new to me."
+        moxie "Я могу только сделать вывод, что великая и могущественная Мокси создала совершенно новую, разумную форму жизни. Это отлично..."
+        mc "Я не новая форма! Я настоящий человек!"
+        mc "Хотя, и ты, и все остальное для меня новое."
         show moxie shocked with dissolve
-        moxie "Kidding, kidding! Yeah, I've probably committed a magic crime."
-        mc "Only a few hours ago I was at home playing on my computer."
+        moxie "Шучу, шучу! Да уж, похоже, я совершила волшебное преступление."
+        mc "Всего несколько часов назад я играл на компьютере у себя дома."
         show moxie shy with dissolve
-        moxie "Oh yeah? Tell me more."
-        mc "I'm a student in college, eighteen years old."
+        moxie "О да? Расскажи побольше."
+        mc "Я учусь в колледже, мне восемнадцать лет."
         menu:
-            "I don't want to be a slave to a magical horse pony.":
+            "Не хочу быть рабом какой-то волшебной пони":
                 show moxie bashful with dissolve
-                moxie "Yeahh... Change of plans, I don't want a real slave."
-                moxie "That was just a small power fantasy I'd have over a magical familiar, not some real 'human' dude."
-            "I'm tired, can you send me back home?":
+                moxie "Эх... Планы изменились, я не хочу настоящего раба."
+                moxie "Это была всего лишь маленькая мечта о власти, которую я бы имела над фамильяром, а не каким-то реальным \"человеческим\" чуваком."
+            "Я устал, ты можешь отправить меня домой?":
                 show moxie sad with dissolve
-                moxie "Uhm, I can try? I don't know how to undo a familiar spell."
-            "Why am I here?":
+                moxie "Хм, а я могу? Я не знаю, как обратить это заклинание."
+            "Почему я здесь?":
                 show moxie embarrassed with dissolve
-                moxie "I already told you, I tried to summon a familiar but I think I messed up the spell and summoned you instead."
-            "Why are you naked?":
+                moxie "Я тебе уже говорила, я пыталась призвать фамильяра, но, кажется, перепутала заклинание и вместо этого призвала тебя."
+            "Почему ты голая?":
                 show moxie shy with dissolve
-                moxie "You're naked too, you know."
-                mc "Oh right, I slept in the nude tonight because it was too hot."
-            "You're sexy...":
+                moxie "Ты ведь тоже голый."
+                mc "Ах да, сегодня я спал голышом, потому что было ужасно жарко."
+            "Ох, я бы тебя...":
                 show moxie horny with dissolve
-                moxie "Oohh, hehe, dirty talk... I bet a familiar can't do that."
-        mc "What is a familiar anyway?"
+                moxie "Ох, хе-хе, грязные словечки... Держу пари,  фамильяр так не может."
+        mc "Вообще, что такое фамильяр?"
         show moxie shy with dissolve
-        moxie  "It's like... an etheral body that can interact with the mortal plane..."
+        moxie  "Нуу этоо... эфирное тело, которое может взаимодействовать со планом смертных..."
         "She says reading word for word from the spell book."
         show moxie bashful with dissolve
         moxie "It can follow orders and stuff."
