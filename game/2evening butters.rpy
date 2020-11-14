@@ -27,38 +27,38 @@ label eveningbutters:
         else:
             if rand == 1:
                 show butters succsadistic with dissolve
-                butters "Изумительно, ночная закуска уже здесь."
+                butters "Изумительно, ночная закуска уже пришла."
                 jump eveningbutterssuccmenu
             else:
                 show butters dresshappy with dissolve
-                butters "Good evening, what brings you here at this time?"
+                butters "Добрый вечер, что привело тебя в такое время?"
                 jump eveningbuttersmenu
         label eveningbutterssuccmenu:
             menu:
                 "Go Outside":
                     show butters succsurprised with dissolve
-                    butters "Wha? Wait, don't go!"
+                    butters "Что? Стой, не уходи!"
                     if fr == 1:
                         jump prefinalworldmapnight
                     jump preworldmapnight
                 "Talk" if succbutterstalks == 0:
                     show butters succsurprised with dissolve
-                    butters "You wanna talk with me? I was kinda hoping for some action, but okay."
+                    butters "Ты просто хочешь поговорить со мной? Я надеялась немного на другое, ну окей."
                     jump eveningbutterssucctalk
-                "Sex":
+                "Секс":
                     show butters closesucchorny with dissolve
-                    "You ask SuccuButters if she wants to do anything naughty, she nods eagerly and mounts you."
-                    butters "What do you want from me, big boy?"
+                    "Ты спрашиваешь СуккуБаттерс, не хочет ли она заняться чем-то грязным, она охотно кивнула и набросилась на тебя."
+                    butters "Что ты хочешь со мной, big boy?"
                     jump eveningbutterssuccsex
-                "Visit Poyo":
-                    "I try to enter Poyo's room, but the door is locked. She must be hiding from Butters."
+                "Навестить Пойо":
+                    "Я пытаюсь зайти в комнату Пойо, но дверь закрыта. Должно быть она прячется от Баттерс."
                     jump eveningbutterssuccmenu
                 "Go to Sleep" if livingwithbutters == 1:
                     butters "Can I suck your dick while you sleep?"
                     mc "Yeah sure, as long as you don't wake me up."
                     butters "Fuck yeah."
                     scene bg buttersbednight with dissolve
-                    "I go to bed. Butters soon snuggles up beside me and we doze off together."
+                    "Я пошёл спать. Вскоре Баттерс прижалась ко мне и мы вместе уснули."
                     jump morning
         label eveningbuttersmenu:
             menu:
@@ -68,66 +68,66 @@ label eveningbutters:
                     jump preworldmapnight
                 "Talk" if butterstalks == 0:
                     jump eveningbutterstalk
-                "Sex":
+                "Секс":
                     show butters closedresshorny with dissolve
-                    "You ask Butters if she wants to do something naughty, she nods eagerly and flashes you a tiddy."
+                    "Ты спрашиваешь Баттерс, не хочет ли она заняться чем-то непристойным, she nods eagerly and flashes you a tiddy."
                     jump eveningbutterssex
-                "Give Gift" if chocolates >= 1 or roses >= 1:
+                "Подарок" if chocolates >= 1 or roses >= 1:
                     menu:
-                        "Chocolates" if butterschocolates == 0 and chocolates >= 1:
+                        "Шоколадки" if butterschocolates == 0 and chocolates >= 1:
                             $ butterschocolates = 1
                             $ chocolates -= 1
                             $ buttersgifts += 1
-                            mc "By the way, these chocolates here, they're for you."
+                            mc "Между прочим, эти шоколадки, они для тебя)."
                             show butters dresslaughing with dissolve
-                            butters "Really, for me? That's so kind of you [playername], thank you so much!"
+                            butters "Правда, это для меня? Это так мило с твоей стороны, [playername], спасибо большое!"
                             mc "It's just a small gift to thank you for everything you've done for me so far."
                             show butters dresshappy with dissolve
-                            butters "You're so kind, I don't know what to say, ehehe."
-                            butters "Let's share them while we watch something!"
-                            "You've unlocked the Butters reverse cowgirl scene."
+                            butters "Ты такой добрый, не знаю что сказать, ихихи."
+                            butters "Давай разделим их за просмотром чего-нибудь!"
+                            "отрыта поза обратной наездницы с Баттерс."
                             jump eveningbuttersmenu
-                        "Roses" if buttersroses == 0 and roses >= 1:
+                        "Розы" if buttersroses == 0 and roses >= 1:
                             $ buttersroses = 1
                             $ roses -= 1
                             $ buttersgifts += 1
                             show butters dresshappy with dissolve
-                            mc "I've got a surprise for you!"
+                            mc "У меня есть сюрприз для тебя!"
                             show butters dresssurprised with dissolve
-                            "I reveal the bouquet of roses causing Butters to squee."
+                            "Я обнажил букет роз. Баттерс завизжала от счастья."
                             show butters closedresslaughing with dissolve
-                            "She runs up and hugs me tightly, kissing me on the lips."
+                            "Она подбежала и крепко обняв меня, поцеловала в губы."
                             show butters dresshappy with dissolve
-                            butters "I love roses, thank you so much!"
-                            butters "I'll get them water straight away."
-                            mc "Just a small show of appreciation, I really enjoy spending time with you."
-                            butters "Oh [playername], you're making me swoon in heart and heat."
+                            butters "Я обожаю розы, большое спасибо!"
+                            butters "Я сразу поставлю их в вазу."
+                            mc "Just a small show of appreciation, мне реально нравится проводить время с тобой."
+                            butters "Ох [playername], you're making me swoon in heart and heat."
                             show butters dresslaughing with dissolve
-                            butters "I can think of a few ways to reward you for being such an amazing housemate."
+                            butters "я подумаю над наградой для такого замечательного соседа."
                             "You've unlocked the Butters Leg-Up Doggystyle scene."
                             jump eveningbuttersmenu
-                        "Back":
+                        "Назад":
                             jump eveningbuttersmenu
-                "Visit Poyo":
+                "Посетить Пойо":
                     scene bg poyobedroom with dissolve
-                    "I go into Poyo's room."
+                    "Я вошёл в комнату Пойо."
                     show slimegirl with dissolve
                     $ rand = renpy.random.randint(1,3)
                     if rand == 3:
-                        "And catch her masturbating."
-                        poyo "Eek! You shoulda knocked, perv!"
+                        "И поймал её за мастурбацией."
+                        poyo "Иик! Стучаться не учили, извращенец!"
                     elif rand ==2:
-                        "She's playing some video games, gamer girl confirmed?"
-                        poyo "What's up?"
+                        "Она играет в  видеоигры, gamer girl confirmed?"
+                        poyo "Что случилось?"
                     else:
-                        "She's on a laptop. I hope she doesn't get too much slime on it."
-                        poyo "Hey, wanna hang out?"
+                        "Она за ноутбком. Я надеюсь она не зальёт его слизью."
+                        poyo "Хей, поболтаем?"
                     menu poyomenu:
                         "Talk" if poyotalks == 0:
                             jump poyotalk
-                        "Sex":
+                        "Секс":
                             jump poyosex
-                        "Leave":
+                        "Выйти":
                             scene bg buttershousenight with dissolve
                             show butters dresshappy with dissolve
                             jump eveningbuttersmenu
