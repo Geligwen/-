@@ -175,7 +175,7 @@ label eveningbutters:
                                     show moxie wlaughing with dissolve
                                 else:
                                     show moxie laughing with dissolve
-                                moxie "Но, если ты решишь прийти ради меня, тооо... я буду жарить тебя каждые выходные."
+                                moxie "Но, если ты решишь прийти ради меня, тооо... я буду трахать тебя до потери пульса каждые выходные."
                                 mc "Идёт!"
                                 if fr == 1:
                                     show moxie whorny with dissolve
@@ -222,20 +222,20 @@ label eveningbutters:
                     jump morning
     label eveningbutterssex:
         menu:
-            "Cowgirl":
+            "Наездница":
                 stop music fadeout 3.0
                 scene bg buttersbednight with dissolve
                 show butters happy with dissolve
-                "The two of us saunter over to the bedroom and she promptly undresses, while I lay down on the bed, prepared to get the ride of a life time."
+                "Мы оба пошли в спальню. Она неспеша раздевалась, пока я лежал на кровати в ожидании незабываемого заезда."
                 show butters closehorny with dissolve
-                "After folding her clothes, she seductively wiggles her hips as she approaches and mounts me."
+                "Полностью раздевшись, она соблазнительно качнула бёдрами и оседлала меня."
                 show butters cowgirl1 with dissolve
                 play music sex1 fadein 3.0
-                butters "I like to take things sensually and slow, if that's okay?"
+                butters "Мне нравится делать это чувственно и медленно, если ты не против"
                 mc "Of course, let's make love."
-                "My body grows hot at the display and my cock grows to point upwards against her belly, her feminine lubricant dripping down my shaft as she begins to grind against it."
+                "My body grows hot at the display and my cock grows to point upwards against her belly, её женские соки смазывали мой член, когда она начала ласкаться об него."
                 show butters cowgirl2 with dissolve
-                "But Butters doesn't waste any time with foreplay, she arches her back while sliding her plush pussy onto my cock."
+                "Но Баттерс не тратила времени на прелюдию, она выгнула спину, пока скользила своей бархотной киской по моему ????."
                 "She sinks down with a deliberate slowness, not once breaking eye contact."
                 "Her insides squeeze as her pussy spreads until she's finally at the hilt, fully impaled by every inch of my length."
                 butters "Oohh, it fills me up perfectly, let's have some fun..."
