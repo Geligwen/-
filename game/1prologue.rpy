@@ -198,47 +198,47 @@ label prologue:
         "Быстро кинув непристойный взгляд между ее ног, я увидел и ее вульву."
         "Неужели эта девка не стесняется своей наготы?"
         show moxie closehorny with dissolve
-        "After stealing a few glances, I sit down beside her. I may not know much about the situation, but she's distractingly sexy."
-        "As I sit, some of her fur grazes my thigh, it's incredibly soft and pleasant to the touch."
+        "Поймав ее взгляд, я сажусь рядом. Я не совсем понимаю, что происходит, но не могу сосредоточится из-за ее тела."
+        "Я чувствую, как ее мягкая шерсть нежно касается моего бедра, это так приятно."
         show moxie closehappy with dissolve
-        moxie "I can't believe you're the result of my spell... Talking and stuff... I'm excited, but also scared!"
+        moxie "Я не могу поверить, что ты появился из-за моего заклинания.... Говорящий... Это круто, но немного страшно!"
         show moxie closelaughing with dissolve
-        moxie "I can see you're already eyeing up my amazing body. You're not exactly subtle ya'know! Hahaha."
+        moxie "Я смотрю, ты не можешь отвести взгляд от моего великолепного тела. А как же твои манеры! Хехе."
         menu:
-            "I'd like to do a little more than just staring.":
+            "Ну я хочу не только смотреть.":
                 show moxie closeembarrassed with dissolve
-                moxie "Really? Ohhh sheesh... Actually, that feeds directly into what I was just about to say..."
-            "Sorry, it's difficult not to stare.":
+                moxie "О, правда? Оооо, блин... На самом деле, это как раз то, что я хотела предложить..."
+            "Ну извини, так сложно не смотреть на тебя":
                 show moxie closehappyneutral with dissolve
-                moxie "Hehe, that's good [playername]... It's a little awkward, but I think it's time to tell you why I summoned you here."
-            "Stay focused, I want to know why I'm here.":
+                moxie "Хехе, это хорошо [playername]... Мне немножко стыдно, но думаю самое время сказать, зачем я тебя призвала."
+            "Сосредоточься, я хочу знать, почему я здесь.":
                 show moxie closebashful with dissolve
-                moxie "Yeah, yeah... I was getting to that, you were just looking at my boobs."
-        moxie "You see, the great Moxie requires a male playmate."
+                moxie "Ну да, ну да... Я как раз собиралась тебе расскзать, а ты пялился на мои сиськи."
+        moxie "Видишь ли, великой Мокси нужен кто-нибудь, чтобы поиграть сам знаешь во что."
         show  moxie closehorny with dissolve
-        moxie "I'll have you know, I can get very horny."
-        "Really? She summoned me for sex?"
-        "And she's telling me that she's horny?"
-        "All whilst I'm right next to her."
-        "This is more than enough to get the blood flowing down there."
+        moxie "Ты должен знать, что я могу очень возбудиться."
+        "Серьезно? Она призвала меня для секса?"
+        "И она говорит мне, что возбуждена?"
+        "Она таак близкоо"
+        "Этого более чем достаточно, чтобы туда начала приливать кровь."
         menu:
-            "You summoned me for sex? Nice! When can we start?":
+            "Ты призвала меня для секса? Отлично! Когда начнем?":
                 show moxie closehorny with dissolve
-                moxie "Ahaha, I love your eagerness."
-                mc "Alright, what are we going to do?"
+                moxie "Ахаха, мне нравится твое рвение."
+                mc "Ладно, что мы будем делать?"
                 show moxie closeshy with dissolve
-                moxie "Uhm, actually, there's something bothering me."
-            "I feel mildly objectified and mildly aroused.":
+                moxie "Кх, на самом деле, меня кое-что беспокоит."
+            "Я чувствую себя твоей игрушкой и это слегка возбуждает":
                 show moxie closeembarrassed with dissolve
-                moxie "Objectified? But I didn't summon you specifically... That was an accident."
-                mc "Wait so, I could just be anyone?"
-                mc "You're not filling me up with much confidence there, Moxie."
+                moxie "Игрушкой? Но я же не специально тебя призвала... Так получилось."
+                mc "Подожди, значит я могу делать что хочу?"
+                mc "Не особо уверен, Мокси."
                 show moxie closeshy with dissolve
-                moxie "No, no... [playername]! We're totally bonding, we're like besties."
-            "Am I your sex slave? I don't know how I feel about that.":
+                moxie "Не, не... [playername]! Наши судьбы связаны, мы сейчас как лучшие друзья."
+            "Я твой секс-раб? Даже не знаю, как к этому относиться.":
                 show moxie closehorny with dissolve
-                moxie "Sex slave sounds kinda harsh, how about slave that has sex?"
-                mc "I think we'll need a few more rewordings until I'm satisfied."
+                moxie "Секс-раб звучит грубовато, как насчет раба, у которого есть секс?"
+                mc "Думаю надо еще раз переформулировать выражение, чтобы оно меня удовлетворило."
                 show moxie closeshy with dissolve
                 moxie "You know, this hasn't actually worked out perfectly, I do feel guilty that you have sentience."
                 moxie "I just wanted a mindless, faceless sex toy to keep me satisfied."
