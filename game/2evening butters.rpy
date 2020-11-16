@@ -27,7 +27,7 @@ label eveningbutters:
         else:
             if rand == 1:
                 show butters succsadistic with dissolve
-                butters "Изумительно, ночная закуска уже пришла."
+                butters "Изумительно, ночная закуска уже здесь."
                 jump eveningbutterssuccmenu
             else:
                 show butters dresshappy with dissolve
@@ -47,7 +47,7 @@ label eveningbutters:
                     jump eveningbutterssucctalk
                 "Секс":
                     show butters closesucchorny with dissolve
-                    "Ты спрашиваешь СуккуБаттерс, не хочет ли она заняться кое-чем грязным, она охотно кивнула и набросилась на тебя."
+                    "Ты спрашиваешь СуккуБаттерс, не хочет ли она заняться кое-чем развратным, она охотно кивнула и набросилась на тебя."
                     butters "Что ты хочешь сделать со мной, плохой мальчик?"
                     jump eveningbutterssuccsex
                 "Навестить Пойо":
@@ -103,7 +103,7 @@ label eveningbutters:
                             mc "Просто в знак благодарности, мне реально нравится проводить время с тобой."
                             butters "Ох [playername], ты заставляешь моё сердце замирать от счастья."
                             show butters dresslaughing with dissolve
-                            butters "я подумаю, как вознаградить такого замечательного соседа."
+                            butters "я подумаю, чем вознаградить такого прекрасного соседа."
                             "открыта Доггистайл сцена с Баттерс."
                             jump eveningbuttersmenu
                         "Назад":
@@ -158,7 +158,7 @@ label eveningbutters:
                                 play music wagon fadein 3.0
                                 moxie "Ты решил пожить у Баттерс? Конечно, я рада за тебя."
                                 moxie "Она немного странная, но если она не просит ренты, то почему бы и нет?"
-                                moxie "В конце концов это всего лишь в нескольких шагах отсюда, ты можешь навестить меня в любое время, и Хей! может быть и я тебя навещу!"
+                                moxie "В конце концов её дом всего в нескольких шагах отсюда, ты можешь навестить меня в любое время, и Хей! может быть это я тебя навещу!"
                                 mc "Ты уверена? я чувствую себя, как будто совершил проступок."
                                 if fr == 1:
                                     show moxie wlaughing with dissolve
@@ -170,13 +170,13 @@ label eveningbutters:
                                     show moxie whappyneutral with dissolve
                                 else:
                                     show moxie happyneutral with dissolve
-                                moxie "Конечно! Я всегда хотела, чтобы ты перерос этот tiny place."
+                                moxie "Конечно! Я всегда хотела, чтобы ты перерос это местечко."
                                 if fr == 1:
                                     show moxie wlaughing with dissolve
                                 else:
                                     show moxie laughing with dissolve
-                                moxie "But do visit, you are special to me aaannnddd, I wanna fuck you at least once a week."
-                                mc "Хорошо!"
+                                moxie "Но, если ты решишь прийти ради меня, тооо... я буду жарить тебя каждые выходные."
+                                mc "Идёт!"
                                 if fr == 1:
                                     show moxie whorny with dissolve
                                 else:
@@ -193,7 +193,7 @@ label eveningbutters:
                                 else:
                                     show moxie doggystyle4 with dissolve
                                 play ambience sex
-                                moxie "Оо да, да, даа! Я всегда останусь твоей сучкой, ааХХ ХааХ!"
+                                moxie "Оо да, да, даа! Я навсегда останусь твоей сучкой, ааХХ ХааХ!"
                                 play sound cum
                                 if fr == 1:
                                     show moxie wdoggystyle6 with dissolve
@@ -203,7 +203,7 @@ label eveningbutters:
                                 stop ambience fadeout 2.0
                                 scene bg black with dissolve
                                 "..."
-                                "Мокси и я бурно и грубо трахались до глубокой ночи, пока мы оба не свалились от изнеможения."
+                                "Мы с Мокси бурно и грубо трахались до глубокой ночи, пока мы оба не свалились от изнеможения."
                                 stop music fadeout 3.0
                                 show bg moxiebedday with dissolve
                                 "На утро я поцеловал Мокси, распрощался и направился к своему новому дому."
