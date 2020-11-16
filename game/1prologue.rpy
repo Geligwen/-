@@ -240,58 +240,58 @@ label prologue:
                 moxie "Секс-раб звучит грубовато, как насчет раба, у которого есть секс?"
                 mc "Думаю надо еще раз переформулировать выражение, чтобы оно меня удовлетворило."
                 show moxie closeshy with dissolve
-                moxie "You know, this hasn't actually worked out perfectly, I do feel guilty that you have sentience."
-                moxie "I just wanted a mindless, faceless sex toy to keep me satisfied."
-                mc "That sounds like a sex slave with extra steps."
+                moxie "Ну ты понимаешь, что я что-то не то наколдовала, поэтому чувствую себя виноватой в, том, что у тебя ест разум."
+                moxie "Я просто хотела безликую безликую секс-игрушку, которая бы меня удовлетворила."
+                mc "Это все равно звучит как секс рабсво."
                 show moxie closeangry with dissolve
-                moxie "No, no, you misunderstand. You're not supposed to be sentient."
-                mc "Ah."
+                moxie "Нет, нет, ты не понял. Ты не должен быть разумным.."
+                mc "Ох."
         show moxie closebashful with dissolve
-        moxie "I didn't expect you to be able to talk, and have a personality."
-        moxie "As much as I can play around as 'great and powerful', I certainly wouldn't get away with having a sentient slave! That's against at least a few laws."
+        moxie "Я не ожидал, что ты будешь уметь говорить и обладать личностью."
+        moxie "Сколько я пыталась быть великой и могучей, у меня никогда не было разумного раба! Это запрещено законом."
         show moxie closeserious with dissolve
-        moxie "I admit it, you're a real person, not a sex toy."
-        moxie "Which means you'd totally take the great and powerful Moxie's virginity! That'd be totally awkward and stuff, I barely know you."
-        "She has slowly come to terms that I'm a real person, an equal to her, and that's the first thing she's worried about?"
+        moxie "Я уже смирилась, что ты настоящая личность, а не сексуальная игрушка."
+        moxie "А это значит, что ты лишишь девственности великую и могущественную Мокси! Это было бы очень неловко и все такое, я тебя почти не знаю."
+        "Она постепенно смирилась с тем, что я реальный человек, равный ей, и это первое, о чем она беспокоится?"
         menu:
-            "Taking your virginity, doesn't that make it better?":
+            "Забрать твою девственность, разве это не делает все только интересней?":
                 show moxie closebashful with dissolve
-                moxie  "A little bit of column A, a little bit of column B."
+                moxie  "Отчасти да, отчасти нет."
                 show moxie closeshy with dissolve
-                moxie "I guess the biggest issue is that I'm majorly crushing on you, and it's starting to make me shy."
-                mc "Awh, that's adorable."
-            "Man, I can't believe I'm getting rejected by a girl that literally summoned me for sex.":
+                moxie "Я думаю, что самая большая проблема заключается в том, что ты мне понравился, и это меня смущает."
+                mc "Ууу, как это мило."
+            "Эх, не могу поверить, что меня отвергла девушка, которая буквально вызвала меня для секса.":
                 show moxie closeshocked with dissolve
-                moxie "Wha? No way, I wouldn't reject you. I'm just conflicted about moving so fast with a {i}real{/i} person."
+                moxie "Что? Я бы ни за что тебя не отвергла. Я просто борюсь внутренним противоречием, из-за того, что мои отношения с {i}настоящим{/i} человеком так быстро развиваются."
                 show moxie closehorny with dissolve
-                moxie "I've actually always wanted something like this, but it's happening so quickly, my heart is racing."
-                mc "I did magically appear in your house, it's overwhelming for me too."
-                moxie "*Sigh*, you're right, I'm being selfish."
+                moxie "Вообще-то я всегда хотела чего-то подобного, но это происходит так быстро, что мое сердце колотится как бешенное."
+                mc "Я тоже волшебным образом очутился в твоем доме, это и меня слегка ошеломляет."
+                moxie "*Вздох*, ты прав, я эгоистка."
         show moxie closebashful with dissolve
-        moxie "That doesn't change how I feel though... I'm still burning with desire... *Sigh*"
-        "Burning with desire? I'm going to get a boner, if she keeps dirty talking."
-        "Is her plan to sit here and tease me until I make a move? Or is she busy dealing with conflicting emotions?"
+        moxie "Это не меняет того,  как я себя чувствую... Я просто сгораю от желания... *Ох*"
+        "Сгораю от желания? Если она и дальше продолжит свои грязные разговорчики, у меня точно встанет."
+        "Неужели она собирается сидеть здесь и дразнить меня, пока я не сделаю первый шаг?? Или она занята борьбой с противоречивыми чувствами?"
         show moxie closesatisfied with dissolve
-        "At that moment, Moxie submissively leans over and cuddles herself into my chest, her bosom squished up against me."
-        moxie "You even smell good, this sucks."
-        mc "You smell good too..."
-        "It's almost like she's teasing me on purpose, I can feel myself getting more erect by the second."
-        mc "I'm still trying to wrap my head around all this new information. Do you actually want to fuck me?"
+        "В этот момент Мокси покорно наклоняется и прижимается к моей груди, я ощущаю тепло ее тела.."
+        moxie "Ты даже хорошо пахнешь, вот отстой."
+        mc "Ты тоже..."
+        "Она как будто специально меня дразнит, я чувствую, что с каждой секундой возбужда.сь все сильнее."
+        mc "Я все еще пытаюсь уложить в голове всю эту новую информацию. Ты точно этого хочешь?"
         show moxie closeshy with dissolve
-        moxie "Yeah maybe... Are you getting horny?"
+        moxie "Да, наверно...Ты завелся?"
         show moxie closehorny with dissolve
-        "Horny wouldn't even be able to describe how I feel right now. I'm fully erect, it's like my cock just couldn't control itself. She's even looking at it."
-        "I can feel my heart grow shy as this situation continues to draw out. I hadn't anticipated getting this nervous, but..."
-        mc "It would be my first time too."
+        "Завелся ли я? Этим словом невозможно описать то, что я ощущаю. Я просто пылаю, мой член меня просто не слушается. А она смотрит на него прямо сейчас..."
+        "Я чувствую, как в моей груди нарастает стеснение, из-за того, что ситуация затягивается затягиваться. Я не ожидал, что буду так нервничать, но..."
+        mc "Это тоже мой первый раз."
         show moxie closesad with dissolve
-        moxie "Well... Since it's both our firsts, we should go slowly and build up to the grand finale."
-        mc "How slowly though? How about a blowjob?"
+        moxie "Что ж... Поскольку у нас это впервые, мы должны идти медленно и готовиться к грандиозному финалу."
+        mc "Насколько медленно? Как насчет минета?"
         show moxie closeangry with dissolve
-        moxie "Awh dude, you're so lazy!"
-        moxie "I summoned you here to please me, and now you're asking me to do all the work?"
-        mc "I can eat you out too."
+        moxie "Ай-ай-ай, чувак, какой же ты лентяй!"
+        moxie "Я вызвал тебя сюда, чтобы ты доставил мне удовольствие, а теперь ты просишь меня сделать всю все за тебя?"
+        mc "Я тоже тебя вылижу."
         show moxie closehorny with dissolve
-        moxie "Now you're speaking my language."
+        moxie "Наконец-то ты заговорил на моем языке."
         "Moxie leans over and brings her face close to my erection. This feels slightly weird, like she said, I have technically just met this girl, and she's not even human..."
         mc "Wait a second!"
         show moxie closeangry with dissolve
