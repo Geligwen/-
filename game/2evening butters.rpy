@@ -236,12 +236,12 @@ label eveningbutters:
                 "My body grows hot at the display and my cock grows to point upwards against her belly, её женские соки смазывали мой член, когда она начала ласкаться об него."
                 show butters cowgirl2 with dissolve
                 "Но Баттерс не тратила времени на прелюдию, она выгнула спину, пока скользила своей бархотной киской по моему ????."
-                "She sinks down with a deliberate slowness, not once breaking eye contact."
-                "Her insides squeeze as her pussy spreads until she's finally at the hilt, fully impaled by every inch of my length."
-                butters "Oohh, it fills me up perfectly, let's have some fun..."
+                "Не сводя с меня взгляда она мучительно медленно начала нанизываться на мой стержень."
+                "Стенки влагалища сжимались, а её лепестки растягивались пока она полностью не насадилась на всю длину моего дрына."
+                butters "Оохх, он идеально сидит во мне, let's have some fun..."
                 play ambience sex fadein 3.0
-                "She coos and rubs her clit for a few seconds while her hips begin to grind back and forth."
-                "Her tight wet pussy squeezes and sucks around my cock in rhythmic motions as if her pussy is trying to drain me dry."
+                "Она ласкала и поглаживала свой клитор пока её бедра скользили вверх и вниз."
+                "Её тугая влажня киска обтягивает и обсасывает мой член в ритмичных движениях, как будто пытается вытянуть из меня всё до последней капли."
                 "Even her 'normal' form still has powerful succubus sex qualities which are apparent by the immense pleasure"
                 "She bites her lip when she notices my hips rocking to match her own pace, bouncing her up and down and making her large pillowy tits jiggle as the intensity increases."
                 butters "Haahh, this feels really good, I want to feel your thick load inside me..."
@@ -250,17 +250,17 @@ label eveningbutters:
                 "She strokes my cheek knowingly and smiles."
                 butters "It's okay if you cum prematurely darling, my succubus side will always make it so you'll have to cum for me."
                 show butters cowgirl3 with dissolve
-                butters "Are you ready, baby? My womb is waiting..."
+                butters "Ты готов, малыш? My womb is waiting..."
                 play sound cum
                 show butters cowgirl4 with cum
                 play sound cum
                 show butters cowgirl4 with cum
-                "My body tenses and my mind is overwhelmed with euphoria as my orgasm is unleashed and a torrent of hot cum erupts deep into Butters's eager pussy."
+                "Моё тело напряглось до предела, а мой разум утонул в эйфории, когда мой оргазм высвободился и поток горячего семени хлынул в жаждущую киску Баттерс."
                 play sound cum
                 show butters cowgirl4 with cum
                 play sound cum
                 show butters cowgirl4 with cum
-                butters "Ahhh, ahhh, yes! Don't hold back, [playername]!"
+                butters "Аххх, Аххх, ДА! Не сдерживайся, [playername]!"
                 "She quivers, riding with increased passion as her womb is filled up. Her eyes rolling back as her own orgasm takes control."
                 "Butters's tongue hangs lewdly from her mouth as she's pumped with multiple loads of my cum, far more than I should ever let out in a regular orgasm."
                 stop music fadeout 3.0
@@ -268,7 +268,7 @@ label eveningbutters:
                 hide butters with dissolve
                 "We're both left panting as she flops off me, grinning blissfully and rubbing her curse mark satisfied."
                 show butters closesatisfied with dissolve
-                butters "Mmm... Proper sex feels far too good, I'm so glad I met you."
+                butters "Ммм... Proper sex feels far too good, I'm so glad I met you."
                 "She gives me a wet kiss as we embrace and slowly fall asleep."
                 scene bg black with dissolve
                 "..."
