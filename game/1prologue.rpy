@@ -292,38 +292,38 @@ label prologue:
         mc "Я тоже тебя вылижу."
         show moxie closehorny with dissolve
         moxie "Наконец-то ты заговорил на моем языке."
-        "Moxie leans over and brings her face close to my erection. This feels slightly weird, like she said, I have technically just met this girl, and she's not even human..."
-        mc "Wait a second!"
+        "Мокси наклоняется и приближает свое лицо к моему стояку. Это кажется немного странным, как она и сказала, технически я только что встретил эту девушку, и она даже не человек..."
+        mc "Погоди секунду!"
         show moxie closeangry with dissolve
-        moxie "Eugh, way to kill the mood."
+        moxie "Ыы, ты умеешь убить весь настрой."
         show moxie closeneutral with dissolve
-        moxie "Fine, I get it, if you don't want to do it, I won't force you..."
-        mc "I do want to, but... When can I go back home?"
+        moxie "Понимаю, если ты не хочешь этого делать, я не буду тебя заставлять..."
+        mc "Я действительно хочу, но..... Когда я смогу вернуться домой?"
         show moxie closeshocked with dissolve
-        moxie "Uh... Back home?"
-        mc "Yeah, I can't stay here forever; I'll sleep with you, but you'll have to send me back afterwards."
-        moxie "But... I have no idea how to send you back... It might take me a few days, maybe weeks..."
+        moxie "Эм... Вернуться домой?"
+        mc "Да, я не могу оставаться здесь вечно; я буду спать с тобой, но потом тебе придется отправить меня обратно."
+        moxie "Но... Я понятия не имею, как отправить тебя обратно... Это может занять несколько дней, а может и недель..."
         show moxie closesad with dissolve
-        mc "Oh..."
-        moxie "But, I swear, I will do everything in my power to help you get back."
+        mc "Ох..."
+        moxie "Но, клянусь, я сделаю все, что в моих силах, чтобы помочь тебе вернуться.."
         show moxie closehappy with dissolve
-        moxie "Magic works in mysterious ways, [playername]. I'll find a way, I promise."
-        mc "Okay, I don't know much about magic, but I have faith in you."
+        moxie "Пути магии неисповидимы, [playername]. Но я найду этот путь, обещаю.."
+        mc "Ладно, я не очень разбираюсь в магии, но верю в тебя."
         show moxie closelaughing with dissolve
-        moxie "Ahah, perfect! How about we spice up the deal?"
-        mc "Deal? I didn't know we were forming a deal."
+        moxie "Ахах, прекрасно! Как насчет того, чтобы обновить сделку?"
+        mc "По рукам? Я не знал, что мы заключили сделку."
         show moxie closehappy with dissolve
-        moxie "In exchange for trying to send you back: I'll let you stay in my wagon, I'll make you dinner, and I'll let you sleep in my super comfy bed."
+        moxie "Я буду пытаться отправить тебя обратно, и в обмен на это: Я позволю тебе остаться в моем фургоне, я буду готовить тебе еду и позволю спать в моей супер удобной кровати."
         show moxie closehappyneutral with dissolve
         mc "Oohhh, not bad... And the catch?"
         show moxie closehorny with dissolve
-        moxie "If you're going to stay, you'll need to satisfy my sexual desires."
+        moxie "Если ты собираешься остаться, тебе нужно будет удовлетворить мои сексуальные желания."
         menu:
-            "You've got a deal.":
+            "Сделка заключена.":
                 show moxie closehappy with dissolve
-                moxie "Awesome! Let's not wait around, let's start upholding your end of the deal immediately."
-                mc "This is almost too good to be true."
-            "I'm not sure.":
+                moxie "Отлично! Давайте не будем ждать, а начнем немедленно исполнять твою часть сделки."
+                mc "Звучит слишком хорошо, чтобы быть правдой."
+            "Я не уверен...":
                 show moxie closesad with dissolve
                 moxie "Well... I kinda screwed up, so you have nowhere else to go."
                 mc "Yeah... I guess you're right..."
