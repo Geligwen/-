@@ -330,7 +330,7 @@ label prologue:
                 "I weigh up the options in my head for a moment... If I really am trapped in another world, I probably need all the friends and connections I can get."
                 mc "Fine, I reluctantly agree; as long as I get my blowjob."
                 show moxie closehappy with dissolve
-                moxie "Awesome! Let's not wait around, let's start upholding your end of the deal immediately."
+                moxie "Шикарно! Let's not wait around, let's start upholding your end of the deal immediately."
     label intro53:
         $ intro69replay = 0
     label intro69:
