@@ -11,92 +11,92 @@ label bakery:
     else:
         jump bakeryday
     label bakeryvisit1:
-        "The bakery will be fun to work at, if I’m lucky I might be able to lick the spoons! Actually, that’s a terrible idea, this is a professional establishment, not my grandma’s kitchen."
+        "В кондитерской будет весело работать, если мне повезёт, я смогу полизать ложки! Хотя, это ужасная идея, ведь это профессиональное заведение, а не кухня моей бабушки."
         show bg bakerydoor with dissolve
-        "When I arrive at the bakery I move to give the door a knock but it immediately bursts open!"
+        "Когда я добрался до кондитерской, я подошёл постучаться в дверь, но внезапно она открылась нараспашку!"
         play music cream1
         show cream neutral with dissolve
-        cream "Oh mi gosh! [playername]! What are you doing out here? Come right in! Oh I'm so excited!"
+        cream "Обожечки! [playername]! Что ты здесь делаешь? Заходи! Ой, я так рада!"
         mc "???"
         show cream happy with dissolve
-        cream "Come on [playername]! You're the main guest of the party! I've been waiting for you."
+        cream "Заходи, [playername]! Ты главный гость на вечеринке! Я ждала тебя."
         scene bg bakery with dissolve
-        "I take a step in; but this isn't exactly a party, the room is empty!"
+        "Я делаю шаг внутрь, но встречает меня отнюдь не вечеринка: комната пустая!"
         show cream laughing with dissolve
-        cream "Okay, so, we need a guest list, we need decorations, streamers, lots of cakes, maybe a cannon!"
-        cream "Ohh, and I'll make my super alcoholic punch, it'll be so much fun!"
-        mc "Pardon me, but what's your name? And how do you know mine?"
+        cream "Хорошо, нам нужен список гостей, а также нам понадобятся декорации, ленточки, много тортов и, может быть, пушка!"
+        cream "У-у-у, и я сделаю свой супер-алкогольный пунш, это будет так весело!"
+        mc "Подожди, но как тебя зовут? И откуда ты знаешь моё имя?"
         show cream happy with dissolve
-        cream "Can't you read it? I'm called Cream! And I know all about you, because uhm, Penny's note of course!"
+        cream "Разве не видно? Меня зовут Крем! И я знаю всё о тебе, благодаря... хммм, записке Пенни, конечно же!"
         if days > 5:
-            "That’s odd… There were other girls that didn’t know my name."
-        mc "Riiight, so you should know that I'm here to work?"
+            "Странно… Некоторые другие девушки не знали моего имени."
+        mc "Тоооочно, тогда ты должна знать, что пришёл сюда поработать?"
         show cream neutral with dissolve
-        cream "Of course! I've been thinking about it and planning for [days] days!"
+        cream "Конечно! Я думала об этом и планировала в течение [days] дней!"
         if days > 15:
             show cream sad with dissolve
-            cream "You took a long time to come and visit me... I hope you don't dislike me, [playername]!"
-            mc "Ahh, I'm sorry... I got caught up with-"
+            cream "Ты очень долго не приходил увидеться со мной... Я надеюсь, что я тебе не не нравлюсь, [playername]!"
+            mc "Ах, мне так жаль... Я был занят-"
             show cream althappy with dissolve
-            cream "With everyone else? Sure... But that's perfect!"
-        cream "Because we're going to organise a huge party and invite all your friends!"
-        mc "Okay, can we take a few steps back? You seem awfully familiar with me, but I've just met you."
-        "This girl also seems remarkably unphased by the fact I’m not a pony, I think that's a first among everyone I've met so far."
+            cream "Другими девушками? Конечно... Но это как раз идеально!"
+        cream "Потому что мы организуем огромную вечеринку и пригласим всех твоих друзей!"
+        mc "Хорошо, мы можем чуть попридержать лошадей? Ты явно хорошо знакома со мной, но я тебя впервые вижу."
+        "А ещё эта девушка выглядит нисколько не впечатлённой тем фактом, что я не пони, мне кажется, это впервые среди тех, кого я уже встретил."
         show cream laughing with dissolve
-        cream "Oh right! Okay, let's start from the beginning!"
+        cream "А, точно! Ладно, давай начнём с самого начала!"
         show cream embarrassed with dissolve
-        cream "Woah! What the heck are you? A furless pony?"
-        mc "Huh? Furless pony? I guess you could call me that."
+        cream "Воу! Кто ты, блин такой? Бесшерстный пони?"
+        mc "А? Бесшёрстный пони? Наверное, меня так можно назвать."
         show cream neutral with dissolve
-        cream "Haha, you don’t wanna explain the full story? You're probably used to hearing the same charade over and over!"
-        cream "Don’t worry about it, my empathy skill is overclocked!"
-        cream "I could see it all over your face, ‘when is she going to point out that I’m not a pony’."
-        cream "But when you party Cream style, appearances don’t matter!"
-        cream "And that includes in bed as well! I wouldn't mind if we put some whipped cream on these buns! If you know what I mean, hehe."
+        cream "Хаха, не хочешь объяснять всё это снова? Должно быть, ты уже привык слушать весь этот фарс снова и снова!"
+        cream "Не переживай, мой навык эмпатии зашкаливает!"
+        cream "У тебя это на лице написано: ‘когда же она укажет, что я не пони’."
+        cream "Но когда ты зажигаешь как Крем, внешность не важна!"
+        cream "То же самое и в постели! Я бы не была против, если бы мы нанесли взбитые сливки на эти булочки! Если ты понимаешь, о чём я, хехе."
         show cream happy with dissolve
-        mc "I think I know what you mean, so let's get to baking, then?"
+        mc "Мне кажется, я понял, что ты имела в виду, так что, может, приступим к готовке?"
         show cream horny with dissolve
-        cream "No, it was an innuendo! I meant cum, on my ass, [playername]."
-        mc "You're moving a bit quick, don’t you think?"
+        cream "Нет же, это был сексуальный подтекст! Я имела в виду сперму, на моей заднице, [playername]."
+        mc "Не слишком ли ты торопишь события?"
         show cream laughing with dissolve
-        cream "Oh, you’re right, I should wait at least until the second act of this day."
+        cream "О, ты прав, я должна подождать хотя бы до второй половины этого дня."
         show cream happy with dissolve
-        cream "Ah, who am I kidding? We’ll probably have sex within ten to twenty minutes!"
-        mc "I have to say, you’re one of the most sexually forward mares I’ve met in the suburbs."
+        cream "Ай кого я обманываю? Вероятнее всего, у нас будет секс в течение следующих десяти или двадцати минут!"
+        mc "Должен признать, ты одна из наиболее прямолинейных в сексуальном плане кобыл из тех, кого я встречал в пригороде."
         show cream althappy with dissolve
-        cream "And that’s saying a lot! What do you say, do you like me?"
-        mc "Hm, maybe… You are quite cute."
+        cream "И это говорит о многом! Что скажешь, я тебе нравлюсь?"
+        mc "Хм, может... Ты довольно милая."
         show cream horny with dissolve
-        cream "Ooh, I’d let you sink your teeth into me, like a juicy peach."
-        cream "Squelch, as the warm juice runs down your face."
-        mc "Okay, okay, I get it! Thing is, I’m not here just for sex, or a party."
+        cream "Уух, я бы тебе позволила вонзить в меня твои зубы, прямо как в сочный персик."
+        cream "Хрусть - и тёплый сок стекает по твоему лицу."
+        mc "Ладно, ладно, я понял! Но всё же, я здесь не только ради секса или вечеринки."
         show cream sad with dissolve
-        cream "I mean you want sex, don’t you? That’s why you’re here?"
-        mc "You must be confused, Penelope sent me here to work at the bakery, I’m not some kind of sex worker."
-        mc "I thought you knew that."
+        cream "Но ты же хочешь секса, разве нет? Ты ведь здесь за этим?"
+        mc "Ты что-то путаешь. Пенелопа отправила меня сюда, чтобы я поработал в кондитерской. Я не какой-то работник сферы сексуальных услуг."
+        mc "Мне казалось, ты об этом знала."
         show cream embarrassed with dissolve
-        cream "Pffft… I-I thought the note was saying you and I were going to work together to have a big party with all the other people on that list!"
-        cream "So, you’re not here to party? And you’re not here for sex? Totally lame…"
-        cream "Well, I know! We’re going to bake some delicious cakes today, that’s just what we need to get the party going."
-        mc "I-uh, we're still doing that party thing? Alright, let’s bake some cakes then."
+        cream "Пффф… Я-я думала, в записке было указано, что ты и я будем работать вместе, чтобы устроить большую вечеринку со всеми в этом списке!"
+        cream "То есть, ты тут не ради вечеринки? И не ради секса? Отстой…"
+        cream "Ладно, я знаю! Сегодня мы будем готовить вкусные тортики. Это то, что надо для хорошей тусовки."
+        mc "Я-ам, мы всё ещё собираемся устроить эту вечеринку? Хорошо, давай тогда готовить торты."
         scene bg bakerykitchen with dissolve
-        "I follow her into the kitchen, I can’t avert my eyes as her booty sways back and forth."
-        "Ponies are always naked, but I’m fairly sure her tail isn’t supposed to sway that much. Is she trying to tease me?"
-        mc "Talk me through today's plan then, we're going to be running the shop, so what's this about a 'party'?"
+        "Следуя за ней на кухню, я не могу оторвать взгляд от того, как виляет из стороны в сторону её попка."
+        "Пони всегда голые, но я вполне уверен, что её хвост не должен так сильно качаться. Она что, пытается меня дразнить?"
+        mc "Давай тогда обговорим план на сегодя, мы будем работать в магазине… Но я не совсем понял насчёт этой 'вечеринки'."
         show cream happy with dissolve
-        cream "I'm going to send mail to everyone, and tell them to come here tonight! It's gonna be awesome!"
-        cream "And yes! We'll be running the store like normal until closing time."
-        mc "Alright, that sounds like it could be fun. Let's get on with the baking then."
+        cream "Я отправлю всем письма с приглашениями на сегодняшний вечер! Это будет круто!"
+        cream "И да! Управлять магазином мы будем, как обычно, до закрытия."
+        mc "Ладно, звучит довольно весело в перспективе. Давай тогда начнём готовить."
         show cream smug with dissolve
-        cream "You oughta loosen up a bit [playername], how about some music!"
+        cream "Ты должен расслабиться, [playername], как насчёт музыки?"
         play music inlove
-        "The white pony puts on some party songs; the tracks remind me of the songs that would play at my middle school discos."
-        "This girl is nuts; I hope she hasn’t just broken into this building and is pretending to live here or something."
+        "Белая пони поставила какую-то музыку для вечеринок; эти треки напомнили мне о песнях, которые могли бы играть на дискотеке в моей средней школе."
+        "Эта девчонка безумная; я искренне надеюсь, она не вломилась в здание и не притворяется, что живёт тут, или что-то в таком духе."
         show cream neutral with dissolve
-        cream "It’s not easy running such a great bakery by myself! Watch and learn..."
-        "She quietly hums to the lyrics of the music as she preheats an oven, gets ingredients out and starts flicking through a recipe book with an oddly compelling prowess. She's definitely not a squatter."
-        "Meanwhile I’m just standing here like a wet noodle watching her do all the work."
-        "Did we just start working? Am I being paid now? I'm not doing anything."
+        cream "Не так-то и просто управлять такой классной кондитерской в одиночку! Смотри и учись..."
+        "Она тихо мычит в такт тексту песни, пока разогревает духовку, достаёт ингридиенты и листает книгу рецептов с заметной решительностью. Она точно здесь не чужая."
+        "Тем временем, я просто стою как неприкаянный, наблюдая за её работой."
+        "Начали ли мы уже работать? Платят ли мне за это? Я же ничего не делаю…"
 
         menu:
             "What if a customer comes in while we’re back here?":
