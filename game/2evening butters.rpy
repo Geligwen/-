@@ -261,7 +261,7 @@ label eveningbutters:
                 play sound cum
                 show butters cowgirl4 with cum
                 butters "Аххх, Аххх, ДА! Не сдерживайся, [playername]!"
-                "She quivers, riding with increased passion as her womb is filled up. Her eyes rolling back as her own orgasm takes control."
+                "Её свело судорогами, riding with пылая страстью as her womb is filled up Скачущую на мне, пылающей страстью, наполненную, её свели судороги. Её глаза закатились, когда её собственный оргазм взял верх."
                 "Butters's tongue hangs lewdly from her mouth as she's pumped with multiple loads of my cum, far more than I should ever let out in a regular orgasm."
                 stop music fadeout 3.0
                 stop ambience fadeout 3.0
@@ -275,21 +275,21 @@ label eveningbutters:
                 if livingwithbutters == 0:
                     scene bg black with dissolve
                     show  bg buttersbed with dissolve
-                    "In the morning I kiss Butters goodbye and return home."
+                    "На утро я поцеловал Баттерс, попрощался и вернулся домой."
                     scene bg black with dissolve
                     "..."
                     jump altmorning
                 else:
                     jump morning
-            "Reverse-Cowgirl" if butterschocolates == 1:
+            "Наездница наоборот" if butterschocolates == 1:
                 scene bg buttersbednight with dissolve
                 play music sex1 fadein 3.0
-                "The two of us saunter over to the bedroom and she promptly undresses, while I lay on the bed."
+                "Мы вдвоем неторопливо идем в спальню, и она быстро раздевается, пока я лежу на кровати."
                 show butters closehorny with dissolve
-                "Butters turns around and blushes as she sees me laid on my back, she skips the distance between us and gets on the bed."
-                "She begins to stroke my cock with one hand with a lecherous grin."
-                butters "Ohh, you got erect so quickly, you were ready for this..."
-                butters "I'm ready too [playername], just lay down and I'll make it all better."
+                "Баттерс оглянулась вокруг и покраснела, когда увидела меня лежащего на спине, она подходит к кровати и садится на неё."
+                "She begins to stroke my cock with one hand с похотливой ухмылкой."
+                butters "Охх, так бысто возбудился, ты уже готов..."
+                butters "Я тоже готова, [playername], просто расслабься и позволь мне сделать всё самой."
                 show butters reversecowgirl1 with dissolve
                 "She coos as she kisses the tip of my cock, before straddling me and slowly lowering herself, sliding down my cock until hilt in one smooth motion."
                 "With my cock fully buried inside of her, I spread her pillowy cheeks with my hands and get a good view of her dripping wet pussy."
