@@ -832,7 +832,7 @@ label eveningbutters:
                     pass
                 scene bg buttersbednight with dissolve
                 play music sex1 fadein 3.0
-                "The two of us saunter over to the bedroom and she pushes me down onto the bed."
+                "Мы зашли в спальню и одним движением она повалила меня на кровать."
                 show butters closesucchorny with dissolve
                 butters "Oh yeah, I'm gonna fuck you real good."
                 "Butters turns around and wiggles her butt with a lecherous grin, while she begins to stroke my cock."
@@ -848,7 +848,7 @@ label eveningbutters:
                 mc "It's true!"
                 "In response, I rock my hips into her movements, causing her ass to thwap against with the force of us both in our rut."
                 "Butters giggles and moans with glee as she lecherously gyrates and bounces against me for long salacious minutes that leave us both in euphoria."
-                "Her succubus pussy is even more pleasureful than her regular form, forcing my cock to cum far sooner."
+                "В обличии суккуба её pussy гораздо приятнее обычного,что завставляет меня кончить намного быстрее."
                 play sound cum
                 show butters succreversecowgirl2 with cum
                 play sound cum
