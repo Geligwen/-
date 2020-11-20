@@ -596,8 +596,8 @@ label eveningbutters:
                 scene bg buttersbedday with dissolve
                 "She wanders to the bedroom with a skip in her step, before cartoonishly diving onto the bed and jiggling her tits."
                 show butters paizuri2 with dissolve
-                "I like her playful side."
-                "I position myself below her on the bed, and lay down between her thighs. Butters takes it upon herself to sit on my thighs, her nude figure arousing me to the point of erection."
+                "Мне нравится её игривость."
+                "I position myself below her on the bed, and lay down between her thighs. Butters takes it upon herself to sit on my thighs, её обнажённая фигура  me to the point of erection."
                 "With little hesitation, she begins to stroke my shaft until my tip throbs and dribbles with precum. Some drops of milk splattering onto my skin."
                 "Once she’s satisfied, she lowers her entire body and prepares to put her pillowy bosom to good work."
                 show butters paizuri3 with dissolve
