@@ -104,7 +104,7 @@ label eveningbutters:
                             butters "Ох [playername], ты заставляешь моё сердце замирать от счастья."
                             show butters dresslaughing with dissolve
                             butters "я подумаю, чем вознаградить такого прекрасного соседа."
-                            "открыта Доггистайл сцена с Баттерс."
+                            "открыта поза Доггистайл с Баттерс."
                             jump eveningbuttersmenu
                         "Назад":
                             jump eveningbuttersmenu
@@ -181,7 +181,7 @@ label eveningbutters:
                                     show moxie whorny with dissolve
                                 else:
                                     show moxie horny with dissolve
-                            moxie "Хотяя, эммм..."
+                            moxie "Хотяя, ухммм..."
                                 stop music fadeout 3.0
                                 scene bg black with dissolve
                                 pause 1.5
@@ -244,7 +244,7 @@ label eveningbutters:
                 "Её тугая влажня киска обтягивает и обсасывает мой член в ритмичных движениях, как будто пытается вытянуть из меня всё до последней капли."
                 "Even her 'normal' form still has powerful succubus sex qualities which are apparent by the immense pleasure"
                 "She bites her lip when she notices my hips rocking to match her own pace, bouncing her up and down and making her large pillowy tits jiggle as the intensity increases."
-                butters "Haahh, this feels really good, I want to feel your thick load inside me..."
+                butters "Хаахх, this feels really good, I want to feel your thick load inside me..."
                 "Her movements are adept as she takes my entire cock from glans to hilt in her rapid assault of thrusts."
                 "In no time at all, my cock is feeling tight and full, almost ready to burst into Butters's dribbling cunt."
                 "She strokes my cheek knowingly and smiles."
