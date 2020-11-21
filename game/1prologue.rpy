@@ -321,66 +321,66 @@ label prologue:
         menu:
             "Сделка заключена.":
                 show moxie closehappy with dissolve
-                moxie "Отлично! Давайте не будем ждать, а начнем немедленно исполнять твою часть сделки."
+                moxie "Шикарно! Давай не будем ждать, а начнем немедленно исполнять твою часть сделки."
                 mc "Звучит слишком хорошо, чтобы быть правдой."
-            "Я не уверен...":
+            "Ну не знаю...":
                 show moxie closesad with dissolve
-                moxie "Well... I kinda screwed up, so you have nowhere else to go."
-                mc "Yeah... I guess you're right..."
-                "I weigh up the options in my head for a moment... If I really am trapped in another world, I probably need all the friends and connections I can get."
-                mc "Fine, I reluctantly agree; as long as I get my blowjob."
+                moxie "Да уж... опять я все испортила, теперь тебе некуда идти."
+                mc "Ну... Возможно ты права..."
+                "Мне надо взвесить все \"за\" и \"против\"... Если я действительно застрял в другом мире, мне, вероятно, потребуются все друзья и связи, которые я могу получить."
+                mc "Ладно, придется согласится; а пока я получаю свой минет."
                 show moxie closehappy with dissolve
-                moxie "Шикарно! Let's not wait around, let's start upholding your end of the deal immediately."
+                moxie "Шикарно! Давай не будем ждать, а начнем немедленно исполнять твою часть сделки."
     label intro53:
         $ intro69replay = 0
     label intro69:
         stop music fadeout 5.0
         show moxie closehorny with dissolve
-        "Slowly lowering from my chest to my thighs, Moxie gets in-between my legs. Almost entranced, she stares at my member, perhaps thinking of her next move. "
-        moxie "It’s kinda big… Isn't it? I don’t know, I think it is. Just seeing it like this… I feel like I’m melting."
-        "She seems naïve in an endearing way; she brings one of her hands to my shaft and starts to clumsily jerk me off."
-        "It's clearly her first time as she's predominantly experimenting and getting a feel for my cock."
-        moxie "Staring at it makes me feel so hot, I’ve never felt this horny before."
+        "Медленно спускаясь от груди к моим бедрам, Мокси оказывается у меня между ног. Она замерла, зачаровано смотря на мой член, будто обдумывая свои дальнейшие действия."
+        moxie "Ого, какой большой, не правда? Я точно не знаю, мне так кажется. Я просто так вижу… Ох, я словно таю..."
+        "Она выглядит наивной, и это даже мило; она охватило древко одной рукой и начала неумело совершать возвратно-поступательные движения вверх и вниз."
+        "Это явно ее первый раз, так как она экспериментирует и примеряется к моему член."
+        moxie "При взгляде на него мне становится так жарко, я никогда раньше так не пылала."
         hide moxie closehorny with dissolve
         play music sex1 fadein 40.0
         play ambience blowjob
         show moxieb blowjob
         show moxie blowjob2
         with dissolve
-        "Moxie shuffles a little closer and brings her muzzle close to the tip, she genuinely hasn’t taken her eyes off it this entire time. Timidly, she opens her mouth and puts the tip of it inside."
+        "Мокси подвинулась поближе и тихонько придвинула свою мордочку к вершине моего древка, все это время она просто не сводила с него глаз. Она робко открывает рот и засовывает его кончик внутрь."
         show moxie blowjob1 with dissolve
-        moxie "Aahh, t-this is technically my first ever… But it doesn’t count right? You’re just my sex toy…"
-        mc "Hold on, you said that I wasn't a sex toy."
-        moxie "Ehehe, play along [playername], it makes it even hotter..."
+        moxie "Ааах, э-это технически мой первый раз в жизни… Но это ведь не считается, да? Ты просто моя игрушка.…"
+        mc "Погоди, ты же сказал, что я не секс - игрушка."
+        moxie "Ехехе, подыгрывать мне, [playername], от этого становится еще жарче..."
         show moxie blowjob2 with dissolve
-        "She sticks out her tongue and presses it against my member, sliding it back and forth. "
-        "Her tongue is hot and moist, much longer than a human’s too. It’s warmth trails from the bottom of my shaft to the tip, sloppily spreading saliva along my length. "
+        "Она высунула свой язычок и нежно прижала его к моему члену, двигая его взад и вперед. "
+        "Ее язык горячий и влажный, гораздо длинее, чем у человека.. Я чувствую это тепло от основания моего ствола до кончику, оно окутавет всю его длину, небрежно погружая его в слюну. "
         show moxie blowjob1 with dissolve
-        moxie "*Mmmphh* I can’t even think straight… No, no, I can’t think at all…"
-        "Her incoherent babblings are cute. Her hand around the base of my cock begins a series of shallow thrusts, while her tongue works my glans "
+        moxie "*Ммммфхх* Я просто не соображаю… Нет, нет, я совсем не могу думать.…"
+        "Ее бессвязное бормотание звучит очень мило. Пока ее язычок работает с кончиком, рука занята основанием, двигаясь вверх и вниз "
         show moxie blowjob3 with dissolve
-        moxie "*Mmphh* *Slurp* *Lick* *Schlurp*"
-        "She’s drooling a lot, there’s something primal and lustful about her movements. "
-        "Even though her technique is sloppy, her tongue is unyielding, as it circles around the most sensitive parts of my tip. She doesn’t even take a second to breathe."
+        moxie "*Ммфхх* *Чмок* *Лизь* *Глоть*"
+        "Изо рта капает слюна, есть что-то первобытное и похотливое в ее движениях. "
+        "Хотя она делает неаккуртано, ее язык грубо наматывает круги вокруг самой чувствительной части верхушки. Она даже не успевает вздохнуть.."
         show moxie blowjob1 with dissolve
-        moxie "Ish throbbing… Just like me… *Mmphh* *Lick*"
+        moxie "Он дрожит… Прямо как я… *Ммффх* *Лизь*"
         show moxie blowjob2 with dissolve
-        "Moxie’s spare hand disappears under her, I can only imagine it fervently rubbing her needy pussy. What I can't imagine is the overwhelming desire she must feel, it’s like she’s barely in control anymore. "
-        "I allow myself to sink back into Moxie’s comfy sofa, I was a little on edge at first, but this isn’t so bad. I’ve only had one blowjob before, but this one is already better, her longer, warmer and wetter tongue feels fantastic. "
+        "Её свободная рука скользнула вниз, я могу только представить, как горячо она гладит жаждующую киску. А вот чего я не могу себе представить, так это насколько непреодолимое желание охватывает ее, похоже, она уже почти не контролирует себя.. "
+        "Я позволяю себе откинуться на диван Мокси, сначала я немного нервничал, но это не так уж плохо. Раньше у меня был только один минет, но этот гораздо лучше, ее длинный, теплый и влажный язык кажутся нереальными. "
         show moxie blowjob3 with dissolve
-        "I place one of my hands on Moxie’s head, her hair is absurdly soft; I stroke it while she licks my cock. She also has these cute fluffy ears which wiggle when I touch them, it's so surreal."
-        "Moxie lowers herself and takes my member into her hot mouth. By wrapping her lips around the shaft, she begins to 'fuck' me with her mouth, all whilst her tongue works its magic."
-        moxie "*Mmmphh* *Schlurp* *Schluuurp*"
-        "I can feel every movement her tongue does as it circles my shaft; it feels unreal. If I hadn’t masturbated before sleeping earlier, I’d genuinely be close to cumming right now."
+        "Я кладу руку на голову Мокси, и глажу её, пока она лижет мой член, её волосы невозможно мягкие. Еще у нее есть милые пушистые ушки, которые дрожат, когда я к ним прикасаюсь, все это выглядит нереалистично."
+        "Мокси опускается и берет мой член в свой горячий рот. Обернувшись губами вокруг моего древка, она «трахает» меня своим ртом, пока ее язык творит свою магию.."
+        moxie "*Мммффх* *Хлюп* *Хлююп*"
+        "Я чувствую каждое движение ее языка, когда он кружит по моему стволу; это кажется нереальным. Если бы я не передернул перед сном, я был бы близок к тому, чтобы кончить прямо сейчас."
         stop ambience
-        "Moxie pulls up from my cock and pants a little, it’s such a sloppy mess down there, it’s almost like my entire shaft is now lubricated in her saliva. It looks like she got so carried away that she’s out of breath."
-        moxie "P-Please, could you finger me while I choke on your cock? I want to imagine myself getting fucked."
-        "Despite the blowjob feeling euphoric, it occurred to me that poor Moxie is only getting hornier and needier by the second"
+        "Мокси отрывается от моего члена, тяжело дыша, там внизу так мокро, будто весь мой член теперь смазан ее слюной. Похоже, она так увлеклась, забыла дышать."
+        moxie "П-пожалуйста, засунуть в меня пальцы, пока я давлюсь твоим членом? Я хочу представить, как меня трахают."
+        "Несмотря на пьянящее ощущение эйфории от минета, я осознал, что бедная Мокси с каждой секундой возбуждается и жаждет все сильнее"
         play ambience blowjob
         show moxieb sixtynine
         show moxie sixtynine1
         with dissolve
-        "She rolls onto her side and signals for me to lay down. I follow her lead and she resumes her position, laying on her belly but on top of me instead. The result is a sixty-nine where her dripping wet pussy is right in front of my face. "
+        "Она поворачивается на бок и знаком приказывает мне лечь.. Я следую ее приказу и она снова занимает свое место, теперь она лежит на мне своим животом. Мы очутились в позиции №69, и ее сочная киска находится настолько близко, что я чувстую жар, исходящий от нее своим лицом."
         "This is the first time I’ve ever seen something like this so close and in person. However, Moxie is no ordinary girl. Her outer labia has a coating of fur, with her vulva clearly sticking out giving easy access."
         "Her pussy is glisteningly wet, far wetter than a human female would ever be, the fur surrounding her vulva is sodden with her lust."
         show moxie sixtynine2 with dissolve
