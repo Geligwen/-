@@ -232,18 +232,18 @@ label eveningbutters:
                 show butters cowgirl1 with dissolve
                 play music sex1 fadein 3.0
                 butters "Мне нравится делать это чувственно и медленно, если ты не против"
-                mc "Она ещё спрашивает, let's make love."
-                "Жар растекался по телу t the display and мой член поднялся и коснулся её живота, её женские соки покрыли мой член, когда она начала ласкаться об него."
+                mc "Of course, let's make love."
+                "My body grows hot at the display and my cock grows to point upwards against her belly, её женские соки смазывали мой член, когда она начала ласкаться об него."
                 show butters cowgirl2 with dissolve
-                "Но Баттерс не тратила времени на прелюдию, она выгнула спину, пока скользила своей бархотной киской по моему члену."
+                "Но Баттерс не тратила времени на прелюдию, она выгнула спину, пока скользила своей бархотной киской по моему ????."
                 "Не сводя с меня взгляда она мучительно медленно начала нанизываться на мой стержень."
                 "Стенки влагалища сжимались, а её лепестки растягивались пока она полностью не насадилась на всю длину моего дрына."
-                butters "Оохх, он идеально сидит во мне, давай немного повеселимся..."
+                butters "Оохх, он идеально сидит во мне, let's have some fun..."
                 play ambience sex fadein 3.0
-                "Она начала ласкать и поглаживать свой клитор пока её бедра скользили вверх и вниз."
+                "Она ласкала и поглаживала свой клитор пока её бедра скользили вверх и вниз."
                 "Её тугая влажня киска обтягивает и обсасывает мой член в ритмичных движениях, как будто пытается вытянуть из меня всё до последней капли."
                 "Even her 'normal' form still has powerful succubus sex qualities which are apparent by the immense pleasure"
-                "Она прикусывает губу, когда замечает, что мои бедра покачиваются в такт ее движениям, заставляя её скакать вверх и вниз, от чего её большие упругие сиськи тряститсь всё сильнее."
+                "She bites her lip when she notices my hips rocking to match her own pace, bouncing her up and down and making her large pillowy tits jiggle as the intensity increases."
                 butters "Хаахх, this feels really good, I want to feel your thick load inside me..."
                 "Her movements are adept as she takes my entire cock from glans to hilt in her rapid assault of thrusts."
                 "In no time at all, my cock is feeling tight and full, almost ready to burst into Butters's dribbling cunt."
@@ -287,12 +287,12 @@ label eveningbutters:
                 "Мы вдвоем неторопливо идем в спальню, и она быстро раздевается, пока я лежу на кровати."
                 show butters closehorny with dissolve
                 "Баттерс оглянулась вокруг и покраснела, когда увидела меня лежащего на спине, она подходит к кровати и садится на неё."
-                "She begins to stroke my cock with one hand с похотливой ухмылкой."
+                "Одной рукой она начала с похотливой ухмылкой гладить мой член."
                 butters "Охх, так бысто возбудился, ты уже готов..."
                 butters "Я тоже готова, [playername], просто расслабься и позволь мне сделать всё самой."
                 show butters reversecowgirl1 with dissolve
-                "She coos as she kisses the tip of my cock, before straddling me and slowly lowering herself, sliding down my cock until hilt in one smooth motion."
-                "With my cock fully buried inside of her, I spread her pillowy cheeks with my hands and get a good view of her dripping wet pussy."
+                "Она сладостно промычала, поцеловав головку моего члена, после чего оседлала меня одним плавнм движением, медленно скользнув по моей рукояти."
+                "Когда мой член полностью вошёл в неё, я раздвинул пальцами её набухшие [] губы and get a good view of her сочащуюся мокрую киску."
                 "Given her innocence, it's easy to forget Butter's natural succubus charms as they beguile my mind and stiffen my cock, enhancing each and every sensation."
                 butters "Mmm, your cock feels so good... Ahhh..."
                 "She begins to grind her hips back and forth, occasionally thrusting up and down as she energetically rides me."
@@ -300,7 +300,7 @@ label eveningbutters:
                 "In response, I rock my hips into her movements, causing her ass to thwap against with the force of us both in our rut."
                 "Butters moans with glee as she lecherously gyrates and bounces against me for long salacious minutes that leave us both in euphoria."
                 "Eventually she reaches her peak speed, her entire body rocking up and down, and her big bouncy breasts rocking back and forth as she fully commits to her intensive riding."
-                "Её ноги задрожали, а спина выгнулась от удовольствия. Она была всё ближе и ближе к оргазму, её тугая суккубья киска выдаивала меня всё интенсивнее с каждой секундой."
+                "Её ноги задрожали, а спина натянулась, как струна. Она была всё ближе и ближе к оргазму, её тугая суккубья киска выдаивала меня всё интенсивнее с каждой секундой."
                 butters "Ооохх, Я-я Кончаю! Ахх, ахх..."
                 "She orgasms, perhaps not her first, but she keeps slowing down to prevent me from ejaculating before she's satisfied."
                 "I never anticipated Butters to be one to deny my orgasms, but she keeps riding and edging me until she's had hers, like a true mare in heat."
@@ -347,7 +347,7 @@ label eveningbutters:
                 show butters legupdoggy2 with dissolve
                 "Her rump pushes back into me slightly and I respond by pushing into her even harder, pushing my cock all the way into her warm, inviting pussy in one smooth motion."
                 show butters legupdoggy2deep with dissolve
-                butters "Aahh! Mmmphhh, so good... Ahhh..."
+                butters "Аахх! Мммфффф, so good... Аххх..."
                 show butters legupdoggy2 with dissolve
                 show butters legupdoggy2deep with dissolve
                 "I grip her hips and leg and begin thrusting into her soft pillowy ass, pulling out as far as I can before slamming myself back into her needy pussy."
