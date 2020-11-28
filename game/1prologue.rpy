@@ -380,53 +380,53 @@ label prologue:
         show moxieb sixtynine
         show moxie sixtynine1
         with dissolve
-        "Она поворачивается на бок и знаком приказывает мне лечь.. Я следую ее приказу и она снова занимает свое место, теперь она лежит на мне своим животом. Мы очутились в позиции №69, и ее сочная киска находится настолько близко, что я чувстую жар, исходящий от нее своим лицом."
-        "This is the first time I’ve ever seen something like this so close and in person. However, Moxie is no ordinary girl. Her outer labia has a coating of fur, with her vulva clearly sticking out giving easy access."
-        "Her pussy is glisteningly wet, far wetter than a human female would ever be, the fur surrounding her vulva is sodden with her lust."
+        "Она поворачивается на бок и знаком приказывает мне лечь.. Я следую ее приказу и она снова занимает свое место, теперь она лежит на мне своим животом. Мы очутились в позиции №69, и ее сочная киска находится настолько близко, что мое лицо ощущает жар, исходящий от нее."
+        "Это первый раз, когда я лично вижу что-то подобное так близко. Однако Мокси - не обычная девушка. Ее выпяченная вульва, окаймленная шерсткой, влечет меня."
+        "Ее киска блестит от влаги, ни одна человеческая девка с ней в этом не сравнится, шерстка вокруг ее вульвы пропитана ее похотью."
         show moxie sixtynine2 with dissolve
-        "I timidly bring my tongue closer and start to explore. It’s certainly a new experience and Moxie reacts favourably with each movement."
-        moxie "Ahh-ahh! Yesshhh… *Lick*"
+        "Я вытягиваю язык и начинаю робко исследовать ее пещерку. Это определенно наш новый опыт и Мокси вздрагивает от каждого движения языка."
+        moxie "Ах-ах! О дааа… *Лизь*"
         show moxie sixtynine3 with dissolve
-        "Moxie resumed caring for my cock, taking me back in her mouth while my tongue started to slide up and down the length of her vulva. She’s definitely enjoying it, with each lick, I can hear her cute moans. "
+        "Мокси вернулась к моему члену, снова взяв его в рот, в то время как мой язык начал скользить вверх и вниз по ее похотливой киске. Она определенно наслаждается этим, я слышу как она мило стонет при каждом движении моего языка. "
         show moxie sixtynine2 with dissolve
-        moxie "Mmphh… Please lick my clit too! *Schlurp*"
+        moxie "Мммфх… Полижи клитор тоже, пожалуйста! *Хлмпфх*"
         show moxie sixtynine3 with dissolve
-        "This might be my first time eating pussy, but I know exactly where the clit is, I can see it swollen and peeking from its hood."
-        "Using my hands to lower her rump closer to my face, I begin to lick her clit up and down. Moxie responds by enthusiastically grinding her hips back and forth against my face. "
-        "As I licked her clit she shivered in pleasure, and the blowjob became even more primal and messy."
-        "However, as I worked on pleasuring Moxie, she didn't hold back. She made a purposeful effort to massage my glans with her sloppy tongue whilst simultaneously jacking me off."
-        "It felt utterly fantastic, as if I was masturbating while getting a blowjob at the same time, these exact motions filled me with immeasurable pleasure."
+        "Хоть это и первый раз, когда я лижу тяночке, но я точно знаю, где находится клитор, я вижу, как он набух и выглядывает из-под капюшона."
+        "Я тяну ее круп к своему лицу и начинаю лизать клитор вверх и вниз. Мокси отвечает с энтузиазмом, двигая бедрами взад и вперед по моему лицу. "
+        "Когда я дотронулся до ее клитора языком, она задрожала от удовольствия, и минет стал еще более первобытным и грязным."
+        "Однако, пока я ублажал Мокси, она не сдерживалась. Она целенаправлено ласкала мою головку своим мокрым язычком, одновременно помогая рукой."
+        "Это чистая фантастика, как будто я дрочу и одновременно кто-то сосет, эти точные движения наполняли меня неизмеримым удовольствием."
         show moxie sixtynine2 with dissolve
-        moxie "Ahh… Ah… Your cock is throbbing… Mmphh *Suck* Are you cumming soon? "
+        moxie "Ахх… Ах… Твой член пульсирует… Ммфхх *Лизь* Скоро кончишь? "
         show moxie sixtynine3 with dissolve
-        "She kept repeating the same sensational motions, getting slightly faster as her desire grew. It was overwhelming, like nothing I’d ever felt before, I could feel my climax rapidly approaching. "
-        "It became more difficult to focus on licking, but Moxie seemed to be in a state of euphoria regardless of my amateur tongue work."
+        "Она продолжала повторять одни и те же движения, ускоряясь по мере роста ее желания. Это ошеломляюще, такого никогда не было, и я чувствовал, как близится кульминация. "
+        "Становилось все труднее сосредоточиться на лизании, но Мокси, казалось, была в эйфории, несмотря на мою любительскую работу языком."
         show moxie sixtynine2 with dissolve
-        moxie "Ohh… That’s so good, keep going [playername], ahh!"
+        moxie "Охх… Как же хорошо, продолжай, [playername], ахх!"
         show moxie sixtynine3 with dissolve
-        "As the pleasure became overwhelming, my tongue sped up against her clit as best as I could, my tongue was even starting to ache slightly but her moaning and squirming atop of me spurred me onwards."
+        "По мере того как удовольствие поглощало меня, я стралася лизать ее клитор так быстро, как мог, мой язык даже начал побаливать, но ее стоны и то, как она извивалось на моей груди, подстегивали меня."
 
-        "I could tell she was close; I was also nearing the edge. My cock was throbbing and tighter than it had ever been before, I was surely about to have the most powerful orgasm ever."
+        "Мне кажется, ей осталось немного; я тоже уже на грани. Мой член пульсировал и напрягался сильнее, чем когда-либо прежде, я уверен, что сейчас получу самый мощный оргазм в своей жизни."
 
-        moxie "N-Nearly… Ahhh! *Schlurp* *Lick*."
+        moxie "Б-ьлизко… Ааахх! *Шлрп* *лизь*."
 
-        "My entire body rocked with overwhelming sensation and passion. I could feel my orgasm start to rapidly well up."
+        "Меня всего трясло от переполняющих ощущений и страсти.. Я чувствую, как мой оргазм стремительно приближается."
 
-        moxie "Mmphh… I’m coming, I’m coming!"
+        moxie "Мммффх… Кончаю, я кончаюю!!"
         stop sound
         play sound cum
         show moxie sixtynine4 with cum
-        "Her orgasmic moans and incredible blowjob easily pushed me over the edge, finally causing my cock to erupt several loads of hot seed directly into the roof of her mouth."
+        "Её сладостные стоны и восхитительный ротик с лёгкостью довели меня до высшей точки наслаждения, наконец-то сдавшись, я взорвался, и струя горячего семени ударила ей прямо в нёбо"
         play sound cum
         show moxie sixtynine4 with cum
         play sound cum
         show moxie sixtynine4 with cum
-        moxie "Ahh, ahh… Yeshh *Gulp* *Lick*"
+        moxie "Ах, аахх… Дааа *Глоть* *Лизь*"
         play sound cum
         show moxie sixtynine4 with cum
         play sound cum
         show moxie sixtynine4 with cum
-        "No hesitation at all, Moxie swallows the load with glee. Even licking around my glans for any escaping drops, and there were a lot, I came more than I knew possible."
+        "Мокси радостно проглатывает все безо всяких колебаний, слизывая все остатки, что вытекали из моей головки, а их было немало, я и не думал, что могу так сильно кончить."
         play sound cum
         show moxie sixtynine4 with cum
         play sound cum
