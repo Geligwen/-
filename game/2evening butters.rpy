@@ -261,15 +261,15 @@ label eveningbutters:
                 play sound cum
                 show butters cowgirl4 with cum
                 butters "Аххх, Аххх, ДА! Не сдерживайся, [playername]!"
-                "Её свело судорогами, riding with пылая страстью as her womb is filled up Скачущую на мне, пылающей страстью, наполненную, её свели судороги. Её глаза закатились, когда её собственный оргазм взял верх."
-                "Butters's tongue hangs lewdly from her mouth as she's pumped with multiple loads of my cum, far more than I should ever let out in a regular orgasm."
+                "Она содрогнулась от наслаждения, скачущую на мне, пылающей страстью, наполненную, её тело пронзили сладостные судороги. Её глаза закатились, когда её накрыл собственный оргазм."
+                "Язычок Баттерс свис изо рта от переполняющего удовольствия, когда я накачивал её горячим зарядами семени, которых было гораздо больше, чем при обычном оргазме."
                 stop music fadeout 3.0
                 stop ambience fadeout 3.0
                 hide butters with dissolve
-                "We're both left panting as she flops off me, grinning blissfully and rubbing her curse mark satisfied."
+                "Жадно глотая воздух она повалилась на меня с блаженной улыбкой, довольно потирая свою метку суккуба."
                 show butters closesatisfied with dissolve
                 butters "Ммм... Proper sex feels far too good, I'm so glad I met you."
-                "She gives me a wet kiss as we embrace and slowly fall asleep."
+                "Она дарит мне влажный поцелуй и мы сладко засыпаем в обнимку."
                 scene bg black with dissolve
                 "..."
                 if livingwithbutters == 0:
