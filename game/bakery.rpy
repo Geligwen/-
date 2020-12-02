@@ -94,185 +94,185 @@ label bakery:
         "Эта девчонка безумная; я искренне надеюсь, она не вломилась в здание и не притворяется, что живёт тут, или что-то в таком духе."
         show cream neutral with dissolve
         cream "Не так-то и просто управлять такой классной кондитерской в одиночку! Смотри и учись..."
-        "Она тихо мычит в такт тексту песни, пока разогревает духовку, достаёт ингридиенты и листает книгу рецептов с явной решимостью. Она точно здесь не чужая."
+        "Она тихо мычит в такт тексту песни, пока разогревает духовку, достаёт ингридиенты и листает книгу рецептов с заметной решительностью. Она точно здесь не чужая."
         "Тем временем, я просто стою как неприкаянный, наблюдая за её работой."
         "Начали ли мы уже работать? Платят ли мне за это? Я же ничего не делаю…"
 
         menu:
-            "What if a customer comes in while we’re back here?":
+            "А что если зайдёт клиент, пока мы здесь?":
                 show cream happy with dissolve
-                cream "No worries! We have no cakes to sell yet, we need to bake them first!"
-                "The shop did seem really empty when I walked in. There was nothing in the display cases."
-                mc "Why aren’t the cakes already baked? Seems like a strange system."
+                cream "Не переживай! У нас пока нет тортиков на продажу, сперва нам нужно их испечь!"
+                "В магазине действительно было довольно пусто, когда я зашёл. На витринах ничего не было."
+                mc "А почему нет уже готовых тортов? Довольно странный порядок, не находишь?"
                 show cream laughing with dissolve
-                cream "You’re so silly [playername]! Have you ever gotten a cake, and then the day after it was stale?"
+                cream "Глупышка, [playername]! Ты когда-нибудь покупал торт, а через день обнаруживал, что он зачерствел??"
                 show cream happy with dissolve
-                cream "Freshness is vital! So we bake and sell on the same-day here!"
-                mc "Well damn, I’m glad I came to help you out then, it must be difficult trying to bake and sell at the same time."
+                cream "Свежесть - это главное! Поэтому мы и готовим, и продаём в один и тот же день!"
+                mc "Чёрт, тогда я рад, что пришёл помочь: должно быть, сложно готовить и продавать одновременно."
                 show cream neutral with dissolve
-                cream "Yeah, it can be a little tough, that's why I'm starting the first few batches preemptively."
-                cream "Here, you can make some too. Check out this page on how to make cupcakes, easy peasy lemon squeezy, even someone without any experience could do it."
-            "Do you need any help?":
+                cream "Да, может быть слегка сложновато, поэтому несколько партий я начинаю готовить заранее."
+                cream "Ты тоже можешь начать готовить. Вот на этой странице указан рецепт кексиков. Это легче лёгкого, даже кто-то без опыта сможет справиться."
+            "Тебе помочь?":
                 show cream happy with dissolve
-                cream "Of course, I’ll make the more advanced cakes and you can make these cute little cupcakes!"
-                cream "If you follow this recipe, you should be able to make them even without experience! Easy peasy lemon squeezy!"
+                cream "Конечно, я приготовлю более сложные торты, а ты можешь начать делать эти маленькие милые кексики!"
+                cream "Если следовать рецептуре, ты без труда справишься даже без опыта! Легче лёгкого!"
 
         scene bg bakerykitchen with dissolve
-        "Lemon cupcakes… Alright, step one..."
-        "I make some progress on cupcakes, mixing the ingredients until the mixture is softened. Then I divide the result into muffin tins and put it in the oven."
-        "Cream also puts something in the oven, it seems she’s making a larger cake out of two parts."
-        mc "That was so easy, why don’t I do this more often?"
+        "Лимонные кексы. Ладно, шаг первый..."
+        "Я приступаю к готовке кексов, смешивая ингридиенты до тех пор, пока тесто не размягчилось. После я разделил плод своего труда в формы для выпечки и поставил в духовку."
+        "Крем тоже что-то поставила в духовку. Похоже, что она делает большой торт из нескольких частей."
+        mc "Это же так просто, почему я не делаю это чаще?"
         show cream neutral with dissolve
-        cream "Only takes 20 minutes to make some scrumptious cupcakes, sometimes I have them for breakfast!"
-        mc "Can’t say I’ve ever tried that, but it reminds me of pancakes for breakfast, delicious."
+        cream "Требуется всего 20 минут, чтобы сделать восхитительные кексы, иногда я ем их на завтрак!"
+        mc "Никогда не пробовал подобное, но это напоминает мне о блинчиках на завтрак. Вкуснотища!"
         show cream happy with dissolve
-        cream "I loooove pancakes! I love drizzling syrup all over them, mmm…"
+        cream "Я обоооооооожаю блинчики! Я люблю поливать их сиропом, ммм…"
         show cream sad with dissolve
-        cream "Just like how I want you to drizzle your...- ah phooey, this sexual innuendo sucks."
-        mc "I think you were onto something when you mentioned cream and buns."
+        cream "Также как я хочу полить твой...- ай, фу, это фиговый намёк."
+        mc "Мне кажется, тогда у тебя неплохо получилось со взбитыми сливками и булочками."
         show cream laughing with dissolve
-        cream "I can’t be too repetitive with my flirts, even if repetitive motion is how I plan to get you off."
-        mc "That’s a good one. How about something to do with creampies?"
+        cream "Я не могу повторяться в своём флирте, пусть даже повторяющиеся движения - это то, с помощью чего я планирую добиться тебя."
+        mc "А вот это было неплохо. А как насчёт шутки про кремовый пирог?"
         show cream embarrassed with dissolve
-        cream "I was saving the creampie one, you devil!"
+        cream "Я оставляла это на потом, чертяка!"
 
         menu:
-            "You seem to have a soft spot for me, anything about me in particular that you like?":
+            "Похоже, что ты на меня запала, тебе нравится что-то особенное во мне?":
                 show cream happy with dissolve
-                cream "Hehe, how could I not? That’s the entire reason I’m here!"
-                mc "You’re here to bake cakes and flirt with me?"
+                cream "Хехе, а как я могла не запасть? Это основная причина, почему я здесь!"
+                mc "Ты тут для того, чтобы печь пироги и флиртовать со мной?"
                 show cream neutral with dissolve
-                cream "Nahhh, well, kinda!"
-                cream "I’m here to bake cakes, party and fuck."
-                cream "And the cakes are all in the oven…"
-            "Tell me more about those repetitive motions.":
+                cream "Нееее, нуууу, слегка!"
+                cream "Я здесь, чтобы печь пироги, веселиться и трахаться."
+                cream "И, как видишь, все пироги уже в духовке…"
+            "Расскажи-ка мне об этих повторяющихся движениях.":
                 show cream horny with dissolve
-                cream "You knoooow, I like to bounce, up and down, in and out."
-                mc "I’m not sure I do know, maybe you should be more specific."
+                cream "Ну ты же знаааааешь, я люблю скакать, вверх и вниз, в и из!"
+                mc "Я не уверен, что я знаю, может быть, тебе нужно быть поконкретнее."
                 show cream neutral with dissolve
-                cream "More specific? Awh, you’re either naïve or you’re flirting with me!"
-                "She steps closer and whispers into my ear."
+                cream "Поконкретнее? Ах, ты или абсолютно наивен, или ты флиртуешь со мной!"
+                "Она приближается ко мне и шепчет прямо в ухо."
                 show cream closehorny with dissolve
-                cream "The lips of my pussy wrapped around your cock, sliding back and forth."
+                cream "Губы моей киски обволакивают твой член, ёрзая вперёд и назад."
 
-        "Conclusion: She wants to fuck."
-        "She’s not pulling any punches, she’s horny and knows what she wants."
-        "I gotta say, a part of me respects her no nonsense approach, I’m growing more and more tempted to just let it happen."
-        mc "Heat must be getting to you right?"
+        "Вывод: Она хочет трахаться."
+        "И она явно не тянет резину: она возбуждена и знает, что хочет."
+        "Сказать по правде, я даже немного уважаю эту прямолинейность в ней. И мне всё больше и больше хочется, чтобы это случилось."
+        mc "Течка не даёт тебе покоя?"
         show cream happy with dissolve
-        cream "Getting to me? Nah, these are party vibes my dude, aren’t you feeling my wavelength?"
-        mc "Your wav-"
+        cream "Не даёт покоя? Не, это мои тусовочные волны, ты разве не вибрируешь вместе со мной?"
+        mc "Вибр-?"
         show cream laughing with dissolve
-        cream "-Come on! Tune in with me!"
-        mc "Ahhh, was that another innuendo?"
+        cream "-Ой, да ладно, настройся на мою волну!"
+        mc "Это был ещё один сексуальный намёк?"
         show cream happy with dissolve
-        cream "Gosh, I don’t even know anymore!"
+        cream "Боже, я уже и сама не знаю!"
 
         menu:
-            "You seem really sexually experienced, judging by your confidence.":
+            "Судя по твоей уверенности, у тебя довольно богатый сексуальный опыт.":
                 show cream neutral with dissolve
-                cream "I wish! I’ve only been with a few girls these past few months."
-                cream "Waiting for a good cream filling, if you catch my gist."
-                mc "Not enough men to go around?"
+                cream "Хотелось бы! За последние пару месяцев я была лишь с парой девушек."
+                cream "Я всё жду хорошего наполнения кремом, если ты понимаешь, о чём я."
+                mc "Не так много парней вокруг?"
                 show cream laughing with dissolve
-                cream "Not nearly enough, how am I going to live out my gang bang fantasies like this?"
-                "She sways her butt in my direction and winks."
-            "Are you like this with everyone?":
+                cream "Вообще недостаточно! И как мне воплощать в жизнь свои фантазии о групповухе?"
+                "Она виляет своей попкой в мою сторону и подмигивает."
+            "Ты так ведёшь себя со всеми?":
                 show cream neutral with dissolve
-                cream "Only with the cute ones!"
-                cream "I can see that glimmer in your eye, it’s telling me you want it."
-                mc "How can you be so sure?"
+                cream "Только с симпатичными!"
+                cream "Я вижу блеск в твоих глазах, говорящий мне, что ты этого хочешь."
+                mc "Как ты можешь быть уверена в этом?"
                 show cream althappy with dissolve
-                cream "You wouldn’t be here if you didn’t want it!"
-                mc "So you’re saying I wouldn’t be working with a girl if I didn’t want sex? That doesn’t make sense."
+                cream "Ты бы тут не был, если бы ты этого не хотел!"
+                mc "То есть, ты хочешь сказать, что я не работал бы с девушкой, если бы не хотел с ней секса? Бессмыслица какая-то."
                 show cream laughing with dissolve
-                cream "Am I wrong though?"
-                "I guess she’s right, I am here for sex, damnit!"
+                cream "А разве я не права?"
+                "Наверное, права. Я здесь ради секса, чёрт возьми!"
                 show cream happy with dissolve
-                cream "Hehe, I thought so."
-                "She blows me a kiss and checks on the progress of the cakes."
+                cream "Хехе, так я и думала."
+                "Она целует меня в щёку и проверяет готовность пирогов."
         label creamquickie:
             pass
-        mc "Oh! I think the first batch is done."
+        mc "О! Кажется, первая партия уже готова."
         show cream embarrassed with dissolve
-        cream "Ohh right! That sexual skirmish nearly made me forget, let’s see here…"
+        cream "Ооох, точно! Чуть не забыла со всей этой сексуальной болтовнёй, посмотрим…"
         scene bg bakerykitchen2 with dissolve
         show cream ass1 with dissolve
-        "She bends over and peeks through the window of the oven to check."
-        "I can’t help but check out her ass while she does. This girl is getting to me, she’s starting to turn me on."
-        "Wow, her pussy is really wet..."
-        "Her flirting is so over the top it seems comical, yet I’m completely helpless to her erotic advances."
+        "Она наклоняется и бросает взгляд через стекло духовки, чтобы проверить готовность."
+        "Я не могу не оценить её зад, пока она этим занята. Эта девчонка потихоньку достигает своей цели: она начинает меня заводить."
+        "Ух-ты, её киска очень влажная..."
+        "Она флиртует настолько сверх меры, что это уже смешно, однако я совершенно пал жертвой её эротических чар."
         show cream ass2 with dissolve
-        cream "You’re right where I want you!"
-        mc "Huh?"
-        cream "Yeah, you’re next to the oven glove, could you pass it?"
+        cream "Ты как раз там, где ты мне нужен!"
+        mc "А?"
+        cream "Да, ты как раз рядом с прихваткой, ты не мог бы её передать?"
         scene bg bakerykitchen with dissolve
-        "I pass her the oven glove and she takes out the cupcakes I mixed up earlier, they’ve turned a golden brown."
+        "Я передаю ей прихватку, после чего она вытащила замешанные мною ранее кексы, к этому моменту ставшие золотисто-коричневыми."
         scene bg bakerykitchen2 with dissolve
         show cream ass2 with dissolve
-        "And then, she bends over again!"
-        cream "I saw you staring! Do you like what you see?"
+        "И затем она снова наклонилась!"
+        cream "Я вижу, что ты пялишься! Нравится вид?"
         menu:
-            "Yeah, it's a nice butt":
-                cream "Mmm, thank you cutie!"
-            "Maybe, what's it to you?":
-                cream "I've got something you like, and I think you've got something I like, hehehe!"
-            "No way!":
-                cream "Hmph, there's no need to play hard to get!"
-        cream "You gonna window shop, or make me yours big boy?"
-        mc "R-Right now?"
-        cream "The cakes need to cool, so how about we cool off too with a quickie? Heheh!"
+            "Да, у тебя красивая попка":
+                cream "Ммм, спасибо, милашка!"
+            "Может быть, тебе-то что?":
+                cream "У меня есть то, что нравится тебе, и, мне кажется, у тебя есть то, что нравится мне, хехехе!"
+            "Ни в коем случае!":
+                cream "Хмфх, не нужно изображать из себя недотрогу!"
+        cream "Так и будешь смотреть или сделаешь меня своей, большой мальчик?"
+        mc "П-Прямо сейчас?"
+        cream "Пирогам надо охладиться, так что как насчёт того, чтобы мы тоже охладились с помощью быстрого перепихона? Хехех!"
         menu:
-            "Fuck her":
+            "Трахнуть её":
                 $ creamfuckedday1 = 1
                 stop music fadeout 3.0
-                "Just as the music track reaches its end and leaves us in silence, I position myself behind Cream's bountiful rear."
-                "It's so curvacious and thick, it may be the most impressive rear I've seen in all of Arcadia!"
+                "Стоило только музыкальному треку закончиться и оставить нас в тишине, я пристроился к роскошному заду Крем."
+                "Он такой пышный и большой, что вполне может быть самым впечатляющим крупом из тех, что я видел в Аркадии!"
                 play music sex1 fadein 3.0
-                "As Cream leans on the counter, quivering in anticipation, she coos and pushes back as I align the tip of my erection with her wet, eager pussy."
-                cream "Mmm, such a big and thick cock, just the way I like it..."
+                "Облокотившись о кухонную стойку, Крем затряслясь от предвкушения. Когда я поравнялся кончиком своей эрегированной головки с её влажной и жадной киской, Крем вздохнула и резко придвинулась ко мне."
+                cream "Ммм, какой большой и толстый член, прямо как я люблю..."
                 play sound cum
                 show cream ass3 with dissolve
-                "I push forward, aided by Cream pushing back, sliding my long cock into the soft folds of her pussy."
-                "She squeals with delight as I sink deeper, and those squeals gently shift into moans, as her pussy contracts and squeezes around the girth of my shaft."
+                "Я начинаю потихоньку двигать телом вперёд, сопровождаемый движениями Крем назад, проскальзывая своим длинным членом в нежные глубины её киски."
+                "С каждым моим толчком она взвизгивает от удовольствия. Визги Крем потихоньку перерастают в томные стоны: её киска сокращается и всё больше сжимает мой член."
                 play ambience sex
-                "I begin to fuck her. Her pussy continues to tighten around my member, but thanks to how absurdly wet the heated mare is, my cock becomes slick with her juices and easily slides back and forth."
-                cream "Aahhh! If I knew your cock was going to feel this good, I would've fucked you even sooner! Hehehaaahhahaaa!"
+                "Я начинаю сильнее трахать её. Её киска продолжает сжиматься вокруг моего члена, но, благодаря тому, насколько абсурдно влажными становятся кобылы во время течки, мой пенис отлично смазан её соками и без труда скользит взад-вперёд."
+                cream "Ааххх! Если бы я знала, что твой член будет настолько приятным, я бы тебя трахнула куда скорее! Хехеха-аах-хаaaхх!"
                 show cream ass4 with dissolve
-                "The sweet, sickly aroma of cakes and love sifts through the air, whilst her moans reverberate against the wooden walls of the kitchen; my senses are almost overwhelmed."
-                "Her moans grow deeper and more passionate, correlating to the intensity of my thrusts. Her movements become increasingly intoxicated with pleasure as her hips begin to rock back against me with each thrust."
-                cream "Aaahh, ahh! Hehehe, I'm so glad you- ahhh, decided to fuck me, [playername]! Ahhh! Isn't this so much fun? Aahhhaahh!"
-                "Before long we're both fucking each other equally, her ass connecting to my pelvis with a satisfying thwap, as she forces my throbbing cock deeper into her tight cunt."
-                "Gripping tightly onto her ass as leverage, I drive into her faster as the pressure of my orgasm rises."
-                cream "Ahh, I-I'm gonna come! Gonna come so hard! Fill my pussy, [playername]!"
+                "Сладкий и слегка приторный аромат пирогов и любви пронизывает воздух вокруг нас, пока её стоны эхом отдаются от деревянных стен кухни; меня ощущения почти переполнены."
+                "Её стоны становятся всё глубже, всё страстнее, соответствуя скорости моеих толчков. Крем становятся всё более опьянённой удовольствием: её бёдра всё сильнее качаются в мою сторону с каждым рывком."
+                cream "Ааахх, ахх! Хехе, Я так рада, что ты- аххх, решил меня трахнуть, [playername]! Аххх! Разве это не весело? Ааххаахх!"
+                "Теперь мы оба уже с равной силой приближаем друг друга к пику: её зад раз за разом со смачным шлепком соприкасается с моим тазом, всё сильнее проталкивая мой пульсирующий член внутрь её тугого лона."
+                "Крепко вцепившись в её великолепный зад для равновесия, я вхожу в неё всё быстрее и быстрее, что приближает мой оргазм."
+                cream "Ахх, Я-я сейчас кончу! Кончу так сильно! Заполни меня, [playername]!"
                 play sound cum
                 show cream ass5 with cum
                 play sound cum
                 show cream ass5 with cum
-                "In lustful unison we both climax. My hot seed immediately gushing inside her, squelching and mixing with her own copious quantity of love-juice."
+                "Мы достигаем оргазма в страстном унисоне. Моё горячее семя сразу же извергается внутрь неё, хлюпая и смешиваясь с её обильными соками любви."
                 play sound cum
                 show cream ass5 with cum
                 play sound cum
                 show cream ass5 with cum
-                "With orgasmic moans, Cream's pussy clenches around my member tightly, her pussy milking my cock for every ounce of cum."
+                "Сопровождаемая стонами удовольствия, киска Крем туго сжимается вокруг моего члена, высасывая каждую каплю спермы."
                 stop ambience fadeout 3.0
                 stop music fadeout 3.0
                 show cream ass6 with dissolve
-                "Exhausted from the spontaneous and frantic session of sex, I pull out my member and let the cum ooze down her white thighs."
-                cream "O-Oh my goody goodness, we had such a quick and naughty quickie! It feels exhilarating, doesn't it? Hehehe!"
-                mc "Heh, yeah that was pretty fun. Here's a paper towel, for the uhm, cum."
+                "Утомлённый крайне спонтанным и неистовым сексом, я вытаскиваю свой член и позволяю сперме стечь по её белым бёдрам."
+                cream "О-ох, боже-божечки, у нас был такой быстрый и пошлый перепихон! Освежает, не так ли? Хехехе!"
+                mc "Хех, да, это было довольно весело. Держи бумажное полотенце для, эм, спермы."
                 show bg bakerykitchen with dissolve
                 show cream cumlaughing with dissolve
-                cream "Thank you! Hygiene is very important in a kitchen, so let's make sure we wash our hands before we touch anything else!"
-            "Not right now":
+                cream "Спасибо! Гигиена очень важна на кухне, так что давай убедимся, что наши руки чисты до того, как трогать еду!"
+            "Не сейчас":
                 show bg bakerykitchen
                 show cream sad
                 with dissolve
-                cream "Fiiine, let's start icing the cakes... Although I really wish you iced me instead..."
+                cream "Лаааадно, давай тогда покроем пироги глазурью... Хотя я действительно хотела бы, чтобы ты покрыл глазурью меня..."
         if crystalballactivated == 1:
             jump cbmenu
         scene bg black with dissolve
-        "Ten minutes and some cake icing later!"
+        "Десять минут и немного глазури спустя!"
         stop music fadeout 3.0
         scene bg bakerykitchen with dissolve
         show cream happy with dissolve
