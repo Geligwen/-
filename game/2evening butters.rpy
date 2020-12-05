@@ -222,27 +222,27 @@ label eveningbutters:
                     jump morning
     label eveningbutterssex:
         menu:
-            "Наездница":
+            "Поза наездницы":
                 stop music fadeout 3.0
                 scene bg buttersbednight with dissolve
                 show butters happy with dissolve
-                "Мы оба пошли в спальню. Она неспеша раздевалась, пока я лежал на кровати в ожидании незабываемого заезда."
+                "Мы оба пошли в спальню. Она неспеша раздевалась, пока я лежал на кровати в ожидании незабываемых скачек."
                 show butters closehorny with dissolve
                 "Полностью раздевшись, она соблазнительно качнула бёдрами и оседлала меня."
                 show butters cowgirl1 with dissolve
                 play music sex1 fadein 3.0
                 butters "Мне нравится делать это чувственно и медленно, если ты не против"
-                mc "Of course, let's make love."
-                "My body grows hot at the display and my cock grows to point upwards against her belly, её женские соки смазывали мой член, когда она начала ласкаться об него."
+                mc "О да, давай отдадимся чувствам."
+                "По моему телу разливалось распаляющее тепло, от чего мой член твердел и уже встал напротив её живота, когда она начала тереться об него, её женские соки стали смазывать мой стержень."
                 show butters cowgirl2 with dissolve
-                "Но Баттерс не тратила времени на прелюдию, она выгнула спину, пока скользила своей бархотной киской по моему ????."
-                "Не сводя с меня взгляда она мучительно медленно начала нанизываться на мой стержень."
-                "Стенки влагалища сжимались, а её лепестки растягивались пока она полностью не насадилась на всю длину моего дрына."
-                butters "Оохх, он идеально сидит во мне, let's have some fun..."
+                "Но Баттерс не тратила времени на прелюдии, выгнув спину, она начала скользить своей бархотной киской вверх по моему смазанному перцу."
+                "И затем, не сводя с меня взгляда, мучительно медленно начала нанизываться на меня."
+                "Стенки влагалища сжимались, а лепестки её вульвы растягивались пока она полностью не насадилась на всю длину моего члена."
+                butters "Оохх, он идеально сидит во мне, давай немного пошалим..."
                 play ambience sex fadein 3.0
-                "Она ласкала и поглаживала свой клитор пока её бедра скользили вверх и вниз."
-                "Её тугая влажня киска обтягивает и обсасывает мой член в ритмичных движениях, как будто пытается вытянуть из меня всё до последней капли."
-                "Even her 'normal' form still has powerful succubus sex qualities which are apparent by the immense pleasure"
+                "Она ласкала и поглаживала свой клитор пока её бедра скользили по мне вверх и вниз."
+                "Её тугая влажня киска обтягивает и обсасывает мой член в ритмичных движениях, как будто пытается вытянуть из него всё до последней капли."
+                "Даже её 'нормальная' form still has powerful succubus sex qualities which are apparent by the immense pleasure"
                 "She bites her lip when she notices my hips rocking to match her own pace, bouncing her up and down and making her large pillowy tits jiggle as the intensity increases."
                 butters "Хаахх, this feels really good, I want to feel your thick load inside me..."
                 "Her movements are adept as she takes my entire cock from glans to hilt in her rapid assault of thrusts."
@@ -401,7 +401,7 @@ label eveningbutters:
                     jump altmorning
                 else:
                     jump morning
-            "Missionary (Impregnation Version)" if buttersmissionaryunlock == 1 and butterspregnant == 0:
+            "Мессионерская позза (Impregnation Version)" if buttersmissionaryunlock == 1 and butterspregnant == 0:
                 $ butterspregnant = 1
                 show butters dresshappy with dissolve
                 butters "Ooohh, thank you so much! This is really exciting."
