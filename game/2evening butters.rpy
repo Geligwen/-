@@ -242,9 +242,9 @@ label eveningbutters:
                 play ambience sex fadein 3.0
                 "Она ласкала и поглаживала свой клитор пока её бедра скользили по мне вверх и вниз."
                 "Её тугая влажня киска обтягивает и обсасывает мой член в ритмичных движениях, как будто пытается вытянуть из него всё до последней капли."
-                "Даже её 'нормальная' form still has powerful succubus sex qualities which are apparent by the immense pleasure"
-                "She bites her lip when she notices my hips rocking to match her own pace, bouncing her up and down and making her large pillowy tits jiggle as the intensity increases."
-                butters "Хаахх, this feels really good, I want to feel your thick load inside me..."
+                "Даже её 'нормальная' форма всё ещё обладает сексуальными чарами сукуба, которые проявляются в моём невыразимом наслаждении."
+                "Она прикусывает губу, когда замечает, что я начинаю двигаться с ней в унисон, от чего её большая пышная грудь начинает раскачиваться всё сильнее 222222."
+                butters "Хаахх, this feels really good, Я хочу ощутить твою горячую сперму внутри себя..."
                 "Her movements are adept as she takes my entire cock from glans to hilt in her rapid assault of thrusts."
                 "In no time at all, my cock is feeling tight and full, almost ready to burst into Butters's dribbling cunt."
                 "She strokes my cheek knowingly and smiles."
