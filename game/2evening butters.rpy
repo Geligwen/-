@@ -238,17 +238,17 @@ label eveningbutters:
                 "Но Баттерс не тратила времени на прелюдии, выгнув спину, она начала скользить своей бархотной киской вверх по моему смазанному перцу."
                 "И затем, не сводя с меня взгляда, мучительно медленно начала нанизываться на меня."
                 "Стенки влагалища сжимались, а лепестки её вульвы растягивались пока она полностью не насадилась на всю длину моего члена."
-                butters "Оохх, он идеально сидит во мне, давай немного пошалим..."
+                butters "Оохх, он идеально сидит во мне, давай немножко пошалим..."
                 play ambience sex fadein 3.0
                 "Она ласкала и поглаживала свой клитор пока её бедра скользили по мне вверх и вниз."
                 "Её тугая влажня киска обтягивает и обсасывает мой член в ритмичных движениях, как будто пытается вытянуть из него всё до последней капли."
                 "Даже её 'нормальная' форма всё ещё обладает сексуальными чарами сукуба, которые выливаются в моё невыразимое наслаждение."
                 "Она прикусывает губу, когда замечает, что я начинаю двигаться с ней в унисон, от чего её большая упругая грудь начинает раскачиваться всё сильнее."
-                butters "Хаахх, this feels really good, Я хочу ощутить твою горячую сперму внутри себя..."
-                "Her movements are adept as she takes my entire cock from glans to hilt in her rapid assault of thrusts."
+                butters "Хаахх, this feels really good, я хочу ощутить твою горячую сперму внутри себя..."
+                "Её движения искусны, быстрыми и напористыми толчками она Her movements are adept as she takes my entire cock from glans to hilt in her rapid assault of thrusts."
                 "In no time at all, my cock is feeling tight and full, almost ready to burst into Butters's dribbling cunt."
-                "She strokes my cheek knowingly and smiles."
-                butters "It's okay if you cum prematurely darling, my succubus side will always make it so you'll have to cum for me."
+                "Она погладила меня по щеке и понимающе улыбнулась."
+                butters "Ничего страшного, если ты кончишь слишком быстро, в этом и заключается моя суккубья натура, она всегда сможет заставить тебя сделать это, ты всегда будешь кончать для меня my succubus side will always make it so you'll have to cum for me."
                 show butters cowgirl3 with dissolve
                 butters "Ты готов, малыш? My womb is waiting..."
                 play sound cum
