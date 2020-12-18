@@ -245,7 +245,7 @@ label eveningbutters:
                 "Даже её 'нормальная' форма всё ещё обладает сексуальными чарами сукуба, которые выливаются в моё невыразимое наслаждение."
                 "Она прикусывает губу, когда замечает, что я начинаю двигаться с ней в унисон, от чего её большая упругая грудь начинает раскачиваться всё сильнее."
                 butters "Хаахх, это чертовски приятно, не могу остановиться, я хочу ощутить твою горячую сперму внутри себя..."
-                "Её движения искусны, быстрыми и напористыми толчками она Her movements are adept as she takes my entire cock from glans to hilt in her rapid assault of thrusts."
+                "Она искусно владела своим телом, в порыве страсти быстрыми и напористыми толчками она скакала на мне массируя и втягивая мой член от кончика, до самого основания Her movements are adept as she takes my entire cock from glans to hilt in her rapid assault of thrusts."
                 "In no time at all, my cock is feeling tight and full, almost ready to burst into Butters's dribbling cunt."
                 "Она погладила меня по щеке и понимающе улыбнулась."
                 butters "Ничего страшного, если ты кончишь слишком быстро, в этом и заключается моя суккубья натура, она всегда сможет заставить тебя сделать это, ты всегда будешь кончать для меня my succubus side will always make it so you'll have to cum for me."
