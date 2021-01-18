@@ -302,21 +302,21 @@ label eveningbutters:
                 "Eventually she reaches her peak speed, her entire body rocking up and down, and her big bouncy breasts rocking back and forth as she fully commits to her intensive riding."
                 "Её ноги задрожали, а спина натянулась, как струна. Она была всё ближе и ближе к оргазму, её тугая суккубья киска выдаивала меня всё интенсивнее с каждой секундой."
                 butters "Ооохх, Я-я сейчас.. Ахх! ахх..."
-                "Она кончила, возможно, не первый раз. Она замедлилась, чтобы я не ???кончил???, пока она полностью не наиграется мной."
-                "I never anticipated Butters to be one to deny my orgasms, but she keeps riding and edging me until she's had hers, like a true mare in heat."
+                "Она кончила, возможно, не первый раз. Она замедлилась, чтобы я не завершил заезд, до того как она полностью не наиграется мной."
+                "Не могу поверить, что именно Баттер единственная, кто стала оттягивать мой оргазм, но она продолжала I never anticipated Butters to be one to deny my orgasms, but she keeps riding and edging me until she's had hers, like a true mare in heat."
                 "Eventually shes takes mercy and her slick, wet pussy rides me fast enough to push me over the edge."
-                butters "I want you to fill up my womb, ahh, haaah..."
+                butters "Я хочу, чтобы ты наполнил меня, ахх, хааах..."
                 "All the teasing causes my cock to throb intensely, my body preparing for a powerful release."
                 play sound cum
                 show butters reversecowgirl2 with cum
                 play sound cum
                 show butters reversecowgirl2 with cum
-                "I finally climax in unison with her as a torrent of my semen unloads into her waiting womb."
+                "Наконец мы вместе достигли высшей точки и поток моего семени хлынул в её жаждущую матку."
                 play sound cum
                 show butters reversecowgirl2 with cum
                 play sound cum
                 show butters reversecowgirl2 with cum
-                butters "Aahh, mmphhh, fill me up! Ahhh..."
+                butters "Аахх, ммффф, наполни меня! Аххх..."
                 "Several more loads of semen unload into the deepest reaches of her pussy until I'm finally spent."
                 stop music fadeout 3.0
                 stop ambience fadeout 3.0
