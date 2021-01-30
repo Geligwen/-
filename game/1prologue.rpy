@@ -426,15 +426,15 @@ label prologue:
         show moxie sixtynine4 with cum
         play sound cum
         show moxie sixtynine4 with cum
-        "Мокси радостно проглатывает все безо всяких колебаний, слизывая все остатки, что вытекали из моей головки, а их было немало, я и не думал, что могу так сильно кончить."
+        "Мокси проглатывает безо всяких колебаний проглатывает все, что вытекает из моей головки, слизывая все остатки, я и не думал, что могу так обильно кончить."
         play sound cum
         show moxie sixtynine4 with cum
         play sound cum
         show moxie sixtynine4 with cum
-        "It just kept going, more cum seeping into Moxie’s mouth, it feels like absolute bliss."
-        "As my orgasm dissipated, my entire body felt relaxed and comfortable. It was a powerful and overwhelming orgasm, so it left me feeling a little fatigued."
+        "Я продолжал кончать, все больше спермы выплескивалось в рот Мокси, это было похоже на абсолютное блаженство."
+        "Когда мой оргазм рассеялся, я почувствовал комфорт и расслабление во всем теле. Это был потрясающе мощный оргазм, так что я чувствовал себя немного усталым."
         show moxie sixtynine5 with dissolve
-        moxie "Mmmph… S-So much… *Gulp* So hot…"
+        moxie "Мммфх… Т-так много… *Глоть* Так горячо…"
         scene bg black with dissolve
         stop music fadeout 2.0
         stop ambience fadeout 2.0
@@ -445,22 +445,22 @@ label prologue:
         show bg moxiewagonlamp with dissolve
         show moxie closehappyneutral with dissolve
         play music wagon fadein 150.0
-        "After cleaning up residues of the cum, Moxie dexterously flipped herself around and snuggled herself into my chest."
-        moxie "*Pant* That was too good, I came like three times… *Pant*"
-        "Three times? Wow, I was under the impression she only came once."
+        "Почистившись от остатков спермы, Мокси ловко развернулась и улеглась на моей груди."
+        moxie "*Фуух* Это было слишком хорошо, я трижды дошла до финиша… *Pant*"
+        "Три раза? Ух ты, а мне показалось, что всего лишь раз."
         show moxie closelaughing with dissolve
-        moxie "You came so much too! Well, of course you did; it was inevitable with my expert technique! … *Pant*"
-        mc "It felt incredible, your tongue was like nothing I’ve ever experienced before."
-        moxie  "You were perfect, you're everything I ever wanted and more."
+    moxie "Ты тоже много кончил! Ха, ну естественно; это было не удивительно с моей-то продвинутой техникой! … *Фух*"
+        mc "Это просто невероятно, твой язык вытвторял что-то такое, что я никогда не испытывал раньше."
+        moxie  "Ты тоже сделал все идеально, ты это все, что я хочу, и даже больше.."
         show moxie closesatisfied with dissolve
-        mc "Even though it was just oral?"
-        moxie "Don’t worry yourself, that little skirmish will sate my appetite for now, but I’ll need more from you next time."
-        mc "That’s almost generous of you. I have more questions, but I can’t think of anything but falling into a bed and sleeping right now."
+        mc "А ведь это было всего лишь рот?"
+        moxie "Не беспокойся, это маленькое столкновение утолит мой аппетит лишь на время, но в следующий раз мне понадобится больше."
+        mc "Как это великодушно с твоей стороны. У меня есть еще вопросы, но я не могу думать ни о чем, кроме как упасть в постель и заснуть прямо сейчас.."
         show moxie closealthappy with dissolve
-        moxie "Then you’ll love my bed, it’s super comfortable."
-        mc "Alright, I’m ready for a good snooze."
+        moxie "Тогда тебе понравится моя кровать, она очень удобная."
+        mc "Ладно, я готов хорошенько вздремнуть."
         show moxie althappy with dissolve
-        "We both get up off the couch and she leads me through the dainty wagon into a separate room."
+        "Вместе мы встаем с дивана и она ведет меня в отдельную комнату своего изящного фургона."
         "You could say her wagon is concise, although not necessarily small. There’s enough room to live here with a bedroom, bathroom, kitchen and living room."
         hide moxie happy with dissolve
         show bg moxiebednight with dissolve
