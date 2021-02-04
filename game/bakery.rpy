@@ -277,195 +277,195 @@ label bakery:
         scene bg bakerykitchen with dissolve
         show cream happy with dissolve
         play music day2 fadein 3.0
-        cream "Mmm they look delicious! These are going to be super popular with the customers! You did amazing on your first batch."
-        mc "I’m pretty proud, my first ever batch of cupcakes."
+        cream "Ммм, эти выглядят аппетитно! Они будут супер-популярны среди клиентов! Ты сделал замечательную первую партию."
+        mc "Я горжусь своей работой - я вообще в первый раз готовил кексики."
         show cream laughing with dissolve
-        cream "Yup, your ability to follow a simple list of instructions is unrivalled [playername], that’ll take you a long way in any career."
-        "Just as I had finished icing my cupcakes, she finished jamming and creaming a sponge cake. Just like that, we have our first batch done."
+        cream "Агась, твоя способность следовать простым инструкциям вне конкуренции, [playername], это тебе позволит добиться высот в в любой профессии."
+        "К моменту как я покрыл все свои кексики глазурью, она закончила с приготовлением бисквита. И вот уже наша первая партия готова к продаже."
         show cream neutral with dissolve
-        cream "Alright, what’s next… Oh, more cakes!"
-        mc "Didn’t see that one coming."
+        cream "Так, что у нас дальше… Точно, больше тортов!"
+        mc "Кто бы мог подумать."
         scene bg black with dissolve
-        "I don’t know if I can spend another seven and a half hours doing this with Cream flirting with me constantly."
+        "Я не уверен, что смогу выдержать ещё семь с половиной часов такой работы бок о бок с постоянно флиртующей со мной Крем."
         scene bg bakery with dissolve
-        "Luckily, I don’t have to, she makes me man the shop while she focuses on baking."
-        "There's plenty of downtime since she can bake faster than we sell, so we get plenty of opportunities to talk. I can see how she could run this place by herself."
-        "As we fairly frequently get a chance to chat, I took the time to tell her my backstory, and I learn a bit more about her too."
-        "Cream was no less strange than this morning, but her scattered brain seems to have come together for the moment at least."
-        "We spend the rest of the day sorting out the bakery, selling cakes, and baking more. As the sun starts to set, Cream and I start to close up the shop and talk about the party she wants to have tonight."
+        "К счастью, от меня это и не требуется: она поставила меня за прилавок, пока сама сконцентрировалась на готовке."
+        "У нас достаточно свободного времени для разговоров, так как она может готовить выпечку куда быстрее, чем мы её продаём. Теперь я понимаю, как она справляется тут одна."
+        "Благодаря нашим довольно частым возможностям для общения, я рассказываю Крем о своём прошлом и узнаю больше о ней."
+        "Крем была такой же странной, как и этим утром, но сейчас хотя бы она смогла собрать свои разрозненные мысли воедино. Хотя бы на какое-то время."
+        "Остаток дня мы проводим, разбираясь в кондитерской, выпекая и продавая ещё больше сладостей. Как только начало темнеть, Крем и я потихоньку стали сворачиваться и заговорили о той вечеринке, которую она хочет устроить в мою честь сегодня ночью."
         stop music fadeout 3.0
         stop ambience fadeout 3.0
         show cream happy with dissolve
-        cream "Okay, I've sent out the invitations for the party! It's going to be so much fun!"
-        mc "Oh yeah? While it feels somewhat spontaneous, I'm rather excited. It'll be my first proper party since arriving in Arcadia."
+        cream "Так, я уже отправила приглашения на вечеринку! Это будет бомбезно!"
+        mc "Думаешь? Хоть это всё довольно спонтанно, я в предвкушении. Это будет моя первая полноценная вечеринка с момента моего прибытия в Акадию."
         show cream laughing with dissolve
-        cream "And you picked the best possible host!"
+        cream "И у тебя будет самый лучший ведущий!"
         play sound ping
-        "*Ping*!"
+        "*Динь*!"
         show cream neutral with dissolve
-        cream "Ohh, the final batch of cakes are done! These ones will be just for party guests! Come into the kitchen and I'll pay you too."
+        cream "О, последняя партия тортиков уже готова! Эти только для гостей! Пойдём на кухню, заодно я заплачу тебе."
         show bg bakerykitchen with dissolve
-        cream "You've been such a great partner today [playername], here's your pay, 25 monies! A valuable resource for you, I'm sure."
+        cream "Ты был крайне полезным помощником сегодня, [playername], вот твоя плата, 25 монет! Полезный для тебя ресурс, я уверена."
         if livingwithbutters == 1:
-            cream "The invites are for 8:00pm, and a few of the girlies have already RSVP'd by magic mail. Moxie, Butters, Ruby and more said they're coming!"
+            cream "Приглашения на 8 вечера, и часть девчонок уже получили мою магическую почту. Мокси, Баттерс, Руби и другие сказали, что придут!"
         else:
-            cream "The invites are for 8:00pm, and a few of the girlies have already RSVP'd by magic mail. Moxie, Riku, Ruby and more said they're coming!"
-        cream "So I have three hours to prepare! Are you gonna stay and help me? I'll make you a delicious dinner!"
+            cream "Приглашения на 8 вечера, и часть девчонок уже получили мою магическую почту. Мокси, Рику, Руби и другие сказали, что придут!"
+        cream "У меня есть три часа на все приготовления! Ты же останешься помочь? Я приготовлю тебе вкуснючий ужин!"
         if livingwithbutters == 1:
-            mc "Yeah, no sense in going back home if I'll just be back anyway."
+            mc "Ну да, нет смысла идти домой, если я всё равно вернусь."
         else:
-            mc "Yeah, no sense in going back to Moxie's place if she has been invited anyway."
+            mc "Ну да, нет смысла возвращаться к Мокси, если она всё равно приглашена."
         show cream happy with dissolve
-        cream "Perfect! Ooohh, this is gonna be so much fun!"
-        cream "Well, let's begin transforming this bakery!"
+        cream "Отлично! Ууух, мы от души повеселимся!"
+        cream "Ну что же, давай начнём украшать кондитерскую!"
         scene bg black with dissolve
         play music inpeace fadein 3.0
-        "After enjoying Cream's fantastic cooking, we get busy turning the shop of the bakery into a bombastic party setup. She keeps tons of party supplies in a closet and already knows where she wants everything."
+        "После наслаждения превосходной готовкой Крем, мы начинаем превращать кондитерскую в офигенную площадку для вечеринки. Она хранит тонну украшений для вечеринки в кладовке и уже точно знает, где хотела бы что видеть."
         show bg bakeryparty1 with dissolve
-        "She's actually surprisingly strict about how she wants the party setup, which is in direct contrast to how relaxed she is about baking."
-        "Regardless, we furnish the room with remarkably efficiency. We setup the tables, we prepare the drinks, we have napkins, and drinkware."
+        "На удивление, она довольно строга в плане подготовки к вечеринке, что крайне контрастировало с тем, насколько расслаблена она была во время готовки."
+        "Не смотря на это, мы украсили комнату с невероятной эффективностью. Мы поставили столы, подготовили напитки, салфетки и посуду."
         show bg bakeryparty2 with dissolve
-        "She blows up some balloons, we have some snacks and cakes prepared, even little things like the bins getting emptied."
-        "This girl {i}really{/i} knows how to party."
-        "After only an hour, we manage to finish up, giving us yet more time to kill."
+        "Она надула несколько шариков, мы достали закуски и тортики, даже выкинули мусор из корзин."
+        "Девчонка {i}и в правду{/i} знает, как тусить."
+        "Всего через час мы уже закончили с приготовлениями, что дало нам кучу времени на отдых."
         show cream laughing with dissolve
-        cream "Phew, gosh! We've been doing so much work today, I'm kinda exhausted [playername]!"
+        cream "Уф, боже! Мы так много за сегодня сделали, я слегка измоталась, [playername]!"
         if farmvisit1 == 1:
-            mc "I can tell that you've never worked with Honeycrisp."
+            mc "Сразу видно, что ты никогда не работала с Ханикрисп."
             show cream smug with dissolve
-            cream "Awh sheesh, if you've worked with her, you can do anything."
-            mc "Still, the bakery has gotten hot and stuff, I could use some fresh air."
+            cream "А блин, если ты работал с ней, ты способен сделать вообще всё."
+            mc "Но да, в кондитерской стало душновато, я бы не отказался провериться."
         else:
-            mc "Yeah, I could use a break, maybe some fresh air."
+            mc "Да, я бы тоже не отказался от передышки, может, выйти наружу."
         show cream neutral with dissolve
-        cream "Ohh, good idea! How about we take a walk in the nearby park?"
-        mc "At this time? It crept up on us, but it's already night."
+        cream "Ууу, хорошая идея! Как насчёт прогулки в ближайшем парке?"
+        mc "Так поздно? Но на дворе уже почти ночь."
         show cream happy with dissolve
-        cream "Yeah but it's such a lovely evening, and  since you’re an alien creature I want to show you as much of the beauty here as possible."
-        mc "You don’t have to worry about me, I crash landed, so I’m stuck in the beauty."
+        cream "Да, но сегодня такой чудесный вечер, и так как ты здесь почти как инопланетянин, я хотела бы тебе показать как можно больше красот вокруг."
+        mc "Не волнуйся на мой счёт, мой корабль разбился, так что я застрял в этой красоте."
         show cream laughing with dissolve
-        cream "It’s my job to make being stuck here as entertaining, fun, and fantabulous as possible!"
-        mc "Alright. We've got time to kill, and I still need to walk off the dinner you cooked for me."
+        cream "Это моя работа быть застрявшей тут и быть максимально развлекающей, весёлой и сказочной!"
+        mc "Ладно, у нас ещё достаточно времени, да и неплохо было бы нагулять аппетит после приготовленного тобой ужина."
         stop music fadeout 3.0
         scene bg black with dissolve
         play ambience ambiencenight
         show bg farm6night1 with dissolve
         play music uhoh fadein 30.0
-        "The two of us move to a grassy area and we sit down under the starry night sky."
-        mc "It gets dark fast."
+        "Мы направляемся в сторону травянистого участка и устраиваемся под ночным звёздным небом."
+        mc "Быстро стемнело."
         show cream closehappy with dissolve:
             xpos 0
             ypos 50
-        cream "I like that though, because the night is so beautiful... I could stare forever, counting all the little stars..."
-        mc "If you were to count every lone star, you may be stuck here forever."
+        cream "Мне так даже больше нравится, ночью так красиво... Я могла бы смотреть на небо вечно, считая все эти маленькие звёзды..."
+        mc "Если бы ты считала каждую одинокую звезду, ты осталась бы тут навсегда."
         show cream closealthappy with dissolve
-        cream "Lone stars? But there are so many of them, they’re all friends."
-        mc "They’re further away than you think, and some of them are just glimpses of the past because the stars are lightyears away. Some of them might even be dead."
+        cream "Одинокие звёзды? Но их же так много, они все друзья."
+        mc "Они значительно дальше друг от друга, чем ты думаешь, и некоторые из них уже лишь отблески прошлого, так как звёзды находятся в сотнях, даже тысячах световых годах друг от друга. Какие-то из них уже давно умерли."
         show cream closelaughing with dissolve
-        cream "Wow, you really are an alien, hehe."
-        mc "If ‘alien’ is paying attention in school, sure!"
+        cream "Вау, ты и в правду пришелец, хехе."
+        mc "Если под словом ‘пришелец’ ты имеешь в виду внимательно слушать в школе, тогда да!"
         show cream closesmug with dissolve
-        cream "I never cared much for academics, my focus in life was to always have as much fun as possible."
-        mc "And counting stars is your idea of fun? It’d take an eternity."
+        cream "Меня никогда не заботило образование, моей целью в жизни всегда было развлечься как можно больше."
+        mc "И, по-твоему, считать звёзды весело? Это заняло бы вечность."
         show cream closeneutral with dissolve
-        cream "What if I lived forever though? I could do it then."
-        mc "Immortality? That could be pretty fun, but I'd probably get bored if I used all that time to count stars."
+        cream "А что если бы я жила вечно? Я могла бы тогда это сделать."
+        mc "Бессмертие? Это может быть весело, но мне, скорее всего, это быстро наскучило бы, если я потратил бы всё это время, считая звёзды."
         show cream closesatisfied with dissolve
-        cream "Yeah, you’re right… If you live forever, it would get immeasurably boring."
-        cream "You’ll outlive your friends, and your girlfriend, and you’ll probably go crazy."
-        mc "I think if I was in that situation it would be morbid at first, but eventually you’ll adapt and just seek new and wonderful experiences."
+        cream "Да, ты прав… Если ты живёшь вечно, это рано или поздно станет невообразимо скучно."
+        cream "Ты переживёшь всех своих друзей, свою девушку и, скорее всего, в итоге сойдёшь с ума."
+        mc "Я думаю, окажись я в подобной ситуации, поначалу это было бы ужасно, но я бы со временем адаптировался и просто жил бы в поисках нового и чудесного опыта."
         show cream closeneutral with dissolve
-        cream "And you’ll outlive those experiences, your new friends and your new girlfriend."
-        mc "Right, I guess… It would just be a cycle, as long as you don’t go insane."
+        cream "И ты переживёшь и этот опыт, своих новых друзей и свою новую девушку."
+        mc "И то правда… Тогда это был бы замкнутый круг, по крайней мере, пока ты не сойдёшь с ума."
         show cream closesad with dissolve
-        cream "You would definitely change though, you’d become jaded."
-        cream "Another group of friends, another girlfriend, outlived. Then your mind starts ticking."
-        cream "Eventually you’ll grow sick and tired of this happy lifestyle, you’ll kill your girlfriend, your friends and you’ll try to finally end that eternal life of yours."
-        cream "But, the sun will still rise, if the sun still exists at your arbitrary point of eternity."
-        mc "I get what you’re saying, but I don’t think I’m capable of that, especially people I love."
+        cream "Ты несомненно изменишься со временем, пресытишься всем этим."
+        cream "Ещё одна группа друзей, ещё одна девушка, ты их переживаешь. Ещё и ещё, раз за разом, снова и снова. И затем у тебя в голове что-то щёлкает."
+        cream "Ты устанешь и будешь страдать от подобного счастливого образа жизни, ты убьёшь свою девушку, своих друзей и попробуешь наконец-то покончить со своей вечной жизнью."
+        cream "Но солнце всё также взойдёт и на следующий день, если, конечно, солнце ещё существует в этой произвольной точке вечности."
+        mc "Я понимаю, о чём ты, но я не думаю, что я был бы способен на нечто подобное, особенно, со своими близкими."
         show cream closeneutral with dissolve
-        cream "Ever play a video game that gives you freedom?"
-        cream "Sometimes you ask yourself, what if I stole from this person? What if I killed this person?"
-        cream "The friends and girlfriend you outlive, eventually you’ll kill them, just to see what it’s like."
-        mc "I mean… I’d never do that, right? You can’t act like that’s inevitable just because I’ve been mean to a character in a game that called me a milk-drinker."
+        cream "Ты когда-нибудь играл в любую видеоигру, дающую тебе свободу?"
+        cream "Иногда ты задаёшься вопросом, а что если я украду у этого человека? Что если я убью этого человека?"
+        cream "Рано или поздно ты убьёшь друзей и девушку, которых ты постоянно переживаешь, просто чтобы посмотреть, каково это."
+        mc "Я имею в виду… Я бы этого никогда не сделал, верно? Ты не можешь говорить, что это неизбежно, просто потому что я был груб с персонажем видеоигры, который назвал меня молокососом."
         show cream closesatisfied with dissolve
-        cream "The nature of immortality implies an infinite existence, no one could really say what that experience entails."
-        mc "I’d like to think there’s enough experience and stimulation in the world to keep me mentally healthy."
+        cream "Природа бессмертия подразумевает бесконечное существование, и никто не мог бы сказать наверняка, к чему мог бы привести подобный опыт."
+        mc "Хотелось бы верить, что вокруг меня достаточно стимулов и новых интересных занятий, которые помогли бы мне остаться психически здоровым."
         show cream closeneutral with dissolve
-        cream "Even if you could live forever, you wouldn’t just lose your friends, family and loved ones, humanity will die out eventually."
-        mc "Ahh… Humanity would die out, but I’d still be immortal, everyone would die, then I’d go insane, is what you’re getting at?"
+        cream "Даже если бы ты мог жить вечно, ты не только потерял бы своих друзей, семью и близких, человечество тоже рано или поздно вымерло бы."
+        mc "Ааа… Человечество вымрет, но я всё ещё бессмертен, и когда все вокруг умрут, то тогда я сойду с ума, ты к этому ведёшь?"
         show cream closesad with dissolve
-        cream "More than you know, you’ll be living in perpetuity, an inky blackness. First humanity will die out, then your planet earth, and then the heat death of the universe. You’ll get to see if that’s really how it’ll end, once you do, you can come back and tell me."
-        mc "… That’s terrifying, I don’t like to think about it."
+        cream "Ты даже не заметишь, как будешь жить в бесконечности, в густой тьме. Сперва вымрет человечество, затем твоя планета Земля, а после случится тепловая смерть Вселенной. Ты станешь свидетелем, так ли она умрёт на самом деле, а когда увидишь, можешь вернуться и рассказать мне об этом."
+        mc "…Это звучит ужасающе, я не хочу даже думать об этом."
         show cream closeneutral with dissolve
-        cream "Well, how long is an hour to you? It can be quite a long time with no stimulation."
-        cream "Now imagine that inky blackness as you drift through space for an hour, then a day, then a year…"
-        cream "A million years, a billion years, a trillion years…"
-        cream "Even then, you wouldn’t die, you’re still at the beginning of your eternity."
-        mc "Eugh I get it, I wouldn’t just go insane, my mind would be completely shattered."
+        cream "Тогда насколько длинный для тебя час? Это может быть довольно долгим временем без отвлечений."
+        cream "А теперь представь густую тьму вокруг, пока ты плывёшь через бесконечность космоса в течение часа, дня, года…"
+        cream "Миллиона, миллиарда, триллиона лет…"
+        cream "И даже тогда ты не умрёшь, а будешь лишь в самом начале своей вечности."
+        mc "Уфх, я понял, я не просто сойду с ума, мой разум будет абсолютно разбит на осколки."
         show cream closesatisfied with dissolve
-        cream "In a sense, immortality like that is an infinite hell."
-        mc "Immortality is a curse then. I just want to live a happy life in the fleeting time I have on this speck of dust."
+        cream "В некотором смысле, бессмертие - это бесконечный ад."
+        mc "Тогда бессмертие - это проклятье. И я хочу лишь прожить счастливую жизнь, ограниченную утекающим временем на этом клочке звёздной пыли."
         show cream closeneutral with dissolve
-        cream "A curse? Interesting… You were so eager to call going insane a curse."
-        cream "But did you consider what it’s like to lose your mind?"
-        mc "I can’t say I’ve put much thought into it."
+        cream "Проклятье? Интересно… Ты с такой готовностью называешь безумие проклятьем."
+        cream "Но Раздумывал ли ты, каково это, потерять рассудок?"
+        mc "Не могу сказать, что я об этом сильно задумывался."
         show cream closealthappy with dissolve
-        cream "How do you know you haven’t already lost it?"
-        mc "I suppose I don’t have a definite answer for that, I am living in a brand-new world full of talking ponies."
+        cream "А тогда откуда ты знаешь, что ты уже его не потерял?"
+        mc "Предположу, что у меня нет чёткого ответа на этот вопрос: я живу в абсолютно новом мире, населённым говорящими пони."
         show cream closeneutral with dissolve
-        cream "Maybe you’ve already gone insane, and you’ve lost your mind."
-        cream "Drifting through deep space for all infinity? One great big fantastic party in your head!"
-        mc "You’ve managed to put a positive spin on it, impressive. You really are a bundle of joy."
-        mc "I think you’re banking on a lot hoping that your mind goes insane in a positive way though."
+        cream "Может, ты уже обезумел и потерял свой рассудок."
+        cream "И уже плывёшь через бесконечность космоса в течение вечности? И всё это одна большая фантастическая вечеринка в твоей голове!"
+        mc "Тебе удалось взглянуть на это с позитивной точки зрения, впечатляет. Ты и вправду будто состоишь из радости."
+        mc "И я думаю, ты делаешь большую ставку на то, что ты сойдёшь с ума, но в позитивном ключе."
         show cream closesatisfied with dissolve
-        cream "Isn’t that what insanity is for? When reality is so abhorrent that the brain needs to delude itself into a better world?"
-        cream "A world where you’ll have a great girlfriend, friends, and a fun life."
-        mc "I’ve heard of that before, to be stuck in the delusions of your imagination forever."
-        "This idea still seems too crazy to me, Cream is a little daydreamy, but I can’t relate to this at all."
+        cream "Разве безумие как раз не для этого? Когда реальность настолько претит, что твой мозг вынужден обманывать себя созданием лучшего мира?"
+        cream "Мира, где у тебя может быть замечательная девушка, друзья и весёлая жизнь."
+        mc "Я слышал об этой идее раньше: навсегда застрять в иллюзиях и заблуждениях своего воображения."
+        "Сама идея кажется мне слишком сумасшедшей, Крем, конечно, немного мечтательница, но я вообще не могу применить эту мысль к себе."
         show cream closeneutral with dissolve
-        cream "A world where you meet a blue pony, who loves you, and you make friends with more ponies. What a fun life."
-        mc "Well… I’m pretty sure I’m not insane."
+        cream "Мир, где ты встречаешь голубую пони, которая искренне любит тебя, а также ты заводишь друзей среди ещё большего количества пони. Какая же прекрасная жизнь."
+        mc "Ну… Я вполне уверен, что не сошёл с ума."
         show cream closealthappy with dissolve
-        cream "It’s okay, my point is that it doesn’t matter if you are."
-        cream "Your brain will keep you looping in your beautiful fantasy for a quadrillion years, and even after all that, you still have an infinite eternity left."
-        cream "To you, it’ll all pass in the blink of an eye."
-        mc "I’m losing track of what you’re saying, what do you mean?"
+        cream "Всё в порядке, моя позиция в том, что это не важно, даже если ты и сошёл."
+        cream "Твой мозг будет зацикливать тебя в этой красивой фантазии ещё квадриллион лет, и даже спустя все эти годы, у тебя всё ещё будет бесконечная вечность."
+        cream "Для тебя это всё пройдёт, не успеешь ты и глазом моргнуть."
+        mc "Я немного начинаю путаться, о чём ты говоришь, что ты имеешь в виду?"
         show cream closeneutral with dissolve
-        cream "The insanity and morbid nature of infinite existence is conceptually impossible, due to the idea of being alive for an infinite amount of time."
-        cream "The key word is ‘infinite,’ it means an immortal being cannot exist alongside time but must exist outside of it."
-        cream "At a certain point there will be no difference between 10 seconds and 100 years."
-        cream "10 seconds and 100 trillion years."
-        cream "To you, the immortal being, the 10 second lifespan of a baby is the same blip in the universe as the 100-year lifespan of the old woman. One and the same relatively."
-        mc "I don’t understand, even if I’m a trillion years old I still experience every second the same."
+        cream "Безумие и мрачная природа вечного существования концептуально невозможны из-за идеи бессмертия в течение бесконечного количества времени."
+        cream "Ключевое слово ‘бесконечного’, что значит, что бессмертное существо не может существовать в течение времени и должно находиться вне него."
+        cream "В определённый момент не будет разницы между 10 секундами и 100 лет."
+        cream "10 секундами и 100 триллионами лет."
+        cream "Для тебя, бессмертного существа, десятисекундный жизненный цикл младенца - это абсолютно такая же вспышка во вселенной, как и столетний жизненный цикл старухи. Относительно одно и то же."
+        mc "Я не совсем тебя понимаю. Даже если мне и триллион лет, я всё равно проживаю каждую секунду абсолютно так же."
         show cream closelaughing with dissolve
-        cream "Nah nah nah, party boy, I’m not thinking literally, I’m thinking conceptually."
-        mc "Yeah, but…"
-        mc "You were just joking when you said I might be insane, right?"
+        cream "нет-нет-нет, мой дорогой тусовщик, я не говорю в прямом смысле, я говорю концептуально."
+        mc "Да, но…"
+        mc "Ты ведь шутила, когда говорила, что я уже мог потерять свой рассудок?"
         show cream closehappy with dissolve
         stop music fadeout 10.0
-        cream "Of couuuurse, it’s just a joke!"
-        "You know, I could add insanity onto one of the main theories for why I’m here. This isn’t magic and science, maybe I’m just loopy."
-        mc "What’s your point in all of this, Cream?"
+        cream "Ну конеееечно, это всего-лишь шутка!"
+        "Если задуматься, я вполне могу добавить сумасшествие как одну из теорий попаданий сюда. Может, это не магия и наука, просто я сбрендил."
+        mc "И что ты всем этим хочешь сказать, Крем?"
         show cream closeneutral with dissolve
-        cream "I told you earlier, the point is to live to have as much fun as possible."
-        cream "Live by day, and in the moment! Forget the past, forget the future, just have a fun present..."
-        mc "Ahh, not a bad moral after everything you’ve said."
-        mc "I’m going to start practicing what you’ve said right now; presently it’s getting cold."
+        cream "Я тебе уже говорила ранее, смысл жизни в том, чтобы получить как можно больше положительных эмоций."
+        cream "Живи текущим днём и конкретным моментом! Забудь о прошлом, забудь о будущем, просто развлекайся в настоящем..."
+        mc "Ага, не самый плохой вывод из всего вышесказанного тобой."
+        mc "Пожалуй, я начну практиковать то, а чём ты сейчас говоришь; в этот конкретный момент мне становится холодно."
         show cream closehorny with dissolve
-        cream "Let me sit on your lap and allow me to warm you up with my fur."
-        "She nudges a little closer, her fur brushes across my thigh."
-        mc "I think we should head back; the guests will be arriving soon."
+        cream "Позволь мне сесть тебе на колени и согреть тебя моей шёрсткой."
+        "Она прижимается ко мне, её шёрстка касается моих бёдер."
+        mc "Мне кажется, нам пора возвращаться, гости уже скоро будут на месте."
         show cream closelaughing with dissolve
-        cream "Great idea, I’ll be able warm you up easier under the sheets of my bed, hehe."
-        "She leans closer, her large fuzzy breasts pressing against my skin."
+        cream "Отличная идея, я смогу тебя куда легче согреть под одеялом моей кровати, хехе."
+        "Она наклоняется ближе, её огромные пушистые груди соприкасаются с моей кожей."
         if creamfuckedday1 == 1:
-            "I’ve been around this girl all day and her heat has left an impact. I definitely want to fuck her again."
+            "Я провёл весь день с этой девушкой, и её течка  оставила свой след: я определённо хочу трахнуть её снова."
         else:
-            "I’ve been around this girl all day and her heat has definitely left an impact, I genuinely want to fuck her."
-        mc "Being cuddled up under warm bedsheets does sound appealing after a long day of work…"
+            "Я провёл весь день с этой девушкой, и её течка определённо оставила свой след: я однозначно хочу трахнуть её."
+        mc "Тесные объятия под тёплым одеялом - звучит очень привлекательно после долгого трудового дня…"
         show cream closealthappy with dissolve
-        cream "Hehe, doesn’t it?"
+        cream "Хехе, не так ли?"
         mc "What are we gonna do under the sheets?"
         show cream closehorny with dissolve
         cream "Mmm, each other!"
