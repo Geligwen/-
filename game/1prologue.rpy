@@ -14,7 +14,7 @@ label prologue:
                                 playername = renpy.input("Как вас зовут?")
                                 playername = playername.strip()
                                 if not playername:
-                                    playername = "Анон"
+                                    playername = "Антон"
                             jump morning
                         "Нет, я хочу посмотреть начало истории!":
                             pass
@@ -461,7 +461,7 @@ label prologue:
         mc "Ладно, я готов хорошенько вздремнуть."
         show moxie althappy with dissolve
         "Вместе мы встаем с дивана и она ведет меня в отдельную комнату своего изящного фургона."
-        "You could say her wagon is concise, although not necessarily small. There’s enough room to live here with a bedroom, bathroom, kitchen and living room."
+        "Ее фургончик выглядит компактно, при это он не так уж и мал. Здесь достаточно места для спальни, ванной, кухни и гостиной."
         hide moxie happy with dissolve
         show bg moxiebednight with dissolve
         "Her bedroom is essentially only a closet and a double bed; the floor space is almost non-existent except for the doorway."
