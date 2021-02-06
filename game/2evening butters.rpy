@@ -255,20 +255,20 @@ label eveningbutters:
                 show butters cowgirl4 with cum
                 play sound cum
                 show butters cowgirl4 with cum
-                "Моё тело напряглось до предела, а мой разум утонул в эйфории, когда наступил мой оргазм и поток горячего семени наполнил жаждущую киску Баттерс."
+                "Моё тело напряглось до предела, а мой разум утонул в эйфории, когда наступил мой оргазм и поток горячего семени наполнил жаждущую Баттерс."
                 play sound cum
                 show butters cowgirl4 with cum
                 play sound cum
                 show butters cowgirl4 with cum
                 butters "Аххх, Аххх, ДА! Не сдерживайся, [playername]!"
-                "Она содрогнулась от наслаждения, скачущую на мне, пылающей страстью, наполненную, её тело пронзили сладостные судороги. Её глаза закатились, когда её накрыл собственный оргазм."
+                "Она содрогнулась от наслаждения. Скачущую на мне, пылающей страстью, наполненную, её тело пронзили сладостные судороги. Её глаза закатились, когда её накрыл собственный оргазм."
                 "Язычок Баттерс свис изо рта от переполняющего удовольствия, когда я накачивал её горячим зарядами семени, которых было гораздо больше, чем при обычном оргазме."
                 stop music fadeout 3.0
                 stop ambience fadeout 3.0
                 hide butters with dissolve
                 "Жадно глотая воздух она повалилась на меня с блаженной улыбкой, довольно потирая свою метку суккуба."
                 show butters closesatisfied with dissolve
-                butters "Ммм... Здоровый секс намного лучше баловства с флорой и фауной. Я так рада, что встретила тебя."
+                butters "Ммм... естественный секс намного лучше баловства с фауной. Я так рада, что встретила тебя."
                 "Она дарит мне влажный поцелуй и мы сладко засыпаем в обнимку."
                 scene bg black with dissolve
                 "..."
@@ -297,16 +297,16 @@ label eveningbutters:
                 butters "Ммм, твой член потрясающий... Аххх..."
                 "Она начинает водить своими бёдрами взад и вперёд, время от времени толкаясь вверх и вниз, она буквально объезжала меня, словно ездового скакуна."
                 butters "Аххх, я хочу растянуть это удовольствие..."
-                "В ответ я двигаю бёдрами в так её движений, от чего её зад начинает с силой шлёпать о низ моего живота causing her ass to thwap against with the force of us both in our rut."
-                "Баттерс начала сладостно постанывать от всех её похотливых ёрзаний и невыносимо долгих развратных минут гарцевания на мне, которые довели нас обоих до сосотояния эйфории. Butters moans with glee as she lecherously gyrates and bounces against me for long salacious minutes that leave us both in euphoria."
+                "В ответ я двигаю бёдрами в так её движений, от чего её зад начинает с силой шлёпать о низ моего живота."
+                "Баттерс начала сладостно постанывать от всех её похотливых ёрзаний и невыносимо долгих развратных минут скакания на мне, которые довели нас обоих до сосотояния эйфории."
                 "Eventually she reaches her peak speed, her entire body rocking up and down, and her big bouncy breasts rocking back and forth as she fully commits to her intensive riding."
                 "Её ноги задрожали, а спина натянулась, как струна. Она была всё ближе и ближе к оргазму, её тугая суккубья киска выдаивала меня всё интенсивнее с каждой секундой."
                 butters "Ооохх, Я-я сейчас.. Ахх! ахх..."
                 "Она кончила, возможно, не первый раз. Она замедлилась, чтобы я не завершил заезд, до того как она полностью не наиграется мной."
-                "Не могу поверить, что именно Баттер единственная пони, которая решила оттягивать мой оргазм, но она продолжала I never anticipated Butters to be one to deny my orgasms, but she keeps riding and edging me until she's had hers, like a true mare in heat."
-                "Eventually shes takes mercy and her slick, wet pussy rides me fast enough to push me over the edge."
+                "Не могу поверить, что именно Баттер единственная пони, которая решила оттянуть мой оргазм, но она продолжала двигать бёдрами и изматывать меня не давая мне достичь пика, пока не получит своё, как по-настоящему разгорячённая кобылка."
+                "Наконец она сжалилась и начала жарить меня со всей силы, своей скользкой мокрой киской быстро доводя меня до предела "
                 butters "Я хочу, чтобы ты наполнил меня, ахх, хааах..."
-                "All the teasing causes my cock to throb intensely, my body preparing for a powerful release."
+                "От всех этих ласк мой член сильно пульсировал. Моё тело было готово к мощнейшей разрядке."
                 play sound cum
                 show butters reversecowgirl2 with cum
                 play sound cum
@@ -317,17 +317,17 @@ label eveningbutters:
                 play sound cum
                 show butters reversecowgirl2 with cum
                 butters "Аахх, ммффф, наполни меня! Аххх..."
-                "Several more loads of semen unload into the deepest reaches of her pussy until I'm finally spent."
+                "Ещё несколько выплесков семени попадают в самые глубины еë лона, пока я полностью не иссяк."
                 stop music fadeout 3.0
                 stop ambience fadeout 3.0
                 hide butters with dissolve
-                "After the peak, she collapses backwards and cuddles into my chest. We lie together and embrace like lovers, falling asleep into the night."
+                "После огразма, она без сил падает ниц и прижимается к моей груди. Как влюблëнные, мы лежим в объятиях и плавно засыпаем."
                 scene bg black with dissolve
                 "..."
                 if livingwithbutters == 0:
                     scene bg black with dissolve
                     show  bg buttersbed with dissolve
-                    "In the morning I kiss Butters goodbye and return home."
+                    "На утро я поцеловал Баттерс, попрощался и пошёл домой."
                     scene bg black with dissolve
                     "..."
                     jump altmorning
