@@ -297,7 +297,7 @@ label bakery:
         stop ambience fadeout 3.0
         show cream happy with dissolve
         cream "Так, я уже отправила приглашения на вечеринку! Это будет бомбезно!"
-        mc "Думаешь? Хоть это всё довольно спонтанно, я в предвкушении. Это будет моя первая полноценная вечеринка с момента моего прибытия в Акадию."
+        mc "Думаешь? Хоть это всё довольно спонтанно, я в предвкушении. Это будет моя первая полноценная вечеринка с момента моего прибытия в Аркадию."
         show cream laughing with dissolve
         cream "И у тебя будет самый лучший ведущий!"
         play sound ping
@@ -466,265 +466,265 @@ label bakery:
         mc "Тесные объятия под тёплым одеялом - звучит очень привлекательно после долгого трудового дня…"
         show cream closealthappy with dissolve
         cream "Хехе, не так ли?"
-        mc "What are we gonna do under the sheets?"
+        mc "И чем же мы будем заниматься под одеялом?"
         show cream closehorny with dissolve
-        cream "Mmm, each other!"
-        "She’s not hiding her arousal either as her legs gently spread and I get a peek of her wet pussy."
-        "She bites her lip and one of her hand starts to softly trail from my chest down my tummy and to my pelvis, I can feel blood rushing."
-        cream "I want you to take me back to my bedroom and fuck me."
+        cream "Ммм, друг другом! Ты мной, я тобой!"
+        "Она уже не прячет своё возбуждение: её ножки мягко раздвигаются, что даёт мне мимолётно насладиться видом её влажной киски."
+        "Она прикусывает губу, её рука начинает нежно ласкать меня от груди в сторону живота и таза, я уже ощущаю приток крови в нужном месте."
+        cream "Я, хочу, чтобы ты привёл меня в мою спальню и трахнул меня."
         stop ambience fadeout 2.0
         scene bg black with s
-        "We flirt back and forth as we take the short walk back to the bakery."
+        "Мы флиртуем друг с другом и обмениваемся пошлыми намёками, пока идём в сторону кондитерской."
         show bg bakerybedroom with dissolve
-        "She leads me to an unusual bedroom. There’s something strange about this room, just a gut feeling."
+        "Она привела меня меня в необычную спальню. Что-то не так с этой комнатой, но я не могу понять, что."
         show cream closesatisfied with dissolve
-        "Forget that though, I’m too preoccupied with Cream whom immediately makes out with me upon entering."
-        cream "Mmphh, mmm… Ahh…"
+        "Но мне сейчас и не хочется с этим разбираться, я слишком занят Крем, сразу же начавшей целовать меня взасос, стоило нам войти."
+        cream "Ммфх, ммм… Ахх…"
         show cream closehorny with dissolve
-        cream "We can do anything we want in here! You can do anything you want in here."
-        cream "This is where the party really gets started, hehehe!"
+        cream "Мы можем делать здесь всё, что захотим! А главное, ты можешь делать здесть всё, что захочешь."
+        cream "Здесь вечеринка как раз начинается по-настоящему, хехехе!"
         hide cream with dissolve
         label creamvmissionary:
             pass
-        "Cream bounces onto the bed and I find myself strung along with her, ending up on top."
+        "Крем запрыгивает на кровать, и я обнаруживаю себя уже сверху на белой кобылке."
         show cream missionary1 with dissolve
-        cream "I see you’re already so hard down there! Even though you’re not a stallion, you can’t resist a mare in heat."
-        mc "I can’t resist a mare that constantly seduces me all day."
-        "The two of us embrace on the bed, her soft, curvy body pressed against me."
+        cream "Я вижу, ты уже довльно твёрдый там внизу! Даже несмотря на то, что ты не жеребец, ты не можешь устоять перед кобылкой в период течки."
+        mc "Я не могу устоять перед кобылкой, которая постоянно пытается соблазнить меня в течение дня."
+        "Мы заключаем друг друга в объятия, её мягкое, соблазнительное тело плотно прижато к моему."
         if creamfuckedday1 == 1:
-            mc "The quickie wasn't enough for me, I need to take my time with you."
+            mc "Мне не хватило сегодняшнего перепихона, я хочу основательно заняться тобой сейчас."
         else:
-            mc "I’ve been thinking about fucking you all day."
-        cream "Hehe, you too?"
-        cream "Dumb party stuff aside, agreeing to hang out with a male during mating season was a daft idea."
-        mc "Can’t resist me either?"
-        cream "The first thing I thought when I saw you was ‘yes please’."
-        cream "I pictured this moment the second you stepped through the door."
-        cream "I’m surprised you wanted me too."
-        mc "Aren’t my thoughts written all over my face?"
-        "Cream stared at me for a moment, analysing my expression."
-        cream "They are written all over, sure! But I was never good at reading body language, although, your cock is a give-away."
+            mc "Весь день я только и думал о том, чтобы тебя оттрахать."
+        cream "Хехe, хотя бы не мне одной этого хочется."
+        cream "Если мы отбросим в сторону всю эту затею с вечеринкой, соглашаться весь день общаться с самцом в брачный период было очень глупой идеей."
+        mc "Тоже не можешь устоять передо мной?"
+        cream "Первое, о чём я подумала, когда я тебя увидела, было ‘пожалуйста, да’."
+        cream "И я представляла себе этот момент с той секунды, как ты переступил порог."
+        cream "Я удивлена, что ты тоже хочешь меня."
+        mc "А разве у меня это не написано на лице?"
+        "Крем пристально вгляделась в меня, анализируя выражение моего лица."
+        cream "Написано вдоль и поперёк, это правда! Но я никогда не была хороша в распознавании языка тела, впрочем, твой член тебя выдаёт с потрохами."
         if creamfuckedday1 == 1:
-            mc "I can spell it out for you then. I said it before, I'll say it again, I’ve been thinking about fucking you all day, I haven’t been able to take my eyes off your body."
+            mc "Тогда позволь озвучить мне это вместо тебя. Я говорил это до, я скажу это вновь: я думал о том, чтобы тебя трахнуть на протяжении всего дня. Я не мог оторвать глаз от твоего прекрасного тела."
         else:
-            mc "I can spell it out for you then. I said it before, I'll say it again, I’ve been thinking about fucking you again almost all day, I haven’t been able to take my eyes off your body."
-        cream "In that case… Don’t hold back, otherwise you’ll have to deal with more of my flirting."
-        mc "That wouldn’t be so bad in moderation."
+            mc "Тогда позволь озвучить мне это вместо тебя. Я говорил это до, я скажу это вновь: я думал о том, чтобы тебя снова трахнуть на протяжении всего дня. Я не мог оторвать глаз от твоего прекрасного тела."
+        cream "В этом случае… Не сдерживайся, иначе тебе придётся снова терпеть мой флирт."
+        mc "Это не так уж и плохо в умеренном количестве."
         play music sex1 fadein 3.0
         show cream missionary1-5 with dissolve
-        "I fondle her supple, smooth breasts, coupling them in my hands as I massage my fingers into the fluff."
-        "On each fluffy breast was an erect pink nipple, which I gladly tease."
-        cream "Ahh… [playername]…"
-        "Her nipples must be pretty sensitive; she’s softly moaning already."
+        "Я ласкаю её податливые и мягкие груди, соединяя их в своих руках, и нежно массажирую пальцами её мех."
+        "На каждой из её пушистых грудей торчит по набухшему розовому соску, которые я с готовностью дразню."
+        cream "Ахх… [playername]…"
+        "Её соски, похоже, очень чувствительны: она уже начинает тихо постанывать."
         show cream missionary2 with dissolve
-        "I bring my mouth to one of the nipples, starting to kiss and lick at it, manipulating the tip with my tongue."
-        cream "Mmmghhh, aaahh.."
-        "Her body shivers in surprise and her back arches, it's clear that her body was highly sensitive due to how aroused she is."
-        mc "I bet you’ve been picturing my cock all day, haven't you?"
-        "Cream giggles and murmurs a reply."
-        cream "I’m a horny girl, I think about cock lots…"
-        "As she says that, her legs gently spread, as if instinctively she’s picturing herself being fucked."
-        cream "Please, touch it… It’s aching."
+        "Я приближаюсь ртом к одному из сосков, начиная целовать и лизать его, нажимая на его кончик своим языком."
+        cream "Мммгхх, ааахх.."
+        "Её тело задрожало от приятных ощущений, спина выгнулась дугой. Очевидно, что её тело сейчас крайне чувствительно, учитывая, насколько сильно она возбуждена."
+        mc "Уверен, ты весь день думала о моём члене, разве не так?"
+        "Крем хихикнула и пробормотала в ответ."
+        cream "Я похотливая девушка, я много думаю о членах…"
+        "Её ноги слегка раздвигаются, пока она это говорит, как будто она инстинктивно представляет, как её уже трахают."
+        cream "Пожалуйста, дотронься до меня там… Я так этого жажду."
         show cream missionary3 with dissolve
-        "My hand teasingly caresses its way from her breast, down the curves of her tummy and finally between her soft folds."
-        cream "Uaahhh… Mmghh…"
-        "Simply moving my finger around her vulva results in lewd wet noises."
-        "I find her swollen clit and move my finger around the area, occasionally brushing against it."
-        cream "Mmm, aahhhh… [playername]…"
-        "Each time I rub her clit she’d squirm and let out another cute moan, no matter how hard she tries to keep them back."
-        cream "Mmghhh, aahh… Aaahhh! Aaahhh…"
-        "I returned my tongue to one of her nipples, wrapping it around the pink erect nub and twirling it around."
-        "The combination of sensations from her nipples and clit gradually overwhelm Cream with pleasure, her body squirming and breathing becoming coarse."
-        cream "Mmmghhh, ahh, [playername], I’m c-coming…"
-        "The pleasure kept swelling up inside her as she arched backwards, crashing waves of pleasure repeatedly assaulting her senses."
-        cream "Ahhh, mmm… This is really good, stallions don’t usually care about pleasing a mare like this, haah…"
-        mc "You could say I’m a giver when it comes to pleasure."
-        "Her legs part even further; her body language makes it obvious what she wants now."
-        cream "I’d say it’s finally time for all those baking innuendos to come to fruition, by putting a bun in my oven."
+        "Моя рука дразняще ласкает её тело от груди вниз по изгибам её живота и наконец доходит до её мягких и готовых нижних губ."
+        cream "Уааххх… Ммгхх…"
+        "Простые движения вокруг её влагалища сразу же приводят к непристойным влажным звукам."
+        "Я нащупываю её набухший клитор и двигаю своим пальцем вокруг, периодически поглаживая его."
+        cream "Ммм, аахххх… [playername]…"
+        "Каждый раз когда я тру её клитор, она извивается и испускает ещё один милый стон, как бы она ни пыталась их скрыть."
+        cream "Ммгхх, аахх… Аааххх! Аааххх…"
+        "Я вернулся языком к одному из её сосков, обививая и вращая его вокруг розовой эрегированной шишечки."
+        "Сочетание приятных ощущений от её сосков и клитора постепенно наполняет Крем удовольствием, её тело извивается, а дыхание становится частым."
+        cream "Мммгхх, ахх, [playername], я… я кончаю…"
+        "Испытываемое ею удовольствие наконец переполнило девушку изнутри: на пике страсти она выгнулась дугой, и потрясающей силы волны оргазма атаковали все её ощущения."
+        cream "Аххх, ммм… Как же хорошо! Жеребцов обычно не заботит удовлетворение кобылки, хаах…"
+        mc "Можешь считать меня дарителем, когда дело касается удовольствия."
+        "Её ноги раздвигаются ещё шире, язык её тела буквально кричит о том, что она сейчас хочет."
+        cream "Мне кажется, наконец-то пришло время реализовать все мои пекарские сексуальные намёки, положив твою булочку в мою раскалённую духовку."
         show cream missionary4 with dissolve
-        "I reposition myself between her legs and she purrs with a lustful expression."
-        "Pure wanton fuckery, is that how Moxie put it?"
+        "Я занял позицию между её ног, от чего она даже страсно замурчала в предвкушении."
+        "Бессмысленная и беспощадная ебля, так же, вроде, Мокси это описала?"
         play sound cum
         show cream missionary5 with dissolve
-        "I placed my member against the soft folds of her fat pussy before slowly pushing it inside of her with a wet schlick."
-        cream "Ooooooohhh, yes…"
-        cream "The first insertion is always best, hnngg… A feeling you could live for."
-        "I could feel her legs wrap around my body as she pulled me towards her, causing me to sink even deeper inside."
+        "Я расположил свой член напротив сягких складок её пухлой киски, прежде чем медленно протолкнуть его внутрь неё с влажным хлюпом."
+        cream "Ооооооо, да…"
+        cream "Первый вход всегда лучший, мхннг… Ощущение, ради которого стоит жить."
+        "Я почувствовал, как её ноги обвились вокруг моего тела, когда она притянула меня к себе, от чего я вошёл ещё глубже."
         play ambience sex
-        "I slowly began to move my hips; it didn’t take much to get Cream squirming with pleasure due to how sensitive she is right now."
-        "Even the slightest movement practically sent her eyes rolling back with ecstasy."
-        "Every so often I would thrust inside of her with an especially long, deep, hard thrust and she would squeal in delight."
-        cream "Mmmnnghh… Aaaaahhhh!"
-        "Cream reacted by pushing her hips against me as we both fucked each other in unison."
-        "I cherished the warmth of our bodies as my skin and her fur pressed together."
-        "I started to fuck faster, my cock was sliding in and out of her pussy with ease and the sensations caused her to dig her fingers into the bed sheets."
-        "We kept rutting, getting closer and closer to our respective orgasms, not stopping for a second in that pursuit."
-        cream "Ahh, yes, keep going… I’m close!"
-        "My cock throbbed as it drove in and out of her tight pussy, all whilst it squeezed and sucked around my shaft."
-        cream "Mmphh fuck yeah, I want you to come with me [playername]!"
-        "My orgasm was rapidly approaching; my body grew tense and before I realized, I had hit the point of no return."
-        cream "Haaahh, I’m coming!"
+        "Я медленно начинаю двигать своими бёдрами; и, учитывая, насколько она сейчас чувствительна, потребовалось совсем немного времени до момента, как Крем начала извиваться от удовольствия."
+        "Даже малейшее моё движение практически заставляло её закатить глаза от экстаза."
+        "Время от времени я делал особенно глубокий, долгий и сильный толчок внутрь неё, и в ответ она взвизгивала от восторга."
+        cream "Мммннгхх… Ааааахххх!"
+        "Крем реагировала, ещё сильнее прижимаясь ко мне бёдрами, пока мы трахали друг друга в унисон."
+        "Я лелеял ощущение теплоты наших тел, когда моя голая кожа касалась её мягкой шёрстки."
+        "Я начал ускоряться, мой член раз за разом с лёгкостью заскальзывал в её киску, и всё нарастающие ощущения заставили её вцепиться пальцими в простыню."
+        "Мы продолжали сношаться, всё приближаясь и приближаясь к нашим оргазмам, ни на секунду не останавливаясь в этой гонке."
+        cream "Ооо, дааа, продолжай… я уже близко!"
+        "Мой член запульсировал, продолжая входить и выходить в её тугую киску, всё сильнее сжимавшуюся и обсасывающую его."
+        cream "Ммфх, бля, да! Я хочу, чтобы ты кончил со мной, [playername]!"
+        "Мой собственный оргазм уже приближался, всё моё тело напряглось, и я не успел и осознать, как достиг точки невозврата."
+        cream "Хааахх, я кончаю!"
         play sound cum
         show cream missionary6 with cum
         play sound cum
         show cream missionary6 with cum
-        "My climax hit and sent sparks of pleasure through my body while I ejaculated deep inside Cream, filling her pussy with my thick, hot cum."
+        "Мой оргазм обрушился на меня как гром среди ясного неба, разразившись искрами удовольствия по всему моему телу, пока я кончал внутрь Крем, заполняя её моей горячей и густой спермой."
         play sound cum
         show cream missionary6 with cum
         play sound cum
         show cream missionary6 with cum
         stop ambience fadeout 3.0
-        cream "Mmmhnnnggg…"
+        cream "Мммхнннггг…"
         scene bg black with dissolve
         if crystalballactivated == 1:
             jump cbmenu
         stop music fadeout 3.0
         "…"
-        "The two of us cuddled for a while, although it was starting to get late, it was almost time for the guests of the party to arrive!"
+        "Мы ещё некоторое время лежали, обнявшись, хоть уже потихоньку и приближалось время прибытия на вечеринку гостей."
         show bg bakeryparty1 with dissolve
         play music inlove fadein 10.0
         play sound doorbell
-        "Ding-dong! Thirty minutes after having sex with Cream, the first guest arrives!"
+        "Динь-дон! Спустя 30 минут после секса с Крем, появился первый гость!"
         ## Honeycrisp
         if farmvisit3 == 1:
-            "Upon opening the door, Honeycrisp is the first to arrive. 8:00pm on the dot, I'd expect no less from Honey."
+            "За дверью стояла Ханикрисп, прибывшая первой. Строго в 8:00 вечера, я и не ожидал ничего другого от Хани."
             show honeycrisp nchappy with dissolve:
                 xpos 150
                 ypos 20
-            honeycrisp "Howdy! When I heard [playername] and Cream were throwing a party, I knew it wasn't one to be missed!"
+            honeycrisp "Здорово! Когда я услышала, что [playername] и Крем устраивают вечеринку, я сразу поняла, что не могу её пропустить!"
             show blossom laughing with dissolve:
                 xpos 500
                 ypos 75
-            blossom "Y'all really gone all out, this place looks awesome!"
+            blossom "Вы реально постарались, это место выглядит круто!"
             show cream happy with dissolve:
                 xpos 850
                 ypos 50
-            cream "Honey! Blossom! It's so great to see you two!"
-            honeycrisp "I brought a pack of some homebrew cider, let's have a great one!"
-            cream "Awwhh, you shouldn't have, let's pop them in the fridge."
+            cream "Хани! Блоссом! Я так рад увидеть вас обеих!"
+            honeycrisp "Я принесла с собой упаковку домашнего сидра, давайте хорошо оторвёмся!"
+            cream "Аввх, тебе не стоило! Я поставлю её в холодильник."
             scene bg bakeryparty1 with dissolve
             show blossom happy with dissolve
-            blossom "Hey [playername], it's always nice to see you."
-            mc "I've been getting around lately, what have you been up to?"
+            blossom "Привет, [playername], всегда приятно тебя видеть."
+            mc "Я был в последнее время слегка занят, а как ты поживаешь?"
             show blossom laughing with dissolve
-            blossom "Really well, thank you again for the help at the farm, Anna and Honey are working closer than ever."
-            blossom "They're considering becoming business partners, the future for the farm is really promising."
-            mc "Anna does seem like a cunning business woman, she might be the perfect partner for Honey."
+            blossom "Очень хорошо, ещё раз спасибо тебе за помощь на ферме, Анна и Хани сейчас работают вместе больше, чем когда либо."
+            blossom "Они обсуждают возможность стать партнёрами по бизнесу, будущее для нашей фермы выглядит очень многообещающим."
+            mc "Анна выглядит весьма искусной в плане ведения дел, она вполне может стать идеальным партнёром для Хани."
             show blossom happy with dissolve
-            blossom "Hmm, partner... Do you think they make a cute couple?"
-            "Honeycrisp calls from the kitchen."
-            honeycrisp "Hey Blossom, come try out these cakes!"
-            blossom "Oh! Sorry [playername]! Coming!"
+            blossom "Хмм, пратнёром... Как думаешь, они были бы милой парой?"
+            "Ханикрисп зовёт из кухни."
+            honeycrisp "Эй, Блоссом, иди попробуй эти тортики!"
+            blossom "Ой! Извини, [playername]! Уже иду!"
             hide blossom with moveoutleft
             play sound doorbell
-            "Just as I move to leave with Blossom the doorbell rings again."
-            cream "Ohh, get that for me [playername]!"
-            mc "I got it!"
-            "Guess those cakes will have to wait."
+            "Стоило мне отойти от двери вслед за Блоссом, снова раздался звонок."
+            cream "Уух, открой, пожалуйста дверь, [playername]!"
+            mc "Конечно!"
+            "Похоже, тортикам придётся подождать."
         else:
-            "The first guest is a mare I haven't seen before, I think it's the owner of the farm Honeycrisp."
+            "Первым гостем оказалась кобыла, которую я прежде не видел, мне кажется, это Ханикрисп, владелица фермы."
             if farmvisit1 == 1:
                 show honeycrisp happy with dissolve:
                     xpos 150
                     ypos 20
-                honeycrisp "Howdy! When I heard Cream was throwing a party, I knew it wasn't one to be missed!"
+                honeycrisp "Здорово! Когда я услышала, что Крем устраивает вечеринку, я сразу поняла, что не могу её пропустить!"
                 show cream happy with dissolve:
                     xpos 850
                     ypos 50
-                cream "Honey! It's so great to see you!"
+                cream "Хани! Я так рада тебя увидеть!"
                 show honeycrisp laughing with dissolve
-                honeycrisp "Ah-ha, and it's the incredibly useful [playername]! Helping out a lot of people, eh?"
-                mc "Yeah, I'm definitely getting around. Trying to meet a lot of people in my early days staying in Arcadia."
+                honeycrisp "Ага-а, а это необычайно полезный [playername], собственной персоной! Помогаешь всем вокруг, как я погляжу?"
+                mc "Да, я осваиваюсь потихоньку. Пытаюсь встретить как можно больше новых людей вокруг, раз уж я остаюсь в Аркадии."
                 show honeycrisp happy with dissolve
-                honeycrisp "If you're trying to make friends, ya picked the right person to hang around with, this is gonna be a great party to mingle!"
+                honeycrisp "Если ты пытаешься завести друзей, то ты сделал верный выбор, эта вечеринка будет прекрасным местом для новых знакомств!"
                 show cream neutral with dissolve
-                cream "Ah, you flatter me Honey!"
+                cream "Ах, ты меня смущаешь, Хани!"
                 show honeycrisp happy with dissolve
             else:
                 show honeycrisp happy with dissolve:
                     xpos 150
                     ypos 20
-                honeycrisp "Howdy! When I heard Cream was throwing a party, I knew it wasn't one to be missed!"
+                honeycrisp "Здорово! Когда я услышала, что Крем устраивает вечеринку, я сразу поняла, что не могу её пропустить!"
                 show cream happy with dissolve:
                     xpos 850
                     ypos 50
-                cream "Honey! It's so great to see you!"
+                cream "Хани! Я так рада тебя увидеть!"
                 show honeycrisp laughing with dissolve
-                honeycrisp "Hello new face, is this the young man from Penelope's letter?"
-                mc "That'll be me, nice to meet you Honeycrisp."
-                honeycrisp "It's my pleasure, stud!"
+                honeycrisp "Привет тебе, новое лицо, это же тот молодой человек из письма Пенелопы?"
+                mc "Он самый, очень приятно познакомиться с тобой, Ханикрисп."
+                honeycrisp "Взаимно, жеребец!"
                 show honeycrisp happy with dissolve
-            honeycrisp "I brought a pack of some homebrew cider, let's have a great one!"
+            honeycrisp "Я принесла с собой упаковку домашнего сидра, давайте хорошо оторвёмся!"
             show cream neutral with dissolve
-            cream "Oh goodness, you shouldn't have."
-            cream "You shouldn't be carrying that around with your injury, here, let me take it to the kitchen."
-            honeycrisp "Y'all ain't gotta worry about me! Just show me to the fridge."
+            cream "О божечки, тебе не стоило."
+            cream "Не надо было таскать её с собой во время твоей травмы, давай сюда, я поставлю в холодильник."
+            honeycrisp "Не стоит волноваться обо мне! Просто покажи мне, где холодильник."
             hide cream
             hide honeycrisp
             with dissolve
             play sound doorbell
-            "Just as I move to go to the kitchen with the girls, the doorbell rings again."
-            cream "Ohh, get that for me [playername]!"
-            mc "I got it!"
+            "Только я собрался присоединиться к девушкам на кухне, как снова раздался звонок."
+            cream "Уух, открой, пожалуйста дверь, [playername]!"
+            mc "Конечно!"
         if boutiquevisit3 == 1:
-            "As I open the door, Ruby steps in with vigor."
+            "Как только я открыл дверь, внутрь энергично заскочила Руби."
             show ruby laughing with dissolve:
                 xpos 750
                 ypos 50
-            ruby "Hellloooo darling!"
-            mc "Hey Ruby! It's great to see you!"
+            ruby "Привееет, дорогуша!"
+            mc "Привет, Руби! Я рад тебя видеть!"
             play music melodytheme
             show melody fufufu with dissolve:
                 xpos 250
                 ypos 75
             show ruby neutral with dissolve
-            melody "Helllooo wormy boi!"
-            mc "Oh, hey Melody."
+            melody "Здоровааа, червячок!"
+            mc "О, здравствуй, Мелоди."
             show melody happy with dissolve
-            melody "Hey cutie, thanks for the invitation!"
-            melody "Oh, Blossom and booze is in the kitchen, see ya chumps."
+            melody "Эй, милашка, спасибо за приглашение!"
+            melody "О, Блоссом и выпивка на кухне, увидимся, болваны."
             hide melody with dissolve
             show ruby embarrassed with dissolve
             play music inlove fadeout 3.0
-            ruby "My, my, don't take Melody's troublesome behaviour too personally."
-            mc "Don't worry about it, I know she's only playing around with me."
+            ruby "Ах, дорогуша, не принимай близко к сердцу беспокойное поведение Мелоди."
+            mc "Не волнуйся, я знаю, что она просто изображает из себя такую, играя со мной."
             show ruby happy with dissolve
-            ruby "When I was younger I was the same in some ways, whenever I had a crush on a boy I'd tease him."
-            mc "You grew out of it?"
+            ruby "Когда я была моложе, я была похожа на неё в какой-то степени: стоило влюбиться в парня, как я сразу начинала дразнить его."
+            mc "Но ты выросла из этого?"
             show ruby embarrassed with dissolve
-            ruby "*Giggles*, partially! I still tease Hon- ahhh..."
-            mc "Awh, you have a {i}crush{/i} on her?"
+            ruby "*хихикая*, частично! Я всё ещё дразню Хан- аахх..."
+            mc "Авв, ты {i}влюбилась{/i} в неё?"
             show ruby shy with dissolve
-            ruby "It's a bad crush to have, since I know she's involved with a heifer..."
+            ruby "Это не самая лучшая влюблённость, так как я знаю, что она тесно связана с тёлкой..."
             if farmvisit2 == 1:
-                mc "Anna? That's rough."
-            ruby "I guess it's not all bad I suppose. Just like you and I, she and I can have 'fun'."
-            mc "Everyone's really sleeping around, huh?"
+                mc "С Анной? Фигово."
+            ruby "Я полагаю, всё не так уж плохо. Также, как и мы с тобой, я и она вполне можем 'развлекаться'."
+            mc "Все вокруг и вправду спят со всеми, а?"
             show ruby laughing with dissolve
-            ruby "We truly are despicable, aren't we just? Perhaps it's time we all grew out of it and settled down with partners."
+            ruby "Все мы действительно презренны, не так ли? Возможно, настало время всем нам наконец-то подрасти и поселиться с нашими партнёрами."
             show ruby horny with dissolve
-            ruby "But I know I couldn't refuse if you asked."
-            mc "You're kinda making me feel guilty!"
+            ruby "Но я знаю, что не могла бы отказать, если бы ты попросил..."
+            mc "Ты заставляешь меня чувствовать себя слегка виноватым!"
             play sound doorbell
         else:
-            "As I open the door, it's a white mare with pink hair, I don't believe I've met her before."
+            "За дверью стояла белая кобыла с розовыми волосами. Не думаю, что мы с ней до этого встречались."
             show ruby happy with dissolve:
                 xpos 850
                 ypos 50
-            ruby "Oh! Hello darling. Moxie's friend, correct? We haven't been properly introduced yet, although I've seen you roaming around."
-            mc "Indeed, you're the boutique owner, right?"
+            ruby "О! Здравствуй, дорогуша. Ты же друг Мокси, верно? Нас никто ещё не представил друг другу, хотя я и видела тебя несколько раз."
+            mc "Должно быть, ты владелица бутика, верно?"
             show ruby laughing with dissolve
-            ruby "Ah yes, it's truly my passion! I design dresses, clothes and the such."
-            mc "Pardon my ignorance, since I'm not from around here, but who buys your clothes?"
+            ruby "Ах да, это моя настоящая страсть! Я занимаюсь дизайном платьев, одежды и прочего."
+            mc "Прости меня за моё невежество, раз я не из этих краёв, но кто здесь покупает твою одежду?"
             show ruby neutral with dissolve
-            ruby "That's a perfectly natural question to ask darling, I sell clothes to, uhh..."
-            ruby "Well, business is somewhat limited. I sell sexy lingerie for the bedroom, and wedding dresses."
-            ruby "Some ponies like myself occasionally wear bathrobes too."
-            mc "Where I'm from, everyone wears clothes, so I feel quite naked around here."
+            ruby "Это вполне нормальный вопрос, дорогуша! Я продаю одежду... амм..."
+            ruby "Скажем так, у меня несколько специфическая клиентура. Я продаю сексуальное нижнее бельё и свадебные платья."
+            ruby "Некоторые пони, как я, иногда ещё носят банные халаты."
+            mc "Там, откуда я родом, все носят одежду, из-за этого я чувствовую себя обнажённым в этих краях."
             show ruby laughing with dissolve
-            ruby "Ohh? Perhaps I should relocate my business there! *Giggles*!"
+            ruby "Оуу? Возможно, мне стоило бы перенести свой бизнес туда? *хихикает*!"
             play sound doorbell
-        "The door rings again! These mares are far better at arriving on time than I'm used to."
+        "И снова звонок в дверь! Эти кобылки куда пунктуальнее, чем я."
         if barvisit1 == 1:
             show rikub:
                 xpos 150
@@ -733,12 +733,12 @@ label bakery:
                 xpos 150
                 ypos 50
             with dissolve
-            riku "Well well well! If it ain't troublemaker 1 and 2!"
+            riku "Агааа, кто тут у нас? Нарушители спокойствия номер 1 и 2!"
             show riku happy with dissolve
-            riku "You can decide amongst yourselves who is who."
-            ruby "Ahh Riku, it's been too long!"
+            riku "Уж сами решите друг с другом, кто есть кто."
+            ruby "Ахх, Рику, мы так давно не виделись!"
             scene bg bakeryparty1 with dissolve
-            "The two girls hug, Riku clearly enjoying the feeling of Ruby's bosom almost a little too much as she winks at me."
+            "Девушки заключают друг друга в объятия, и становится очевидно, что Рику наслаждается близостью груди Руби, возможно, чуть больше, чем стоило. Заметив, что я пялюсь, Рику подмигнула мне."
             show rikub:
                 xpos 150
                 ypos 50
@@ -749,18 +749,18 @@ label bakery:
                 xpos 850
                 ypos 50
             with d
-            riku "You been busy lately Rubes? You used to come to the bar all the time."
+            riku "Сильно занята в последнее время, Рубс? Раньше ты постоянно заглядывала в мой бар."
             if boutiquevisit3 == 1:
                 show ruby laughing with dissolve
-                ruby "Well, business has simply been fantastic as more and more dresses are being accepted! I'm really starting to make a name for myself."
-                riku "That's great news! Here, I brought some drinks, let's go and celebrate instead of mooting around the door."
+                ruby "О, бизнес в последнее время процветает, у меня берут всё больше и больше заказов на платья! Я начинаю себе зарабатывать репутацию в высоких кругах."
+                riku "Это отличные новости! Смотри, я захватила с собой немного выпивки, пойдём лучше отметим это, чем просто стоять тут и оббивать пороги."
             else:
                 show ruby shy with dissolve
-                ruby "Well, business has been a little tight, I've been trying to get my name out to keep cash flow going."
-                riku "Keep trying Rubes, I know your designs are amazing!"
-                riku "Say, I brought some drinks, let's go and forget about work and drink for the future."
+                ruby "Ну, сейчас всё немного сложно с бизнесом, я пытаюсь заработать себе имя и репутацию, чтобы начать получать прибыль."
+                riku "Продолжай в том же духе, Рубс, твои дизайны великолепны!"
+                riku "Слушай, я захватила с собой немного напитков, пойдём, забудем о работе и выпьем за светлое будущее."
             show ruby happy with dissolve
-            ruby "Good idea, I could use a few drinks."
+            ruby "Хорошая идея. Я бы не отказалась от пары стаканчиков."
         else:
             show rikub:
                 xpos 150
@@ -769,15 +769,15 @@ label bakery:
                 xpos 150
                 ypos 50
             with dissolve
-            riku "Well well well! If it ain't the notorious furless man and his girlfriend!"
+            riku "Агааа, кто тут у нас? Небезызвестный бесшёрстный мужчина и его девушка!"
             show ruby embarrassed with dissolve
-            ruby "G-Girlfriend? I don't know what you mean!"
+            ruby "Д-девушка?! Я понятия не имею, о чём ты говоришь!"
             show riku happy with dissolve
-            riku "Ahaha, I'm kidding Rubes! You're way too easy to wind up."
+            riku "Ахаха, я же шучу, Рубс! Тебя слишком просто развести."
             show ruby happy with dissolve
-            ruby "Oh Riku! I've not missed your teasing at all!"
+            ruby "О, Рику! Я вообще не скучала по твоим дружеским подколкам!"
             scene bg bakeryparty1 with dissolve
-            "The two girls hug, Riku clearly enjoying the feeling of Ruby's bosom almost a little too much as she winks at me."
+            "Девушки заключают друг друга в объятия, и становится очевидно, что Рику наслаждается близостью груди Руби, возможно, чуть больше, чем стоило. Заметив, что я пялюсь, Рику подмигнула мне."
             show rikub:
                 xpos 150
                 ypos 50
@@ -788,20 +788,20 @@ label bakery:
                 xpos 850
                 ypos 50
             with dissolve
-            riku "Nice to meet you new guy, hope you're settling in well. Swing round the bar any morning if you're looking for work."
-            mc "Sure thing, thank you."
-            riku "You been busy lately Rubes? You used to come to the bar all the time."
+            riku "Приятно познакомиться с тобой, новенький, надеюсь, ты тут себя ощущаешь комфортно. Заскакивай в мой бар любым утром, если тебе требуется работа."
+            mc "Разумеется, спасибо."
+            riku "Сильно занята в последнее время, Рубс? Раньше ты постоянно заглядывала в мой бар."
             if boutiquevisit3 == 1:
                 show ruby laughing with dissolve
-                ruby "Well, business has simply been fantastic as more and more dresses are being accepted! I'm really starting to make a name for myself."
-                riku "That's great news! Here, I brought some drinks, let's go and celebrate instead of mooting around the door."
+                ruby "О, бизнес в последнее время процветает, у меня берут всё больше и больше заказов на платья! Я начинаю себе зарабатывать репутацию в высоких кругах."
+                riku "Это отличные новости! Смотри, я захватила с собой немного выпивки, пойдём лучше отметим это, чем просто стоять тут и оббивать пороги."
             else:
                 show ruby shy with dissolve
-                ruby "Well, business has been a little tight, I've been trying to get my name out to keep cash flow going."
-                riku "Keep trying Rubes, I know your designs are amazing!"
-                riku "Say, I brought some drinks, let's go and forget about work and drink for the future."
+                ruby "Ну, сейчас всё немного сложно с бизнесом, я пытаюсь заработать себе имя и репутацию, чтобы начать получать прибыль."
+                riku "Продолжай в том же духе, Рубс, твои дизайны великолепны!"
+                riku "Слушай, я захватила с собой немного напитков, пойдём, забудем о работе и выпьем за светлое будущее."
             show ruby happy with dissolve
-            ruby "Good idea, I could use a few drinks."
+            ruby "Хорошая идея. Я бы не отказалась от пары стаканчиков."
         play music inpeace fadein 3.0
         scene bg bakerykitchen with dissolve
         if farmvisit3 == 1:
@@ -825,29 +825,29 @@ label bakery:
             xpos 900
             ypos 50
         with dissolve
-        "Wow, there's so many people here now! They're all such great friends, they talk as if they've known each other for years, and they probably have."
-        cream "And so, I was like, yeah, and he was like, totally! And she was like, uhuh!"
-        ruby "Ohh, but what about Sqiggles?"
-        honeycrisp "Fancy a cider, Riku?"
+        "Ого, вокруг столько народа! И явно все хорошие друзья, похоже, что они очень давно знают друг друга."
+        cream "А я такая, ага, а он такой, точняк! И она такая, агаа!"
+        ruby "О, а что насчёт Сквигглса?"
+        honeycrisp "Хочешь сидра, Рику?"
         show riku laughing with dissolve
-        riku "I could use a couple if I'm gonna follow that conversation."
-        "I can't really follow the conversation either, there's a lot of specific chatter and catching up happening, it's somewhat overwhelming."
-        "Although there're still a few more people missing..."
+        riku "Я не буду против пары бутылочек, если я планирую поспевать за этой беседой."
+        "Я тоже не особо могу следить за беседой, они обсуждают очень много специфических тем и пытаются наверстать упущенное, что слегка через меры для сторонних ушей."
+        "И всё ещё не хватает нескольких человек..."
         play sound doorbell
-        "Oh, there's the door again!"
-        mc "I'll get it!"
+        "О, а вот и вновь дверной звонок!"
+        mc "Я открою!"
         scene bg bakeryparty1 with dissolve
-        "I open up the door and it's ol' reliable, a girl that'll definitely keep me company, even if the party is overwhelming."
+        "Я открываю дверь и вижу старую верную девчонку, которая с радостью составит мне компанию, даже если я слегка устану от гула вечеринки."
         show moxie happy with dissolve:
             xpos 200
             ypos 20
-        moxie "Heyy! Sorry I'm a little late, I know it's not BYOB but I brought some drinks anyway!"
-        mc "Ahaha, that explains why one of the mares that lives the closest ended up being one of the last to arrive!"
+        moxie "Эйй! Прости, что я немного опоздала. Я знаю, что тут необязательно приносить свою выпивку, но я всё равно захватила её с собой!"
+        mc "Хахах, так вот почему одна из ближе всего живущих к кондитерской кобыл приходит последней!"
         show moxie laughing with dissolve
-        moxie "Heh, you know what they say, those the closest are always the last to arrive."
+        moxie "Хех, ты знаешь, как говорится, кто ближе живёт, тот последним придёт."
         if libraryvisit3 == 1:
             show moxie happy with dissolve
-            moxie "But there's another reason I'm late, look who I ran into!"
+            moxie "Но есть ещё одна причина, почему я опоздала, смотри, на кого я наткнулась по пути!"
             show lilyb:
                 xpos 750
                 ypos 50
@@ -855,98 +855,98 @@ label bakery:
                 xpos 750
                 ypos 50
             with dissolve
-            lily "Uhm, hey! The party's here, right?"
+            lily "Ухм, привет! Вечеринка же здесь, да?"
             show moxie althappy with dissolve
-            moxie "She won't admit it, but I saw her outside building the courage to come in."
-            lily "It's just that I haven't seen some of these girls for months..."
-            lily "*Sigh* But there's no way I can refuse a party when all the Elements of Har'Mony are attending."
-            mc "Awh, let's get her some booze!"
+            moxie "Она никогда в этом не признается, но я заметила её снаружи, набирающейся смелости войти внутрь."
+            lily "Просто я не видела некоторых девочек уже месяцами..."
+            lily "*вздох* Я не могу пропустить вечеринку со всеми Элементами Гаремии."
+            mc "Авв, пойдём уже выпьем!"
             show moxie laughing with dissolve
-            moxie "Great idea! Your genius is showing!"
-            lily "Mmm, okay, I do like Honey's cider."
+            moxie "Отличная идея! Проявляешь свой интеллект!"
+            lily "Ммм, хорошо, мне нравится сидр Хани."
             scene bg bakerykitchen with dissolve
-            "As we enter the kitchen, Lily manages to find some confidence and make some light conversation with her friends. Before she knows it, she's completely back to her usual self."
+            "Как только мы вошли на кухню, Лили нашла в себе уверенность, чтобы заговорить с подругами. И вот уже, незаметно для всех, она вернулась к более обычной и общительной версии себя."
             show moxie happyneutral with dissolve:
                 xpos 200
                 ypos 20
-            moxie "Really goes to show ya, most of that shyness is in the mind."
-            mc "That's true, but it can still be very hard to overcome."
-            moxie "She'll definitely break out of it though, anyone can feel shy after not talking for months."
+            moxie "Вот тебе и наглядное доказательство, что вся стеснительность в голове."
+            mc "Твоя правда, но, всё же, её может быть очень сложно перебороть."
+            moxie "Но Лили однозначно сможет её перебороть: любой поначалу будет чувствовать себя немного не в своей тарелке после месяцев затворничества и отсутствия общения с друзьями."
         else:
             scene bg bakerykitchen with dissolve
             show moxie happyneutral with dissolve:
                     xpos 200
                     ypos 50
-        moxie "Phew, this party is really good! It's actually my first party with Cream. For once, we're both strangers in this new world."
-        mc "You feel shy too?"
-        moxie "Mm, a little, but these are all lovely mares, and I'm quite close with some of them, like Riku."
+        moxie "Фух, эта вечеринка реально крута! Фактически, это первая моя вечеринка с Крем. Наконец-то мы с тобой оба чужаки в этом новом мире."
+        mc "Ты тоже чувствуешь себя стеснительно в толпе?"
+        moxie "Мм, слегка, но все вокруг - прекрасные кобылки, и я довольно близка с некоторыми из них, например, с Рику."
         if barvisit2 == 1:
-            mc "Heh, we both know how close you are with Riku."
-            moxie "Ahh, shush you, someone might hear."
+            mc "Хех, мы оба знаем, насколько ты близка с Рику."
+            moxie "Ахх, тихо ты, кто-то же может услышать."
         pass
         if days >= 6:
-            moxie "And that's to say nothing about how close you are with some of them, right?"
-            mc "I don't think it'd be appropriate to overshare."
-            moxie "Hehe, my lips are sealed."
+            moxie "И это даже не говоря о том, насколько близок ты с некоторыми из них, да?"
+            mc "Я не думаю, что было бы вежливо со всеми этим делиться."
+            moxie "Хехе, мой рот на замке."
         else:
-            moxie "What about you? Are you close friends with anyone yet?"
-            mc "I'm settling in well, me and Cream clicked pretty good."
+            moxie "А как насчёт тебя? Уже успел с кем-то стать близкими друзьями?"
+            mc "Я обустраиваюсь потихоньку, я и Крем довольно неплохо нашли общий язык."
         show moxie horny with dissolve
-        moxie "Have you, y'know, done the business with Cream yet?"
-        mc "Oh my gosh, you are so nosy!"
+        moxie "Общий язык, говоришь? А вы с ней уже... занимались делами?"
+        mc "О боже, ты такая любопытная!"
         show ruby happy with dissolve:
             xpos 500
             ypos 50
-        ruby "Did someone say nosy, darlings? I'd like to be nosy and ask where darling Penelope is."
+        ruby "Кто-то сказал о любопытстве, дорогуши? Я бы хотела проявить его и спросить, где дорогая Пенелопа."
         show moxie neutral with dissolve
-        moxie "Hmm, good question, doesn't look like she's coming though."
-        mc "Really? I thought she'd quite enjoy a party."
+        moxie "Хмм, хороший вопрос, но не похоже, впрочем, что она придёт."
+        mc "Думаешь? Мне казалось, ей бы очень понравилось на этой вечеринке."
         show moxie neutralhappy with dissolve
-        moxie "Seems like she's preoccupied with her work, she's a busy gal after all."
+        moxie "Похоже, что она с головой ушла в работу, всё же, она очень занятая девушка."
         show ruby neutral with dissolve
         if libraryvisit3 == 0:
-            ruby "That's a shame, I would have liked to see Lily and Butters as well."
+            ruby "Как жаль, хотелось бы, конечно, повидаться ещё и с Баттерс и Лили."
         else:
-            ruby "That's a shame, I would have liked to see Butters as well."
-        ruby "Almost a full house, but we never seem to have the luck these days. It's such a shame that the Elements of Har'Mony have grown apart after everything we've been through."
+            ruby "Как жаль, хотелось бы, конечно, повидаться ещё и с Баттерс."
+        ruby "Почти полный набор, но, похоже, что не судьба. Как жаль, что Элементы Гаремии разошлись кто куда после всего, через что мы все вместе прошли."
         if forestvisit3 == 1:
             play sound doorbell
-            mc "Oh? Someone else?"
-            "Cream goes to answer the door and it's Butters! After some greetings, she quickly finds herself talking to Moxie, Ruby and I."
+            mc "О? Кто-то ещё пришёл?"
+            "Крем идёт открыть дверь, и это Баттерс! После обмена приветствиями, она начинает беседовать с Мокси, Руби и мной."
             show butters dresshappy with dissolve:
                 xpos 700
                 ypos 35
-            butters "Parties aren't really my style, but I thought I should come for old time's sake."
+            butters "Вечеринки, не совсем в моём стиле, но я подумала, что почему бы и не повеселиться как в старые добрые времена."
             show ruby happy with dissolve
-            ruby "I really respect that darling, would you like me to make you a drink?"
-            butters "Do you have anything sweet?"
-            moxie "You like sweet drinks too? Try some of the stuff I brought, it's great."
+            ruby "Я очень ценю твоё решение, дорогуша, тебе налить выпить?"
+            butters "Есть что-то послаще?"
+            moxie "Тебе тоже нравятся сладкие напитки? Попробуй вот этот, что я захватила с собой - вкус великолепный."
         stop music fadeout 3.0
         scene bg bakeryparty2 with dissolve
         show cream happy with dissolve
-        cream "Hey everyone, I wanna do a cheers!"
+        cream "Эй, народ, я хочу произнести тост!"
         if forestvisit3 == 1 and libraryvisit3 == 1:
-            cream "I'm so glad the entire old crew is here! It really warms my heart!"
+            cream "Я так рада, что вся наша старая компания смогла собраться сегодня вместе! Это греет мою душу!"
         else:
-            cream "Not everyone could make it today, so I want to make this toast to them and the old times. It really warms my heart to see so many of my old friends here in one place."
-        cream "From the day we met, to the day we conquered that evil bug queen many years ago, and even today, we'll be friends to the end!"
-        cream "I want everyone to have a super duper amazing party! Cheers!"
-        everyone "Cheers!"
+            cream "К сожалению, не все сегодня смогли прийти, так что я хотела бы этот тост посвятить им и нашим временам вместе. Мою душу греет видеть вокруг столько старых друзей!"
+        cream "С того дня, как мы все встретились, вплоть до того дня, когда мы победили ту злую жучиную королеву много лет назад, да даже вплоть до сегодняшнего дня мы остаёмся настоящими друзьями до конца!"
+        cream "И я хочу, чтобы все по максимуму насладились это вечеринкой и как можно больше повеселились! За нас!"
+        everyone "За нас!"
         scene bg black with dissolve
         if crystalballdayactivated == 1:
             jump cbmenu
-        "The party goes on for hours and everyone has a great opportunity to mingle and get drunk."
-        "Who should I talk to the most? They might take me to their place after the party."
+        "Вечеринка длится часами, так что у всех есть отличная возможность пообщаться и напиться."
+        "С кем мне стоит пообщаться? Возможно, они пригласят меня к себе после вечеринки."
         menu:
-            "Moxie":
-                "I spend the majority of the night talking with Moxie, which easily leads to sex when we get back to her wagon."
+            "Мокси":
+                "Я провожу остаток ночи с Мокси, что приводит нас к страстному сексу, когда мы вернулись в её повозку."
                 scene bg moxiebednight with dissolve
                 jump moxieanal
-            "Butters" if forestvisit3 == 1:
-                "I spend the majority of the night talking with Butters! She gets drunk very easily, and she's very flirty with me throughout the night."
-                "As we return to her cottage, her drunk succubus form is the one to take initiative. I didn't expect that!"
+            "Баттерс" if forestvisit3 == 1:
+                "Я провожу остаток ночи, болтая с Баттерс! Она очень быстро напилась и почти всю ночь флиртовала со мной."
+                "Стоило нам вернуться в её домик, её опьянённая форма суккуба взяла верх. Я этого не ожидал!"
                 jump succbuttersrcg
-            "Honeycrisp" if farmvisit3 == 1:
+            "Ханикрисп" if farmvisit3 == 1:
                 "Honey and I spend a lot of time talking, she laments that she never got enough time off work to spend time with me properly, and says she'll 'fix that' if we have some more time alone."
                 "Yeah, you know I'm going back to her place."
                 stop ambience fadeout 5.0
