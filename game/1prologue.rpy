@@ -464,22 +464,22 @@ label prologue:
         "Ее фургончик выглядит компактно, при это он не так уж и мал. Здесь достаточно места для спальни, ванной, кухни и гостиной."
         hide moxie happy with dissolve
         show bg moxiebednight with dissolve
-        "Her bedroom is essentially only a closet and a double bed; the floor space is almost non-existent except for the doorway."
-        "I don't care about that right now though, this bed looks incredibly cosy."
-        "Moxie jumps on the bed and crawls up to the pillows on all fours, I slink my way to her side and bury myself under the comfortable covers. "
+        "Ее спальня - это, по сути, только шкаф и двуспальная кровать; кроме прохода к двери, свободного места места почти нет,."
+        "Но сейчас меня это не волнует, эта кровать выглядит невероятно уютной."
+        "Мокси запрыгивает на кровать и на четвереньках подползает к подушкам, я подкрадываюсь к ней и устраиваюсь под одеялом. "
         show moxie closesatisfied with dissolve
-        "She slips under the covers with me and snuggles quite close to me. It seems she’s tired too; I’m not surprised. What a night."
-        moxie "Goodnight [playername]."
-        "I wonder if everything will go back to normal when I wake up."
-        mc "Goodnight Moxie."
+        "Она проскальзывает ко мне под одеяло и прижимается совсем близко. Похоже она тоже устала; я не удивлен. Ночка выдалась что надо."
+        moxie "Спокойной ночи [playername]."
+        "Интересно, когда я проснусь,вернется ли все на круги своя?"
+        mc "Спокойной ночи, Мокси."
         hide moxie closesatisfied with dissolve
         show bg black with dissolve
         stop music fadeout 8.0
-        "I can feel the soft fur of her thighs tangle against the bare skin of mine."
-        "It feels luxurious, like I could just melt away in this bed."
-        "It’s so… "
-        "It’s…"
-        "Comfy…"
+        "Я ощущаю нежное теплое и мягкий мех прижавшейся Мокси."
+        "Это шикарно, я словно таю."
+        "Это так… "
+        "Это…"
+        "Прия…"
         "…"
         "……"
         "………"
@@ -489,39 +489,39 @@ label prologue:
         jump prologueday2
     label prologueday2:
         play ambience ambienceday
-        mc "Mmphh…"
+        mc "Ммфх…"
         scene bg moxiebedday with dissolve
-        "My eyes open, the blinds aren’t black-out so I can tell its day outside…"
+        "Я открыл глаза, жалюзи подняты, похожу снаружи день…"
         show moxie closehorny with dissolve
-        "Yep, Moxie is there, still. In fact, she’s looking directly at me. Her expression feels so delicate, her lips are slightly parted and there’s a dreamy look in her eyes. "
+        "Да, Мокси все еще здесь. На самом деле она смотрит прямо на меня. Выражение ее лица такое нежное, ее губы слегка приоткрыты, она витает в мечтах. "
         show moxie closesatisfied with dissolve
         show moxie closehorny with dissolve
-        "She looks down for a moment her expression unchanging. She was caught staring at me, but she doesn’t seem embarrassed. "
-        mc "I’m still here."
+        "Она на мгновение опускает глаза, не меняя выражение лица. Она поймала себя на том, что пристально смотрит на меня, но не смущается этого. "
+        mc "Я еще тут."
         show moxie closesatisfied with dissolve
-        moxie "You’re still here… I’m glad."
-        mc "Really? I thought I might be a nuisance for you. "
+        moxie "Ты тоже тут… Я рада."
+        mc "Правда? Я думал, что я лишь помеха для тебя. "
         show moxie closealthappy with dissolve
-        moxie "Shh… You aren’t… You've got your uses, hehe..."
-        moxie "It’s pretty late in the morning. I’m usually awake by now, but I don’t really feel like getting out of bed."
+        moxie "Тсс… Это не так… Я знаю, как тебя использовать, хехе..."
+        moxie "Уу, уже позднее утро. Обычно я уже просыпаюсь к этому времени, но сейчас мне совсем не хочется вставать с постели."
         show moxie closesatisfied with dissolve
-        "She gets even closer; I can feel her warmth and her softness. Her chest presses against mine."
-        moxie "You can cuddle me if you want."
-        "Taking the invitation, I wrap one of my arms around her, it feels good."
+        "Она подходит еще ближе; я чувствую ее тепло и ее мягкую шерстку. Ее грудь прижимается к моей."
+        moxie "Ты можешь обнять меня, если хочешь."
+        "Я обнимаю ее одной рукой, отвечая на приглашение."
         show moxie closealthappy with dissolve
-        moxie "But if anyone asks, we never did anything sexual, or cute! I know I’ve been quite open and honest with you, but I have a cool persona I need to keep up when we go to meet my friends."
-        mc "Aren’t you going to keep me locked in your wagon like some kind of secret?"
+        moxie "Но если кто-нибудь спросит, мы никогда не делали ничего сексуального или милого! Я знаю, что была с тобой откровенна и честна, но у меня есть крутой образ, который я должна поддерживать, когда мы пойдем на встречу с моими друзьями."
+        mc "Разве ты не собираешься держать меня взаперти в в своем фургоне как какой-то секрет?"
         show moxie closelaughing with dissolve
-        moxie "Not a chance, I need to show you off and brag about how accomplished I’ve become as a spell caster. You’re my magnum opus."
+        moxie "Ни в коем случае, мне нужно показать тебя и похвастаться тем, какая опытная я волшебница. Ты мой магнум опус."
         hide moxie closelaughing with dissolve
-        "She shifts onto her back and gazes at the roof, my eyes follow hers and I notice an adorable star constellation poster above us."
+        "Она переворачивается на спину и смотрит на крышу, я следую за ее взглядом и замечаю чудесное избражение созвездия над нами."
         scene bg moxiebedroof with dissolve
-        moxie "My best friend is kind of a magic nerd and she has some crazy connections, she'll definitely have some good plans for you."
-        moxie "We'll go and see her, but... Let's snuggle first."
-        moxie "I actually wouldn’t be surprised if they just figured out a way to send you back immediately. "
-        mc "That would be a little anticlimactic, I wouldn’t even get the opportunity to properly uphold the deal."
-        moxie "Yeah… Totally not fair, I go through all of that work only for you to disappear. "
-        moxie "Which is why you should spend one more night with me, even if we figure out how to send you back. Promise?"
+        moxie "Моя лучшая подруга своего рода ботаник в плане волшебства, но ботаник с серьезными связми, у нее определенно будут далекоидущие планы на тебя."
+        moxie "Мы пойдем к ней, но ... ... Давай сначала прижмемся друг к другу."
+        moxie "Я не удивлюсь на самом деле, если они придумают способ немедленно отправить тебя обратно. "
+        mc "Это бы меня разочаровало, в таком случае, у меня даже не будет возможности должным образом выполнить свою часть сделку."
+        moxie "Угу… Это нечестно, я проделываю всю эту работу только для того, чтобы ты исчез. "
+        moxie "Вот почему ты должен провести со мной еще одну ночь, даже если мы придумаем как отправить тебя обратно. Обещаешь?"
         "I briefly have a flashback to my home life... It’ll take a few days before people notice I’ve gone missing, I don’t want to worry anyone, but these are unusual times."
         "I’ll have to accept the circumstances and push on. Moxie is my beacon of hope, it's the least I could do."
         menu:
