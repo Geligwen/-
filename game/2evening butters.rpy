@@ -133,7 +133,7 @@ label eveningbutters:
                             jump eveningbuttersmenu
                 "Ты говоришь я могу остаться жить с тобой?" if livingwithbutters == 0:
                     show butters dresslaughing with dissolve
-                    butters "Если ты хочешь остаться, of course you'd be welcome."
+                    butters "Если ты хочешь остаться, то конечно, я буду рада."
                     show butters dresshappy with dissolve
                     butters "Ты бы хотел остаться жить у меня? Бесплатно, само собой."
                     menu:
@@ -232,7 +232,7 @@ label eveningbutters:
                 show butters cowgirl1 with dissolve
                 play music sex1 fadein 3.0
                 butters "Мне нравится делать это чувственно и медленно, если ты не против"
-                mc "О да, давай отдадимся чувствам."
+                mc "О да, давай отдадимся страсти."
                 "По моему телу разливалось распаляющее тепло, от чего мой член твердел и уже встал напротив её живота, когда она начала тереться об него, её женские соки стали смазывать мой стержень."
                 show butters cowgirl2 with dissolve
                 "Но Баттерс не тратила времени на прелюдии, выгнув спину, она начала скользить своей бархотной киской вверх по моему смазанному перцу."
@@ -333,21 +333,21 @@ label eveningbutters:
                     jump altmorning
                 else:
                     jump morning
-            "Leg-Up Doggystyle" if buttersroses == 1:
+            "Догги-стайл с поднятой ногой" if buttersroses == 1:
                 scene bg buttersbednight with dissolve
                 play music sex1 fadein 3.0
-                butters "You wanna be in control? Okay, let's do it!"
+                butters "Ты хочешь вести? Хорошо, давай!"
                 hide butters with dissolve
-                "She wanders to the bedroom with a skip in her step before cartoonishly diving onto the bed, face first into a pillow."
+                "Она вприпрыжку идёт в спальню, прежде чем нелепо нырнуть в кровать, упёршись лицом в подушку."
                 show butters legupdoggy1 with dissolve
-                "And then in an incredibly erotic display, her rump raises, followed by one of her legs, her soaking wet and ready pussy on full display."
-                butters "Mmm, I'm all yours, baby..."
-                "I bring one hand under her raised leg, and another to her hip as I brush the tip of my cock against the lips of her vulva."
-                butters "No teasing, fuck me hard!"
+                "И затем мне открылся невероятно соблазнительный вид: её круп приподнялся, вслед за чем она задрала свою ногу, демонстрируя моему взгляду свою влажную от соков и уже готовую киску."
+                butters "Ммм, Я вся твоя, милый..."
+                "Одной рукой я хватаюсь за её поднятую ногу, а второй за её бедро, в это время головкой своего члена я трусь о губки её вульвы."
+                butters "Хватит дразнить, трахни меня уже!"
                 show butters legupdoggy2 with dissolve
-                "Her rump pushes back into me slightly and I respond by pushing into her even harder, pushing my cock all the way into her warm, inviting pussy in one smooth motion."
+                "С жадностью, предвкушая наслаждение, она прижимает свой зад ближе ко мне, на что я отвечаю, со всей силы упираясь в неё и проталкивая свой член одним плавным движением на всю длину в её теплую манящую киску."
                 show butters legupdoggy2deep with dissolve
-                butters "Аахх! Мммфффф, so good... Аххх..."
+                butters "Аахх! Мммфффф, как хорошо... Аххх..."
                 show butters legupdoggy2 with dissolve
                 show butters legupdoggy2deep with dissolve
                 "I grip her hips and leg and begin thrusting into her soft pillowy ass, pulling out as far as I can before slamming myself back into her needy pussy."
