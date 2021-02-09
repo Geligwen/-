@@ -522,20 +522,20 @@ label prologue:
         mc "Это бы меня разочаровало, в таком случае, у меня даже не будет возможности должным образом выполнить свою часть сделку."
         moxie "Угу… Это нечестно, я проделываю всю эту работу только для того, чтобы ты исчез. "
         moxie "Вот почему ты должен провести со мной еще одну ночь, даже если мы придумаем как отправить тебя обратно. Обещаешь?"
-        "I briefly have a flashback to my home life... It’ll take a few days before people notice I’ve gone missing, I don’t want to worry anyone, but these are unusual times."
-        "I’ll have to accept the circumstances and push on. Moxie is my beacon of hope, it's the least I could do."
+        "Я вспоминаю о своей жизни дома... Пройдет несколько дней, прежде чем люди заметят, что я пропал, я не хотел бы никого беспокоить, но это необычный случай."
+        "Придется смириться с обстоятельствами и двигаться дальше. Мокси - мой маяк надежды, это самое меньшее, что я могу для неё сделать."
         menu:
-            "I promise.":
-                moxie "Hehe, thank you."
-            "I should get back as soon as I can.":
-                moxie "That's okay too..."
+            "Я обещаю.":
+                moxie "Хехе, спасибо."
+            "Я должен вернуться как можно скорее.":
+                moxie "Ну ладно..."
         scene bg black with dissolve
         "..."
         play ambience ambienceday
         scene bg worldmapdialogue with dissolve
-        "We snuggled for about thirty minutes before leaving. The thing that scared me most about this wasn’t just meeting new strange people of a different species, but it was the cultural differences."
-        "Ponies don’t wear clothes, she told me, and that meant neither should I."
-        "I have to walk around naked with my flaccid penis limp between my legs. I'll never get used to this."
+        "Прежде чем уйти, мы пролежали в объятиях друг друга около получаса. Меня больше пугала не столько встреча с существами другого вида, сколько культурный барьер."
+        "Как она сказала, пони не носят одежду, значит, я тоже не должен."
+        "I have to walk around naked with my flaccid penis limp between my legs. Я никогда к этому не привыкну."
         scene bg arcadiasuburbs with dissolve
         show moxie happyneutral with dissolve
         "This is unbearably embarrassing, but Moxie assured me it was completely normal. She certainly didn’t seem to mind bearing all, so I just uncomfortably followed suit."
