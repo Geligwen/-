@@ -350,52 +350,52 @@ label eveningbutters:
                 butters "Аахх! Мммфффф, как хорошо... Аххх..."
                 show butters legupdoggy2 with dissolve
                 show butters legupdoggy2deep with dissolve
-                "I grip her hips and leg and begin thrusting into her soft pillowy ass, pulling out as far as I can before slamming myself back into her needy pussy."
+                "Я хватаю её за бедро и за ногу и начинаю долбить её мягкий упругий зад, выходя из неё настолько далеко, насколько я способен, перед каждым мощным ударом  в её жаждущую киску."
                 show butters legupdoggy2 with dissolve
                 show butters legupdoggy2deep with dissolve
-                "Her eyes roll back as I slam into her, each thrust elicits a moan of pleasure from my horny lover."
+                "Её глаза закатываются, когда я вхожу в неё, каждый толчок заставляет мою возбуждённую подругу стонать от удовольствия."
                 show butters legupdoggy2 with dissolve
                 show butters legupdoggy2deep with dissolve
-                "She squirms and groans under my assault, her pussy contracting as her easily earned orgasms start to overwhelm her body with pleasure."
+                "Она извивается и стонет под силой моего натиска, ее киска судорожно сжимается, когда ее внезапно словленные оргазмы начинают переполнять ее тело наслаждением."
                 show butters legupdoggy3 with dissolve
                 show butters legupdoggy4 with dissolve
-                "As she climaxes, her insides squeeze down around my shaft and she cries with pleasure."
+                "Когда она кончает её мышцы сжимаются вокруг моего стержня и она плачет от удовольствия."
                 show butters legupdoggy3 with dissolve
                 show butters legupdoggy4 with dissolve
-                "Her back arches, and her tits mash against the bed sheets below as her body quivers in response to the overpowering sensations."
+                "Её спина глубоко прогибается и её сиськи вжимаются в простыни, когда её тело бросает в дрожь от переполняющих ощущений."
                 show butters legupdoggy3 with dissolve
                 show butters legupdoggy4 with dissolve
-                "I continue to fuck her for a few minutes, and she comes a few times, turning from a dignified mare into a slutty mess."
+                "Я трахаю её на протяжении нескольких минут, за которые она кончает несколько раз, из достойной кобылки превращаясь в грязную шлюшку."
                 show butters legupdoggy3 with dissolve
                 show butters legupdoggy4 with dissolve
-                "My cock throbs and my orgasm teeters on the edge, her pussy just feels too good."
-                butters "C-Cum inside me, please!"
+                "Мой член пульсирует, я на грани оргазма: её киска просто потрясающая."
+                butters "К-кончи в меня, прошу!"
                 play sound cum
                 show butters legupdoggy5 with cum
                 show butters legupdoggy5deep with dissolve
                 play sound cum
                 show butters legupdoggy5 with cum
                 show butters legupdoggy5deep with dissolve
-                "I grit my teeth and with one last, mighty thrust, my cock swells and begins to launch several blasts of thick cum into her."
+                "Я стискиваю зубы и с последним мощным толчком мой член набухает и начинает накачивать Баттерс несколькими порциями липкой спермы."
                 play sound cum
                 show butters legupdoggy5 with cum
                 show butters legupdoggy5deep with dissolve
                 play sound cum
                 show butters legupdoggy5 with cum
                 show butters legupdoggy5deep with dissolve
-                butters "Aahh, yes! Fill me up! Mmmm..."
+                butters "Аахх, да! Наполни меня! Мммм..."
                 show butters legupdoggy6 with dissolve
                 stop music fadeout 3.0
                 stop ambience fadeout 3.0
-                "Exhausted, I pull out my cock, along with a glop of sex fluids."
-                "She smiles behind the pillow and enjoys the feeling of my hot cum dripping out of her pussy before we snuggle together."
-                "My eyes feel heavy as we cuddle and slowly drift off into a peaceful sleep."
+                "Изнурённый, я вынимаю свой член, полностью смазанный вязкой массой любовных соков."
+                "Она улыбается из-под подушки и чувствует себя наверху блаженства от ощущения моей горячей спермы, капающей из её киски, прежде чем мы прижимаемся друг к другу."
+                "Мои глаза тяжелеют и мы засыпаем в крепких объятиях."
                 scene bg black with dissolve
                 "..."
                 if livingwithbutters == 0:
                     scene bg black with dissolve
                     show  bg buttersbed with dissolve
-                    "In the morning I kiss Butters goodbye and return home."
+                    "На утро я попрощался, поцеловал Баттерс и ушёл домой."
                     scene bg black with dissolve
                     "..."
                     jump altmorning
