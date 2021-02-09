@@ -947,8 +947,8 @@ label bakery:
                 "Стоило нам вернуться в её домик, её опьянённая форма суккуба взяла верх. Я этого не ожидал!"
                 jump succbuttersrcg
             "Ханикрисп" if farmvisit3 == 1:
-                "Honey and I spend a lot of time talking, she laments that she never got enough time off work to spend time with me properly, and says she'll 'fix that' if we have some more time alone."
-                "Yeah, you know I'm going back to her place."
+                "Хани и я проводим много времени за разговорами: она пожаловалась, что из-за работы у неё постоянно не хватает времени, чтобы проводить его со мной, после чего она пообещала, что обязательно исправит это, стоит нам остаться наедине."
+                "О да, сегодня я явно ночую у неё дома."
                 stop ambience fadeout 5.0
                 show bg honeycrispbed with dissolve
                 $ honeycrispcomplete = 1
@@ -956,62 +956,62 @@ label bakery:
                 show honeycrisp closehorny with dissolve
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "With a smirk, the drunken Honeycrisp pushes me down onto her bed using the hand that was once in a cast. Now that it's free, I'm at the complete mercy of this girl's sexual appetite, and she's ready to show it in full force tonight."
+                    "Ухмыльнувшись, нетрезвая кобылка толкает меня на свою кровать при помощи когда-то перевязанной руки. Теперь, когда Ханикрисп ничего не мешает, я нахожусь в полной власти её сексуальных аппетитов, и она готова это продемонстрировать сегодня в полную силу."
                 else:
-                    "Giggling, the drunken Honeycrisp seductively presses me against the soft sheets of her bed using her main hand. She crawls towards me like a predator catching its prey. She isn't going to hold back tonight."
+                    "Хихикая, пьяная кобылка соблазнительно толкнула меня своей основной рукой на мягкие простыни своей кровати. Ханикрисп подползла ко мне, как хищник к своей добыче. Она явно сегодня не будет сдерживаться."
                 hide honeycrisp
                 show honeycrispb cowgirl1
                 show honeycrisp cowgirl2
                 with dissolve
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "I settle down under her, my cock eagerly pointing into the air already. I give Honeycrisp a nod which she returns with a smug look before she straddles me and slowly slides down onto my erect member."
+                    "Я устраиваюсь под ней, мой член уже жадно смотрит вверх. Я киваю Ханикрисп, на что она отвечает хитрым взглядом, прежде чем оседлать меня и медленно сползти на мой вставший член."
                 else:
-                    "The erotic display causes a rush of blood to my loins, my cock readily growing hard and pressing against Honeycrisp's fur thigh causing her to grin lecherously. Wordlessly, she positions herself above me and sits on my cock."
+                    "Эротичный вид вызывает прилив крови к моему паху: мой с готовностью вставший член прислоняется к мягкому бедру Ханикрисп, от чего та похотливо ухмыляется. Без лишних слов она занимает позицию надо мной и садится на мой член."
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    honeycrisp "Mmmphh, that satisfying feeling of slow insertion filling up my pussy, it never gets old..."
+                    honeycrisp "Мммфхх, это прекрасное чувство медленного вхождения в мою жадную киску, никогда не надоедает..."
                 else:
-                    honeycrisp "Ahh, I love your cock... Ever since rut in the barn I've been thinking about this while I masturbate..."
+                    honeycrisp "Ахх, я так люблю твой член... С того самого момента, как мы переспали в амбаре, я думала о нём, когда мастурбировала..."
                 play ambience sex fadein 3.0
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "Her pussy's comfortable tightness squeezes and massages my shaft as I give myself over Honey's dominant riding."
+                    "Её комфортно узкая киска сжимает и массажирует мой член, пока я с головой отдаюсь Хани и её доминирующей скачке."
                 else:
-                    "Her insides squeeze around my throbbing shaft sending waves of pleasure throughout me, especially as she begins to move her hips up and down."
+                    "Её внутренности сжимаются вокруг моего члена, отправляя волны удовольсвия через меня, особенно, когда она начинает двигать бёдрами вверх и вниз."
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "It's almost like she's purposely contracting her muscles to tighten and squeeze around my cock."
+                    "Выглядит так, как будто она специально сокращает мышцы, чтобы ещё больше сжать и сдавить мой член."
                 else:
-                    "Her muscular body provides a distinct internal tightness that no mare I've been with has been able to replicate."
+                    "Мускулистое тело Хани позволяет её киске быть настолько тугой, что подобное не могла бы повторить ни одна кобыла, с которой я уже спал."
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    honeycrisp "Ehehe, you like that stud? I'm not your average rider."
+                    honeycrisp "Эхехе, тебе нравится это, жеребец? Я далеко не обычная наездница."
                 else:
-                    honeycrisp "Mmm, you like it when I squeeze my pussy like that? I can feel your cock throb every time I do it, ehehe..."
+                    honeycrisp "Ммм, тебе нравится, когда я так сжимаю свою киску? Я чувствую, как твой член пульсирует каждый раз, когда я это делаю, эхехе..."
                 show honeycrisp cowgirl3
                 with dissolve
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "Her hips start to twist and gyrate as she speeds up, the sensations of sex surge through my body, racking it with pleasure."
+                    "Она всё сильнее работает бёдрами, неимоверные ощущения от секса прорываются через всё моё тело, наполняя его удовольствием."
                 else:
-                    "She leans forward as she accelerates the bouncing on my cock, each wet slap against my pelvis ignites another wave of immense pleasure."
+                    "Ускояя свою бешеную скачку на моём члене, она наклоняется вперёд, каждый влажный удар её тела по моему тазу разжигает внутри меня новые волны неописуемого удовольсвия."
                 play sound spank
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "I reach back and give her a slap on the ass causing her to jolt up with surprise and giggle."
+                    "Я тянусь назад и даю смачный шлепок по её заднице, заставляя Хани вздрогнуть от удивления и захихикать.."
                 else:
-                    "Despite her dominance, I recall that she likes to be spanked. So I reach back and despite the slightly awkward position I give her ass a lil slap that causes her to giggle."
+                    "Несмотря на её доминирование, я вспоминаю, что она любит, когда её шлёпают. Так что я тянусь назад и, невзирая на неудобную позицию, даю небольшой шлепок по её заднице, заставляя Хани захихикать."
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "As if smacking a racehorse, she takes the cue to speed up, bouncing on my lap with complete abandon."
+                    "Как будто подгоняемая скаковая лошадь, она воспринимает этот шлепок как команду поддать газу, и начинает скакать на моих бёдрах в полном забвении."
                 else:
-                    "Taking the spank as a challenge, she begins to speed up, going almost hysterically fast and overwhelming my senses."
+                    "Принимая шлепок как вызов, она начинает ускоряться, двигаясь неимоверно быстро и переполняя мои ощущения."
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    honeycrisp "Aahhh, ahh... Do you like that? You like mah pussy?"
+                    honeycrisp "Ааххх, ахх... Тебе это нравится? Тебе нравится моя киска?"
                 else:
-                    honeycrisp "Mmphh, I-I'm gonna come soon, ahh..."
+                    honeycrisp "Ммфх, Я-я скоро уже кончу, ахх..."
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
                     "She even begins to moan freely, that coupled with the wet schlicks of our copulation leaves me to believe Blossom could definitely hear us right now."
@@ -1029,47 +1029,47 @@ label bakery:
                     "It doesn't take long for her to be pushed over the edge as her entire body shakes with orgasmic energy. Yet somehow her riding doesn't falter for a second."
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    honeycrisp "Mmphhh fuck, I came already..."
-                    honeycrisp "But I'm not done with you yet, I'm gonna make this cock blow its load straight into my pussy."
+                    honeycrisp "Ммфхх, блин, я уже кончила..."
+                    honeycrisp "Но я с тобой ещё е закончила, Я хочу, чтобы ты кончил прямо в мою киску."
                 else:
-                    honeycrisp "Ahh, I-I'm coming! Cum with me [playername], fill up my pussy!"
+                    honeycrisp "Ахх, я... я кончаю! Кончи со мной, [playername], заполни мою киску!"
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "Honeycrisp bites her lip as she continues to ride me, wanting to enjoy her time on top of me as long as she can before I inevitably cum inside."
+                    "Ханикрисп прикусывает свою губу, продолжая своё бешеное родео на мне, желая насладиться каждой секундой сверху, пока я неизбежно не кончу внутрь."
                 else:
-                    "Honeycrisp enjoys every second of her intense riding, she intentionally puts all her effort into pushing me over the edge, and soon she succeeds."
+                    "Ханикрисп наслаждается каждой секундой этого интенсивного родео и делает всё возможное, чтобы я мог достичь своего пика, и вскоре ей это удаётся."
                 show honeycrisp cowgirl5 with cum
                 play sound cum
                 show honeycrisp cowgirl5 with cum
                 play sound cum
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "As her pussy continues to grip around my shaft I find the pleasure is too much and I unload my cum deep inside her womb."
+                    "Её киска продолжает сжимать мой член и я понимаю, что не могу больше сопротивляться удовольсвию, и кончаю в глубины её утробы."
                 else:
-                    "My cock begins to erupt inside her, flooding her pussy and womb with my thick cum."
+                    "Мой член начинает извергаться внутрь неё, заполняя её киску и её утробу моей густой спермой."
                 stop ambience fadeout 3.0
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "The feeling of my cum inside her causes Honey to swoon and orgasm again as the familiar contractions of an orgasming mare return to my cock."
+                    "Ощущение моей спермы внутри себя заставляет Хани замереть и кончить снова, возвращая моему члену знакомые и приятные ощущения оргазмирующей кобылки."
                 else:
-                    "The hot feeling of my semen inside Honey excites her so much she seems to orgasm again while riding, her back and eyes falling back with pure euphoria."
+                    "Ощущение моего горячего семени внутри себя, чрезвычайно сильно заводит Хани, что приводит её к ещё одному оргазму. Её спина выгибается, а глаза закатываются от чистой эйфории."
                 scene bg honeycrispbed
                 show honeycrisp closesatisfied
                 with dissolve
                 $ rand = renpy.random.randint(1,2)
                 if rand == 1:
-                    "Once we've both finished our final orgasms, Honey rolls off and pants heavily, although considering her superior physique it doesn't take her long to gain her breath back."
+                    "Как только мы чуть-чуть пришли в себя после наших оргазмов, Хани сползает с меня и пытается перевести дух, хоть, учитывая её идеальную физическую форму, её одышка длится и недолго."
                 else:
-                    "After her climatic finishes, we're both left panting, although we quickly recover since I barely moved and Honey is no stranger to intense cardio."
+                    "После наших бурных финалов, мы оба пытаемся перевести дух, но быстро приходим в норму, потому что я почти не двигался, а для Хани интенсивная физическая нагрузка не в новинку."
                 show honeycrisp closehorny with dissolve
-                honeycrisp "Your cock is amazing, stud."
-                mc "Only half as good as your riding Honey."
+                honeycrisp "Твой член прекрасен, жеребец."
+                mc "Только наполовину так же прекрасен, как твои скачки, Хани."
                 scene bg black with dissolve
-                "We sleep through the night cuddled together."
+                "Обнявшись, мы проваливаемся в сон."
                 stop ambience fadeout 3.0
-                "In the morning I return home, satisfied after the party and 'one' night stand."
+                "Утром я возвращаюсь домой, удовлетворённый как вечеринкой, так и секс-марафоном после."
                 jump altmorning
-            "Blossom" if farmvisit3 == 1:
+            "Блоссом" if farmvisit3 == 1:
                 "I talk to Blossom a lot tonight, she's a little more quiet than everyone else but provides great conversation none-the-less."
                 "We agree to go back to her place that night."
                 stop music fadeout 3.0
@@ -1114,7 +1114,7 @@ label bakery:
                 "Blossom finds herself snuggled against against my chest and we cuddle, still joined at the hips."
                 "We sleep together, and in the morning I return home."
                 jump altmorning
-            "Ruby" if boutiquevisit2 ==  1:
+            "Руби" if boutiquevisit2 ==  1:
                 "Ruby and I spend the majority of the night talking together, she handles her drink quite well."
                 "She's a little more subtle than the other ladies with her flirts, at one time while we're alone she kisses me and encourages me to come to her place that night."
                 "You know I'll be there."
@@ -1182,14 +1182,14 @@ label bakery:
                 stop ambience fadeout 3.0
                 "In the morning we part ways and I return home."
                 jump altmorning
-            "Melody" if boutiquevisit3 == 1:
+            "Мелоди" if boutiquevisit3 == 1:
                 "As I talk with Melody, she's a relentless tease as usual, although far more watered down when around the others."
                 "She does seem to show subtle signs of jealousy though, and she's the one that actually asks if I want to come to her place."
                 "While she'd never admit that she brought me home for sex, I can definitely tell the alcohol has made her hornier than usual."
                 scene bg melodybedroomnight
                 show melody closehappy with dissolve
                 jump melodyeveningsex
-            "Lily" if libraryvisit3 == 1:
+            "Лили" if libraryvisit3 == 1:
                 "I spend most of the evening talking with Lily, encouraging her to open up, which she easily does with aid of a few drinks."
                 "Her inner slut also seems to escape along with that drunkness though, while not enough to embarass herself, it's easy to forget that this slut is incredibly horny for me."
                 "Guess I'll have to take her home and teach her a lesson."
@@ -1265,7 +1265,7 @@ label bakery:
                 "Lily and I snuggle together sleeping long into the night."
                 "In the morning we part ways I return home"
                 jump altmorning
-            "Riku" if barvisit1 == 1:
+            "Рику" if barvisit1 == 1:
                 "Riku provides great company throughout the night, and we pretty much talk to everyone throughout the night."
                 "As the evening grows late, it's her suggestion to 'walk home together'."
                 show bg barupstairsnight with dissolve
@@ -1341,136 +1341,136 @@ label bakery:
                 "In the morning, I return home."
                 jump altmorning
         ###########??
-        "It’s around 6pm when I get back, and Moxie is already preparing dinner."
-        moxie "Hey, you’re back home late, busy day?"
-        mc "Yeah, I’ve been baking almost all day, on my feet in a hot kitchen."
-        moxie "Bakery eh? Who were you working with? I thought it was closed."
-        mc "It would have been really boring if Cream wasn’t hilarious company."
-        mc "Yeah the owners are away, there’s a girl called Cream working there and keeping the place going until they get back."
-        moxie "Ohh, Cream? Maybe she’s one of Lily’s friends, but I haven’t heard of her before. I didn’t mean to send you off working with a stranger, I hope she was okay."
-        mc "She was fine, but… you really haven’t heard of her before?"
-        moxie "No, the name doesn’t ring a bell."
-        mc "She seems to have heard of you before though."
-        moxie "Oh well, the great Moxie always calls out her name in her performa- uh, my performances."
-        moxie "If she works at the bakery, she’s probably seen me in passing."
-        "Cream was… well, full of surprises. I wonder what else is wrapped up within that girl."
-        "When she spoke about insanity to me, was she trying to imply that’s one of the reasons I’m in this world?"
-        "Certainly not my favourite interpretation, but I can’t get it out of my head for some reason."
-        mc "Hey Moxie, you are real, right?"
-        moxie "Of course I’m real you dummie, are you?"
-        mc "I hope so, but the only thing more fun than one reality smashing discovery is two."
-        "A great girlfriend, friends, and a fun life…"
-        mc "I just had a daft thought, what if it wasn’t magic that brought me here, but imagination?"
-        moxie "Like a dream? I thought we already established that wasn’t the case, no dream could ever last this long."
-        mc "Yeah, you’re right. If I’m living in a world where any answer can be true, I’d rather choose a more interesting one."
-        "Still, I wonder what Cream was talking about, why did she tell me all that stuff?"
-        "She’s a crazy girl, that’s for sure."
+        "Я вернулся домой в районе 6 вечера, И Мокси уже готовила ужин."
+        moxie "Привет, ты сегодня поздно, был сильно занят?"
+        mc "Да. Я почти весь день на ногах, готовил в горячей кухне."
+        moxie "В кондитерской, да? А с кем ты работал? Я думала, она была закрыта."
+        mc "Было бы реально скучно, если бы Крем не составляла мне отличную компанию."
+        mc "Да, владельцы уехали, но там работает девушка по имени Крем, которая держит это место на плаву, пока они не вернутся."
+        moxie "Ооо, Крем? Наверное, это одна из подруг Лили, но я лично о ней не слышала. Я не хотела отправлять тебя работать с незнакомцем, я надеюсь, что всё прошло хорошо."
+        mc "Всё нормально, но… ты правда что ли о ней никогда не слышала?"
+        moxie "Нет, мне её имя ни о чём не говорит."
+        mc "Однако, как я понял, она о тебе слышала ранее."
+        moxie "О, великая и могучая Мокси всегда даёт громко объявляет публике своё имя на её предст- кхм, на моих представлениях."
+        moxie "Если она работает в кондитерской, то наверняка видела, как я прохожу мимо."
+        "Крем была… скажем, полна сюрпризов. Мне интересно, что ещё запрятано в душе у этой девушки."
+        "Когда она заговорила со мной о безумии, подразумевала ли она, что это могла бы действительно быть одной из причин моего попадания в этот мир?"
+        "Разумеется, это не самое приятное для меня объяснение, но почему-то я не могу выкинуть это из своей головы."
+        mc "Эй, Мокси, ты же реальна, да?"
+        moxie "Конечно, я реальна, глупышка, а ты?"
+        mc "Я очень надеюсь на это, но что может быть веселее, чем одно откровение, полностью сокрушающее мою реальность? Два таких откровения."
+        "Замечательная девушка, друзья и весёлая жизнь…"
+        mc "Меня просто посетила довольно глупая идея, а что если меня привела в этот мир не магия, а моё воображение?"
+        moxie "Вроде сна или мечты? Мне казалось, что мы уже определили, что это не наш случай, ни один сон не мог бы длиться так долго."
+        mc "Да, ты права. Если я живу в мире, где любой ответ мог бы быть правдой, я бы предпочёл более интересный."
+        "И всё же, мне интересно, что же Крем имела в виду, зачем она обо всём этом мне рассказала?"
+        "Но что я знаю наверняка, так это то, что она безумная девушка."
         "…"
     label bakeryvisit2:
-        "Time to return to the bakery, and see what I can cook up with Cream."
+        "Время вернуться в кондитерскую и приготовить что-то вместе с Крем."
         show bg bakerydoor
-        "I make my way to the front door of the bakery."
-        "Despite the fact it’s nearly 8:30am, the establishment still seems completely closed, shouldn't she be in the kitchen right now?"
-        "Guess I’ll knock."
-        "I take a step forward and just as my hand reaches to knock on the door, it flings wide open and Cream pops her head out."
+        "Я подхожу к передней двери кондитерской."
+        "Несмотря на то, что уже почти 8:30 утра, заведение выглядит полностью закрытым, разве она не должна уже работать на кухне?"
+        "Попробую постучаться."
+        "Я делаю шаг к двери и, стоило мне протянуть руку, чтобы постучать, она распахнулась настежь, открывая мне вид на голову Крем."
         play music cream1
         show cream laughing with dissolve
-        cream "Oh goodie, [playername]! It’s so great to see you again, do come in!"
-        mc "Huh?"
+        cream "О божечки, [playername]! Так хорошо увидеть тебя снова, заходи!"
+        mc "А?"
         show cream neutral with dissolve
-        cream "Come on, don’t just stand there looking like a soggy pancake, come in!"
-        "Ah, I just realized I’ve been stood here with my arm extended for about two seconds looking gormless."
-        mc "Thanks, it’s nice to see you too."
+        cream "Заходи, не стесняйся, а то стоишь снаружи как мокрый блин!"
+        "А, я понял, что я так и стоял несколько секунд, как истукан, с занесённой для стука рукой."
+        mc "Спасибо, тебя тоже приятно увидеть."
         scene bg bakery with dissolve
-        "I step into the dark bakery, it feels despairingly empty compared to how bright and cheerful the party was."
-        "No cakes prepared either. I don’t say anything though, I’m just here to bake, get paid, and maybe have fun."
+        "Я захожу в тёмную кондитерскую, она ощущается тоскливо пустой, по сравнению с тем, как ярко и празднично она выглядела во время вечеринки."
+        "И никаких заранее приготовленных тортиков. Но я оставляю свои мысли при себе, в конце концов, я здесь, чтобы поработать, получить зарплату и, может быть, немного развлечься."
         show bg bakerykitchen with dissolve
-        "The two of us enter the kitchen and she begins the usual charade of cheerfully and bouncingly getting all the ingredients and recipe books out."
+        "Мы входим на кухню и она начинает свою привычную задачку по радостному и активному доставанию ингридиентов и книг рецептов."
         play music mky fadein 3.0
-        "Oh, and before she forgets, the music!"
+        "О, и пока она не забыла, Крем включает музыку!"
         show cream happy with dissolve
-        cream "It’s so wonderful to have you back, we’re gonna have so much fun today I just know it."
-        cream "And not just icing cakes, I’ll let you ice me too, hehe."
-        mc "Hey, Cream, this place feels closed, I thought you were supposed to start running the shop now?"
+        cream "Так хорошо, что ты вернулся, мы обязательно сегодня с тобой повеселимся, я уверена!"
+        cream "И я не только про покрытие тортиков глазурью, я позволю тебе покрыть глазурью и меня, хехе."
+        mc "Эй, Крем, как-то сегодня пусто, я думал, ты уже должна была открыть магазин к этому моменту?"
         show cream neutral with dissolve
-        cream "Of course silly, but it’s not hour’o’nine yet, I still need to finish baking this morning’s batch."
-        mc "You sure are cutting it close..."
-        cream "Now come on, I bought some new ingredients for us! I made sure to get extra eggs this time, hehe."
-        "We make some idle chat while baking together."
+        cream "Конечно, глупышка, но ещё не девять часов, а я ещё должна приготовить первую утреннюю партию."
+        mc "Но времени уже почти впритык..."
+        cream "Начнём, я купила новых ингридиентов! И даже не забыла купить ещё яиц в этот раз, хехе."
+        "Мы спокойно болтаем, пока готовим вместе."
         show cream laughing with dissolve
-        cream "After we use up all these eggs, you can try and fail at fertilising mine."
-        mc "It’s quite lucky that we’re not compatible species, isn’t it?"
+        cream "И после того, как мы используем все эти яйца, ты можешь попробовать и провалиться в оплодотворении моих!"
+        mc "Довольно приятно, что мы с тобой несовместимые виды, не так ли?"
         show cream neutral with dissolve
-        cream "Not sexually compatible with humans, but isn’t it strange how the pheromones are the same?"
-        mc "I guess evolution has just designed a limited number of chemicals and we had to share a few things."
+        cream "Ты не находишь странным, что хоть мы и несовместимы в плане размножения, но наши феромоны воздействуют друг на друга?"
+        mc "Полагаю, эволюция создала лишь определённый набор химических веществ, так что в чём-то нам приходится делиться."
         show cream happy with dissolve
-        cream "Pfft, you say that, but we’re interdimensional beings. Evolution makes sense within the frame of a singular world that you and I exist in, but it seems like a wild coincidence otherwise."
+        cream "Пффт, вот ты так говоришь, а мы явно существа из разных измерений. Эволюция лишь имеет смысл в объёме одного отдельно взятого мира, в котором ты и я существуем, но больше похоже на дикое совпадение."
         if libraryvisit3 == 1:
-            "How does she know I’m an interdimensional being? Actually, wasn’t I from a different universe? Is there a difference? Guess I could ask."
-        mc "Interdimensional? What are the odds of that?"
+            "Откуда она знает, что я из другого измерения? Хотя разве я не из другой вселенной? И есть ли разница? Думаю, стоит спросить."
+        mc "Из разных измерений? Какова вероятность этого?"
         show cream neutral with dissolve
-        cream "Well, if there are infinite dimensions, any chance of landing in a single one of those dimensions is still one out of infinity."
-        mc "Ah, 'infinity' again. I don’t see why you presume I’m an interdimensional being though, didn’t you call me an alien before?"
+        cream "Ну, если есть бесконечное множество измерений, то шанс попадания в одно конкретное из этих измерений всё равно будет один из бесконечности."
+        mc "А, снова 'бесконечность'. Не совсем понимаю, почему ты теперь говоришь, что я из другого измерения, разве ты не называла иеня до этого пришельцем?"
         if libraryvisit3 == 1:
-            "She seems to know things she shouldn’t, so I’ll push her with more questions, and see if she says anything interesting."
+            "Похоже, она знает о том, что ей знать бы не следовало, так что я попробую задать несколько наводящих вопросов, чтобы узнать, сможет ли она рассказать что-то интересное."
         show cream laughing with dissolve
-        cream "Huh, but there are trillions and quadrillions of planets. I could round that up to infinity, right? I mean really, what are the odds?"
-        mc "Bringing out those big numbers again? You’ll make me dizzy; I’ll stick to a baker’s dozen."
+        cream "Но есть же триллионы и квадриллионы планет. Я могла бы округлить это число до бесконечности, верно? Но правда же, каковы шансы?"
+        mc "Снова большие числа? У меня от этого закружится голова, так что я, пожалуй, остановлю подсчёты на чёртовой дюжине."
         hide cream with dissolve
-        "I finally finish mixing my cake ingredients and pop them in a container, then the oven."
+        "Наконец, я закончил смешивать ингридиенты для пирогов, так что я кладу их сначала в форму для выпечки, а затем в духовку."
         show cream althappy with dissolve
-        cream "You could have accidentally gone to the universe where it rains cats and dogs, but you're right here. Ain't that something?"
-        "Hmm... THere's clearly something on her mind..."
-        mc "Yesterday, what was that immortality stuff about?"
+        cream "Ты мог бы случайно попасть во вселенную, где льёт как из ведра, но всё же, ты здесь. Разве это не что-то интересное?"
+        "Хмм... Она явно о чём-то задумалась..."
+        mc "Что всё-таки ты вчера имела в виду, говоря о бессмертии?"
         show cream laughing with dissolve
-        cream "I was just making conversation, ya ditz. I figured maybe you were one of those intellectual types that got turned on by smart girls, you keep hanging around them after all."
-        "She’s got me there, wait- there’s no way she'd know that, right? It's not like anyone told her I was close friends with Moxie, Penelope or any other 'smart girls'."
+        cream "Я лишь болтала с тобой, тупица! Я подумала, может, ты из тех интеллектуалов, которых заводят умные девчонки, всё же, ты крутишься вокруг таких."
+        "Вот тут она меня подловила, хотя стоп- откуда ей об этом знать? Явно же никто не мог сказать ей, что я стал близкими друзьями с Мокси, Пенелопой или другими 'умными девчонками'."
         show cream neutral with dissolve
-        cream "Hmm, where were we before? 10 seconds is the same as 100 years? Hehe."
-        mc "Yeah you did mention that. But I still think humans and their limitations will experience each measure of time the same way."
-        mc "I don’t think a human can ever reach the point where 100 years feels like 10 seconds."
+        cream "Хмм, так на чём мы остановились? 10 секунд - это то же самое, что и 100 лет? Хехе."
+        mc "Да, я помню это. Но я всё ещё считаю, что люди с их ограничениями будут ощущать каждую отдельно взятую единицу времени одинаково."
+        mc "Я не думаю, что человек когда-нибудь вообще мог бы достигнуть точки, где 100 лет ощущались бы как 10 секунд."
         show cream laughing with dissolve
-        cream "Nah! Bigger picture, I keep telling you."
-        cream "I’ve been thinking about this a lot, what is the meaning of life?"
-        mc "Meaning of life? What kind of question is that?"
+        cream "Да нет же! Смотри с более широкой точки зрения, говорю же."
+        cream "Я много об этом думала, что является смыслом жизни?"
+        mc "Смыслом жизни? Что это вообще за вопрос?"
         show cream smug with dissolve
-        cream "I’m serious, what is it?"
+        cream "Я серьёзно. В чём смысл жизни?"
 
         menu:
-            "To be happy.":
+            "Наслаждаться самой жизнью.":
                 show cream neutral with dissolve
-                cream "Awh, that’s a sweet answer!"
-                cream "But an answer born by human arrogance, since that’s a human emotion, it’s an emotion that ultimately has no meaning in the grand scale of the universe. Isn’t that scary?"
-                mc "Seems a little nihilistic."
-            "To be the best person you can be.":
+                cream "Авх, это очень милый ответ!"
+                cream "Но это ответ, рождённый человеческой гордыней, а будучи человеческим чувством, оно не имеет никакого значения в грандиозных масштабах вселенной. Разве это не страшно?"
+                mc "Скорее, нигилистично."
+            "Быть столь лучшим человеком, насколько ты сам способен.":
                 show cream neutral with dissolve
-                cream "Ohh I like that one, but who defines best? That’s such a societal and human standard."
-                cream "Does the ant ever worry about being the best ant in the colony? I don’t know, maybe they do."
-                mc "I guess, but I am human, so I work within my means. I’m not going to pretend that I aspire to greater values."
-            "To advance and improve society.":
+                cream "Ууу, мне нравится этот ответ, но кто определяет эту 'лучшесть'? Это человеческий стандарт, навязанный обществом."
+                cream "Разве муравей волнуется о том, является ли он лучшим муравьём в колонии? Может, и да, я не знаю."
+                mc "Возможно, но я человек, так что я действую в мере своих сил и возможностей. Я не стану делать вид, что стремлюсь к недостижимым ценностям."
+            "Продвигать и улучшать общество.":
                 show cream neutral with dissolve
-                cream "Really, though? Is that what the meaning to your existence is? Or is that what your brain desires to do you can feel important and get hits of dopamine."
-                cream "Does society really need to advance? Can’t you live a perfect life making no impact on society?"
-                mc "Perhaps. You were right though, I like to feel like I’ve made an impact, when I’m older I want to have my name out there and be remembered."
+                cream "Да неужели? Это и в правду смысл твоего существования? Или это лишь то, что желает твой мозг, чтобы ты мог почувствовать себя важным и получить желаемый дофамин."
+                cream "Разве обществу действительно необходимо продвижение? Разве нельзя прожить идеальную жизнь, вообще не повлияв на общество?"
+                mc "Возможно. Ты вправа, впрочем, мне и вправду хотелось бы чувствовать, что я оставил свой след в истории. И когда я был бы старше, я хотел бы, чтобы моё имя было на слуху и не забыто."
                 show cream laughing with dissolve
-                cream "It’s biologically selfish, yet so humanly selfless."
-                mc "I… don’t know? The brain can do its own thing, it releases dopamine when I eat a chocolate bar but eating chocolate isn’t biologically selfish."
+                cream "Это биологически эгоистично, но в то же время по-человечески бескорыстно."
+                mc "Я… не знаю? Мозг вполне справляется с этой проблемой сам: он выделяет дофамин, когда я ем шоколад, но поедание шоколада не является биологически эгоистичным."
                 show cream althappy with dissolve
-                cream "Heh, I’m just challenging what you’re saying, don’t worry."
-            "To fuck and breed.":
+                cream "Хех, не волнуйся, я просто оспариваю то, что ты говоришь."
+            "Трахаться и размножаться.":
                 show cream neutral with dissolve
-                cream "Now that’s a meaning I can get behind, but even a sex crazed mare like myself needs something more to ground her to reality."
-                cream "Trust me, you’d get bored if I was just a bitch in heat slobbering and salivating at the thought of your throbbing member."
-                mc "Alright, that’s true. I was being a little blunt by implying that humans are just beasts designed to breed and pass on DNA."
+                cream "Не, такой смысл жизни мы можем смело отбросить, даже такой помешанной на сексе и похотливой кобылке как я требуется что-то большее, чтобы не терять связь с реальностью."
+                cream "Поверь, тебе бы быстро наскучило, будь я просто сучкой с течкой, выделяющей слюни при одной мысли о твоём пульсирующем члене."
+                mc "Ладно, твоя правда. Я немного рубанул с плеча, подразумевая, что люди - это просто животные, созданные лишь чтобы размножаться и передавать свою ДНК."
                 show cream althappy with dissolve
-                cream "Hah, maybe that’s evolutionarily and biologically accurate, but aren’t we so much more than that? We’re thinkers."
-                mc "Yeah, you were right when you said you needed something to ground yourself to reality. We’re not bunnies after all."
+                cream "Хах, может, это и верно с эволюционной и биологической точки зрения, но разве мы не значительно выше этого? Мы мыслители."
+                mc "Я согласен, что должно быть что-то, что удерживало бы в тебе связь с реальностью. Всё же, мы не кролики."
         show cream happy with dissolve
-        cream "I’ve been thinking..."
-        cream "In the grand, relative scale of a potentially infinite universe…"
-        cream "The meaning of human life needs to be timeless; you can’t define meaning by time."
-        cream "Therefore, the true meaning of life must be true for the 10 second old baby, the 100-year-old woman, and the infinite immortal being."
-        "I stand here, rather perplexed, occasionally looking over to the oven. Baking cakes seems so benign compared to these discussions."
+        cream "Я тут подумала..."
+        cream "В грандиозных масштабах потенциально бесконечных вселенных…"
+        cream "Смысл человеческой жизни должен быть вне времени; нельзя ограничить смысл временем."
+        cream "Таким образом, настоящий смысл жизни должен быть одинаковым как для 10-секундного ребёнка, так и для 100-летней старухи, но также и для бесконечного бессмертного существа."
+        "Довольно озадаченный, я стою и изредка поглядываю в духовку. Выпечка тортов кажется такой приятной по сравнению с этими разговорами..."
         show cream neutral with dissolve
         cream "Yeah, maybe the meaning of life is to breed and continue your species, but I’d like to think with my sentient arrogance that it’s more than that."
         mc "There are millions of people that have died and been forgotten. It’s pretty depressing to think that in the grand scheme of humanity, let alone the universe, all our actions are completely and utterly meaningless."
@@ -1687,57 +1687,57 @@ label bakery:
         show ccarrot 1 with dissolve:
             xpos 0
             ypos 50
-        unknown "Hiya, how’s it going mistah, nice to meet you! Thanks for baking all those delicious cakes for us!"
+        unknown "Привет, как дела, мистер, приятно встретиться с тобой! Спасибо за то, что приготовил для нас все эти вкуснючие пироги!"
         show cblue 1 with dissolve:
             xpos 850
             ypos 30
-        unknown "Is this the one? Truly curious..."
-        mc "Oh uh, who are these people?"
+        unknown "Это он? Любопытный экземпляр..."
+        mc "Оу, а-ам, А кто все эти люди?"
         show ccarrot 2 with dissolve
-        unknown "We're Creams from adjacent universes, hence why we all look so similar."
+        unknown "Мы все Крем из соседних вселенных, поэтому мы и выглядим так похоже."
         show cblue 2 with dissolve
-        unknown "Yup! But we all have unique names, actually."
+        unknown "Агась! Но у нас у всех свои уникальные имена."
         show ccarrot 1 with dissolve
-        carrot "You can call me Carrot, loverboy! Mmm..."
+        carrot "Ты можешь называть меня Кэррот, любовничек! Ммм..."
         show cblue 1 with dissolve
-        blue "And I'm Blueberry! You can call me Blue, though"
+        blue "А яБлуберри! Но ты можешь звать меня просто Блу."
         show cpurple 1 with dissolve:
             xpos 300
             ypos 10
-        unknown "What the fuck is going on over here? How dare you bring an outsider to this place Cream! How utterly irresponsible!"
+        unknown "Что тут, чёрт возьми, происходит?! Как ты смеешь приводить сюда чужака, Крем? Абсолютно безответственно."
         show cream embarrassed with dissolve:
             xpos 600
             ypos 30
-        cream "But Blackcurrant... This man is... This man is beyond our dimensions!"
+        cream "Но Блэккуррант... Этот человек... Этот человек вне наших измерений!"
         show cpurple 2 with dissolve
-        purple "W-What? Nonsense... Tell me young man, who are you?"
+        purple "Ч-что? Чушь... Скажи мне, юноша, кто ты?"
         menu:
-            "Me?":
+            "Я?":
                 pass
             "[playername]?":
                 pass
-            "The Player?":
+            "Игрок?":
                 show cream happy with dissolve
-                cream "Oho, we’re making progress."
+                cream "Охо, мы делаем успехи!"
         show cpurple 1 with dissolve
-        purple "Hmm... Perhaps you are an anomaly..."
-        mc "So, this was in your bedroom all along, Cream?"
+        purple "Хмм... Возможно, ты аномалия..."
+        mc "То есть, это всё всегда было в твоей спальне, да, Крем?"
         show cream neutral with dissolve
-        cream "Hehe, maybe!"
+        cream "Хехе, возможно!"
         show ccarrot 2 with dissolve
-        carrot "I can't believe you slept with this guy and didn't invite us! You're such a cockblock Cream!"
+        carrot "Не могу поверить, что ты переспала с этим парнем и не пригласила нас! Ты такая обломщица, Крем!"
         show cream laughing with dissolve
-        cream "What can I say, I wanted him all to myself at least once!"
+        cream "Что поделать, я хотела его всего лишь для себя, хотя бы на один разок!"
         menu:
-            "This is insane, why did you bring me here?":
+            "Это безумие, зачем ты меня сюда привела?":
                 pass
-            "Are all these Creams horny too?":
+            "Все эти версии Крем тоже так же похотливы, как и ты?":
                 show cream horny with dissolve
-                cream "Nah, not really. But considering there are infinite of them, yes!"
-                mc "So they are all horny, yet all not horny?"
+                cream "Не, не то чтобы. Но учитывая, что их бесконечное множество, то, в этом случае, да!"
+                mc "То есть, они все похотливы, но в то же время не похотливы?"
                 show cpurple 2 with dissolve
-                purple "Exactly, isn’t it dumb?"
-                mc "Wonderfully dumb."
+                purple "Именно, и разве это не тупо?"
+                mc "Чудесно тупо."
         scene bg bakeryinfinite1
         show cream neutral with dissolve:
             xpos 300
