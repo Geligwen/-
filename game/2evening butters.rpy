@@ -401,33 +401,33 @@ label eveningbutters:
                     jump altmorning
                 else:
                     jump morning
-            "Мессионерская позза (Impregnation Version)" if buttersmissionaryunlock == 1 and butterspregnant == 0:
+            "Мессионерская позза (с оплодотворением)" if buttersmissionaryunlock == 1 and butterspregnant == 0:
                 $ butterspregnant = 1
                 show butters dresshappy with dissolve
-                butters "Ooohh, thank you so much! This is really exciting."
-                "She quickly undresses, yet still finds time to fold up her clothes and place them down sensibly."
+                butters "Ооохх, спасибо большое! Это правда потрясающе."
+                "Она быстро раздевается, однако находит время, чтобы сложить и аккуратно положить вещи."
                 show butters horny with dissolve
-                butters "And arousing too! I mean… I do have a thing for impregnation…"
-                mc "Heh, so that’s why you weren’t so bothered about the slime."
+                butters "И возбуждающе! Я имею… У меня есть вещь, чтобы забеременеть…"
+                mc "Хех, так вот почему ты больше не беспокоилась о слизи."
                 show butters neutral with dissolve
-                butters "I spent a lot of time masturbating that night, ehehe."
+                butters "Я много мастурбировала этой ночью, эхехе."
                 hide butters with dissolve
-                "My eager lover grabs a pinkish alchemical potion and gulps the entire thing."
-                "Usually she always brews two servings, but she wastes no drop as she finishes the entire bottle."
+                "Моя нетерпеливая любовница хватает розоватое алхимическое зелье и выпивает его целиком."
+                "Обычно она готовит с запасом две порции, но эту бутылочку она выпила целиком не пролив ни капли."
                 show butters happy with dissolve
-                butters "Ahhh... Now I should be fertile. At least until I pee a few times."
-                mc "Will I need to cum inside you a lot, then?"
+                butters "Аххх... Сейчас я должна быть фертильной. По крайней мере, пока не пописаю несколько раз."
+                mc "Мне нужно будет множество раз кончить в тебя?"
                 show butters laughing with dissolve
-                butters "Nuh-uh, only a single load of cum should be sufficient."
-                mc "Sheesh, that’s {i}really{/i} fertile!"
+                butters "Хух-ух, всего одного раза должно быть достаточно."
+                mc "Чёрт, она станет {i}очень{/i} плодовитой!"
                 show butters horny with dissolve
-                butters "We can go for extra rounds if you’d like!"
-                mc "I wouldn’t be against that."
+                butters "Мы можем взять несколько раундов, если ты хочешь!"
+                mc "Я был бы не против этого."
                 scene bg black with dissolve
                 play music sex1 fadein 3.0
                 stop ambience fadeout 3.0
                 show butters missionary1 with dissolve
-                "We walk to the bedroom where Butters readily presents herself to me on the bed."
+                "Мы идём в спальню, где Баттерс с готовностью преподносит мне себя на кровати."
                 "She looks beautiful right now. A last of today's light shimmers from the setting sun, through the mountains, and peers through the window to illuminate her body."
                 "All this beauty, and I’m lucky enough for her to offer it to me."
                 butters "Hah... [playername]..."
