@@ -458,8 +458,8 @@ label eveningbutters:
                 butters "Ooohh, keep going… I’m getting close. Ahh, ahh…"
                 "I continue my rutting, using her plump thighs as leverage in order to pump her deeply and hard. As she’s getting closer and closer, she wraps her legs around my hips and pushes me closer."
                 show butters missionary4 with dissolve
-                butters "Yeahh, yesss… Oh, [playername], I’m going to come! Ahh, ahh!"
-                "She moans aloud as her eyes roll back in the wake of a full body orgasm."
+                butters "Йааа, дааа… Ох, [playername], я сейчас кончу! Ахх, ахх!"
+                "Она закричала во весь голос, её глаза закатываются после того, как всё её тело пронзает сильнейший оргазм."
                 "As her pussy contracts and sucks around my shaft, I redouble my passion-filled fucking and pound her pussy with determination to fill it with my cum."
                 "Her sloppy cunt squeezes even tighter around my cock, causing me to throb and drip precum. It doesn’t take long for the familiar sense of impending orgasm to arrive."
                 "My muscles grow tense, and my cock stiffens as my climax swells up deep inside. The constant moaning and shifting of my partner pushing me over the edge as she beckons me to cum."
