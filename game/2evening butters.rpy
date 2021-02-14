@@ -453,7 +453,7 @@ label eveningbutters:
                 "Мы стонем от удовольствия, когда я выхожу и сразу же резко вхожу упираясь в основание её манящих I slide back out, and push back deeply into the hilt of her inviting insides."
                 "Сочный зад Баттерс и её пышная грудь трясутся от каждого моего толчка, и с её губ срываются сладкие стоны."
                 "Мы вошли бешеный ритм безудержной глубокой ебли, грязные хлюпающие звуки смешались с нашими страстными стонами Finding a pace of deep and sensual fucking, indecent squelching noises mix with the moans each time our bodies come together."
-                "It would seem that the potion had some side effects beyond fertility, because I’m sure Butters isn’t usually this wet."
+                "Похоже, у зелья были какие-то побочные эффекты помимо фертильности, потому что я уверен, что Баттерс обычно не такая мокрая."
                 "It’s also impossible to deny the pleasure she’s feeling, as she throws her arms and head back into the pillow, her tongue lolling slightly as her mind blanks from the powerful erotic sensations."
                 butters "Ooohh, keep going… I’m getting close. Ahh, ahh…"
                 "I continue my rutting, using her plump thighs as leverage in order to pump her deeply and hard. As she’s getting closer and closer, she wraps her legs around my hips and pushes me closer."
