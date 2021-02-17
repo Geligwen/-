@@ -538,7 +538,7 @@ label prologue:
         "Мне придется ходить голым с болтающимся пенисом между ног. Я никогда к этому не привыкну."
         scene bg arcadiasuburbs with dissolve
         show moxie happyneutral with dissolve
-        "Это ужасно неловко, но Мокси заверила меня, что это совершенно нормально. She certainly didn’t seem to mind bearing all, поэтому я просто неловко последовал её примеру."
+        "Мне ужасно неловко, но Мокси заверила меня, что это совершенно нормально. Судя по ней, это все в порядке вещей, поэтому я просто последовал её примеру."
         "Хуже всего то, что все, мимо кого мы проходили по пути в библиотеку, смотрели на меня, некоторые мельком, некоторые пристально."
         "Наверно, я тоже пялился бы, если бы по моей улице шла голая девочка-пони, но от этого не легче."
         "Все, кого мы встретили, были женщинами, я не увидел ни одного мужчины, так что у меня даже не было удовольствия пообщаться с другими обнаженными мужчинами."
@@ -572,8 +572,8 @@ label prologue:
             ypos 30
         show moxie shy with dissolve:
         penelope "Привет, Мокс, ты привела... фамильяра...? Что это за черт... Я уже вижу, что это в основном плохие новости, не так ли?"
-        "'Penelope' raised an eyebrow while making eye contact with me. She stared me down in disbelief, I too stared her down in equal disbelief..."
-        "This is the second pony I've seen up close... Blue fur, just like Moxie, but she seems to have a slightly different nipple pigment, and her purple hair and green eyes are really striking!"
+        "'Пенелопа' подняла бровь, взглянув мне в глаза.. Она недоверчиво уставилась на меня, я тоже уставился на нее с таким же недоверием...."
+        "Это вторая пони, которую я видел вблизи... Синий мех, как у Мокси, но у нее, кажется, немного другой цвет сосков, и ее фиолетовые волосы и зеленые глаза выглядят потрясающе!"
         "I walked past many strange denizens on the way here too, it's all so alien to me."
         show penelope laughing with dissolve
         penelope "I have never seen something like that before in my entire life, did you accidentally defluff a stallion?"
