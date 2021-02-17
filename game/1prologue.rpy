@@ -535,43 +535,43 @@ label prologue:
         scene bg worldmapdialogue with dissolve
         "Прежде чем уйти, мы пролежали в объятиях друг друга около получаса. Меня больше пугала не столько встреча с существами другого вида, сколько культурный барьер."
         "Как она сказала, пони не носят одежду, значит, я тоже не должен."
-        "I have to walk around naked with my flaccid penis limp between my legs. Я никогда к этому не привыкну."
+        "Мне придется ходить голым с болтающимся пенисом между ног. Я никогда к этому не привыкну."
         scene bg arcadiasuburbs with dissolve
         show moxie happyneutral with dissolve
-        "This is unbearably embarrassing, but Moxie assured me it was completely normal. She certainly didn’t seem to mind bearing all, so I just uncomfortably followed suit."
-        "The worst part is that everyone we passed on our way to the library glanced at me, some briefly, some staring."
-        "I’d probably stare if there was a naked pony girl walking down my street too, but that thought didn’t make me feel any better about the situation."
-        "All the bystanders were female too, I didn’t see any males, so I didn’t even have the comfort of relating to any other nude males."
-        "That being said, the ladies were also nude, that helped take off some of the embarrassment. Fairly sure I’ve seen more boobs today already than I have throughout my entire life."
+        "Это ужасно неловко, но Мокси заверила меня, что это совершенно нормально. She certainly didn’t seem to mind bearing all, поэтому я просто неловко последовал её примеру."
+        "Хуже всего то, что все, мимо кого мы проходили по пути в библиотеку, смотрели на меня, некоторые мельком, некоторые пристально."
+        "Наверно, я тоже пялился бы, если бы по моей улице шла голая девочка-пони, но от этого не легче."
+        "Все, кого мы встретили, были женщинами, я не увидел ни одного мужчины, так что у меня даже не было удовольствия пообщаться с другими обнаженными мужчинами."
+        "Однако, все эти дамы тоже были обнаженными, поэтому было не так неловко. Уверен, сегодня я увидел больше сисек, чем за всю свою жизнь."
         hide moxie happyneutral with dissolve
         show bg tree1 with dissolve
-        "The two of us arrive to a towering tree, taller than all the surrounding buildings."
-        mc "What's up with this big tree?"
+        "Мы вдвоем подходим к высокому дереву, оно было выше всех окружающих зданий."
+        mc "Что это за дерево?"
         show bg tree2 with dissolve
         show moxie laughing with dissolve
-        moxie "This is Lily's library."
-        mc "Woah, there's a library in here?"
-        moxie "My best friend Penelope works here, just let me do the talking and answer questions if you’re asked, okay?"
+        moxie "Это библиотека Лили."
+        mc "Ого, библиотека прямо здесь?"
+        moxie "Здесь работает моя лучшая подруга Пенелопа, позволь, я буду говорить, а ты отвечай на вопросы, если спросят, ладно?"
         show moxie closehappy with dissolve
-        "Moxie pats me on the shoulder and whispers into my ear reassuringly."
-        moxie "I know this may be awkward for you, but I’ll try to make this as painless as possible."
+        "Мокси похлопывает меня по плечу и нежно шепчет мне на ушко."
+        moxie "Я знаю, тебе может быть неловко, но я постараюсь, чтобы все прошло безболезненно."
         hide moxie closehappy with dissolve
         scene bg library with dissolve
         stop ambience fadeout 1.0
-        "With that, she opened the door and stepped into the library. I don’t often step foot into libraries, but there was something truly magical about this one."
-        "Not only was the entire interior finely decorated but there were books as far as the eye could see."
+        "С этими словами она открыла дверь и вошла в библиотеку. Я не часто бываю в библиотеках, но в этой было что-то поистине волшебное."
+        "Вся библиотека была великолепна, книги были везде, где хватало глаз."
         play music suspense fadein 40.0
-        "As my eyes scanned across the room, I soon spotted another individual, only one though, I guess libraries aren’t popular even in this world."
-        "Moxie cracked her fingers in a smooth motion before walking towards the blue mare that was tinkering with some books deeper into the library, I kept pace behind her."
+        "Пока я оглядывал комнату, я заметил еще одного человека, но всего одного. Наверное, библиотеки не пользуются популярностью даже в этом мире."
+        "Мокси плавным движением щелкнула пальцами и направилась к голубой кобылке, которая возилась с книгами в глубине библиотеки, я не отставал от Мокси ни на шаг."
         show moxie happyneutral with dissolve:
             xpos 700
             ypos -30
-        moxie "Penny!! I have great news and I have bad news, but mostly great news!"
+        moxie "Пенни!! У меня есть хорошие и плохие новости, но в основном хорошие!"
         show penelope neutral with dissolve:
             xpos 200
             ypos 30
         show moxie shy with dissolve:
-        penelope "Heyy Mox, you brought a... familiar...? What the heck is that thing... I can already see that this one is mostly bad news, right?"
+        penelope "Привет, Мокс, ты привела... фамильяра...? Что это за черт... Я уже вижу, что это в основном плохие новости, не так ли?"
         "'Penelope' raised an eyebrow while making eye contact with me. She stared me down in disbelief, I too stared her down in equal disbelief..."
         "This is the second pony I've seen up close... Blue fur, just like Moxie, but she seems to have a slightly different nipple pigment, and her purple hair and green eyes are really striking!"
         "I walked past many strange denizens on the way here too, it's all so alien to me."
