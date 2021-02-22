@@ -15,20 +15,20 @@ label forestvisit1:
     stop music fadeout 0.5
     play music hopelessness
     pause 0.5
-    "There’s a mysterious girl living in the forest, and I can go work with her."
-    "What could possibly go wrong? Other than the fact I might get lost on the way there."
+    "В этом лесу живёт таинственная девушка, я бы мог поработать у неё."
+    "Что может случиться? Кроме того, что я могу заблудиться по дороге к ней."
     show bg foresthouseexterior with dissolve
-    "Thankfully, there’s a fairly explicit path that leads me surprisingly deep through the woods, and straight to a clearing with a beautiful cottage in the middle."
-    "As I make my way up to the cottage’s door, I scout out the surroundings and see nothing out of the ordinary. And nothing that would suggest what kind of work I’ll be doing here."
-    "There's just a lot of plants, flowers and foliage. Am I going to be gardening?"
-    "I knock on the door of the cottage and I can momentarily hear some footsteps inside getting closer, but then all goes quiet."
-    "All of the windows are covered with curtains, but I can’t shake the feeling I’m being observed right now."
-    "That worry is soon alleviated when the door gently opens ajar, and a meek mare peeks through the crack."
+    "К счастью, тропа была хорошо различимой и вела меня довольно глубоко в лес прямо к уютному домику посреди поляны."
+    "Подойдя к двери коттеджа, я осматриваюсь и не замечаю ничего необычного. Не вижу ничего, что могло бы подсказать, какую работу мне предстоит здесь выполнять."
+    "Здесь довольно много растений, цветов и зелени. Я буду заниматься садоводством?"
+    "Я постучался и тут же услышал приближающиеся шаги, но потом всё стихает."
+    "Все окна закрыты шторами, но я не могу избавиться от ощущения, что за мной прямо сейчас наблюдают."
+    "Беспокойство вскоре рассеивается, когда дверь осторожно приоткрывается, и из-за неё выглядывает кроткая кобылка.."
     play music butters fadeout 30.0
-    "Her eyes initially squint at me, before widening. She then opens the door all the way and greets me with a smile."
+    "Сначала она искоса смотрит на меня, но потом её глаза расширяются, и она распахивает дверь, приветствуя меня улыбкой"
     show butters dresslaughing with dissolve
-    butters "Oh me, oh my, what an adorable animal. I haven’t seen a creature such as yourself before."
-    "To my bewilderment, this mare is wearing beautiful and extravagant clothing, almost completely covering her furry body."
+    butters "О мой, о божечки, какое очаровательное животное. Я никогда раньше не видела такого существа как ты."
+    "К моему изумлению, эта кобыла одета в красивую и экстравагантную одежду, почти полностью скрывающую весь её мех."
     "I’ve never felt so naked as I do right now."
     show butters dresshappy with dissolve
     butters "Do come in to my wonderous home, all animals of the forest are more than welcome."
