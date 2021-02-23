@@ -29,12 +29,12 @@ label forestvisit1:
     show butters dresslaughing with dissolve
     butters "О мой, о божечки, какое очаровательное животное. Я никогда раньше не видела такого существа как ты."
     "К моему изумлению, эта кобыла одета в красивую и экстравагантную одежду, почти полностью скрывающую весь её мех."
-    "I’ve never felt so naked as I do right now."
+    "Я никогда не чувствовал себя таким голым, как сейчас."
     show butters dresshappy with dissolve
-    butters "Do come in to my wonderous home, all animals of the forest are more than welcome."
-    mc "Animal? I’m not… I mean, I technically am, but…"
+    butters "Приходите в мой чудесный дом, все животные леса - мои желанные гости."
+    mc "Животные? Я не… Я имею в виду, технически да, но…"
     show butters dresssurprised with dissolve
-    butters "Oh my, you can talk my language? You must be really intelligent, how exciting!"
+    butters "Oh my, ты можешь говорить на моем языке? Вы, должно быть, очень умны, как интересно!"
     "While these compliments are heartwarming, I can't help but feel somewhat patronised."
     hide butters with dissolve
     show bg buttershouse with dissolve
