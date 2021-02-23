@@ -455,15 +455,15 @@ label eveningbutters:
                 "Мы вошли бешеный ритм безудержной глубокой ебли, грязные хлюпающие звуки смешались с нашими страстными стонами Finding a pace of deep and sensual fucking, indecent squelching noises mix with the moans each time our bodies come together."
                 "Похоже, у зелья были какие-то побочные эффекты помимо фертильности, потому что я уверен, что Баттерс обычно не такая мокрая."
                 "It’s also impossible to deny the pleasure she’s feeling, as she throws her arms and head back into the pillow, her tongue lolling slightly as her mind blanks from the powerful erotic sensations."
-                butters "Ooohh, keep going… I’m getting close. Ahh, ahh…"
+                butters "Ооохх, не останавливайся… я уже близко. Ахх, ахх…"
                 "I continue my rutting, using her plump thighs as leverage in order to pump her deeply and hard. As she’s getting closer and closer, she wraps her legs around my hips and pushes me closer."
                 show butters missionary4 with dissolve
-                butters "Йааа, дааа… Ох, [playername], я сейчас кончу! Ахх, ахх!"
+                butters "Йааа, дааа… Ох, [playername], я кончаю! Ахх, ахх!"
                 "Она закричала во весь голос, её глаза закатываются после того, как всё её тело пронзает сильнейший оргазм."
-                "As her pussy contracts and sucks around my shaft, I redouble my passion-filled fucking and pound her pussy with determination to fill it with my cum."
+                "Её киска туго сжимается вокруг моего стержня, я начинаю жарить Баттерс в два раза интенсивнее и страстно долблю её киску, полный желания наполнить её своей спермой."
                 "Her sloppy cunt squeezes even tighter around my cock, causing me to throb and drip precum. It doesn’t take long for the familiar sense of impending orgasm to arrive."
-                "My muscles grow tense, and my cock stiffens as my climax swells up deep inside. The constant moaning and shifting of my partner pushing me over the edge as she beckons me to cum."
-                butters "Cum for me, cum for me [playername]! I want you to fill my womb, impregnate me!"
+                "Мои мышцы напряглись, мой член сильно затвердел, когда я приблизился к краю глубоко внутри. Постоянные стоны и страстные движения моей партнерши доводят меня до пика, она манит меня кончить."
+                butters "Кончи для меня, кончи в меня [playername]! Я хочу чтобы ты наполнил мою матку, оплодотвори меня!"
                 play sound cum
                 show butters missionary5 with cum
                 play sound cum
