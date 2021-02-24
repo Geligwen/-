@@ -468,47 +468,47 @@ label eveningbutters:
                 show butters missionary5 with cum
                 play sound cum
                 show butters missionary5 with cum
-                "And just like an orgasm switch was pressed, the pressure reaches breaking point, my cock swells and I unload copious amounts of cum deep into my highly fertile lover."
+                "И как по щелчку меня пронзает оргазм, напряжение достигает высшей точки, мой член набухает и изливает обильный поток спермы глубоко внутрь моей крайне плодовитой любовницы."
                 play sound cum
                 show butters missionary5 with cum
                 play sound cum
                 show butters missionary5 with cum
-                "Butters seems to orgasm a second time in a row, indulging in the euphoria of being filled with hot, thick semen."
+                "Баттерс, предавшись эйфории от наполнения горячей, густой спермой, похоже, испытывает второй оргазм подряд."
                 play sound cum
                 show butters missionary5 with cum
                 play sound cum
                 show butters missionary5 with cum
-                "My orgasm is more powerful than I anticipated, and the volume of cum her pussy wrings out is a far larger quantity than usual."
+                "Мой оргазм намного сильнее, чем я ожидал, и объём семени вытекающего из её киски значительно больше, чем обычно."
                 play sound cum
                 show butters missionary5 with cum
                 play sound cum
                 show butters missionary5 with cum
-                "Three loads, six, nine, twelve?! The potion must have had a residual effect on my semen."
-                "There’s so much that it drips and splatters outwards, splattering our point of connection."
-                "Butters enjoys her orgasm and the moment so much, that she doesn’t unwrap her legs and let me stop fucking until my cock started to get sensitive."
+                "Третье извержение, шестое, девятое, двенадцатое?! Должно быть, зелье через любовные соки повлияло и на меня."
+                "Спермы так много, что она брызжет и изливается наружу, заливая простыни под нами."
+                "Баттерс так сильно наслаждается оргазмом, что не разжимает ноги до последнего и не позволяет мне перестать её трахать до тех пор, пока мой член не становится чувствительным."
                 show butters missionary6a with dissolve
                 stop ambience
                 stop music fadeout 3.0
-                "We both pant as she unwraps her legs and I pull back, some more cum oozing over her pussy. There’s so much cum that you can’t even see her vulva."
-                "She looks up to me, seemingly exhausted, but smiling with glee."
-                "I wonder if that got her pregnant? If this was a hentai game, I'd probably see one of those egg fertilisation cut-ins. Heh, what a ridiculous thought."
+                "Мы оба тяжело дышим, она выпрямляет свои ноги, я отстраняюсь назад и еще немного спермы вытекает из её киски. Там так много спермы, что даже не видно ее вульву."
+                "Она смотрит на меня снизу вверх, выглядя полностью обессилившей, но радостно улыбаясь."
+                "Интересно, от этого она забеременела? Если бы это была хентай-игра, я бы, наверное, увидел одну из этих вставок с оплодотворением яйцеклетки. Хех, какая нелепая мысль."
                 play ambience ambiencenight fadein 5.0
-                mc "So, how’d I do?"
-                butters "Haahhh… It’ll take a while, but I think you successfully put a bun in the oven, hehe!  *Pant*"
+                mc "Итак, как я справился?"
+                butters "Хааххх… должно пройти некоторое время, но я думаю мы посадили семечко в горшочек, хехе!  *Вздох*"
                 if bakeryvisit1 == 1:
-                    mc "Hah, I’d expect that type of comment from Cream, not you!"
+                    mc "Хах, я бы больше ожидал такой фразы от Крем, чем от тебя!"
                 else:
                     pass
-                butters "I’m so excited. I’m finally going to be a mother, after all these years!"
-                mc "Congratulations. If in a few months there’s no baby bump, be sure to gimmie a call."
-                butters "Aha, I hope you’ll cum inside me a lot more regardless."
+                butters "Я так взволнована. Я наконец-то стану матерью, после всех этих лет!"
+                mc "Поздравляю. Если через несколько месяцев у тебя не появится пузо, обязательно позови меня."
+                butters "Ахах, Я надеюсь, что ты сможешь в меня кончить гораздо больше."
                 scene bg black with dissolve
-                "We cuddle lovingly for the next five minutes, just enjoying the feeling of each other’s softness. Her fur, contrasting against my supple skin."
+                "Следующие пять минут мы нежно обнимаемся, просто наслаждаясь мягкостью друг друга. Ее мех контрастировал с моей упругой кожей.."
                 show bg buttersbednight with dissolve
-                butters "Mmm… I really enjoyed this."
-                butters "Maybe we can do this again later. You should definitely visit me tomorrow in any case! I think I’ll take one more load of cum just in case."
-                mc "Sure thing, I’ll happily donate my cum to any mare in Arcadia."
-                butters "Awhh, you’re such a perv! Come on, let me treat you to some dinner"
+                butters "Ммм… мне очень понравилось."
+                butters "Может быть, мы сможем повторить это позже. Во всяком случае, ты обязательно должен навестить меня завтра! Я думаю, что нужна еще одна порция спермы на всякий случай."
+                mc "Конечно, я с радостью пожертвую свою сперму любой кобыле в Аркадии."
+                butters "Арх, какой же ты извращенец! Пойдем, я угощу тебя ужином."
                 scene bg black with dissolve
                 "..."
                 scene bg buttershousenight with dissolve
