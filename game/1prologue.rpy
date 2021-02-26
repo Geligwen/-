@@ -573,17 +573,17 @@ label prologue:
         show moxie shy with dissolve:
         penelope "Привет, Мокс, ты привела... фамильяра...? Что это за черт... Я уже вижу, что это в основном плохие новости, не так ли?"
         "'Пенелопа' подняла бровь, взглянув мне в глаза.. Она недоверчиво уставилась на меня, я тоже уставился на нее с таким же недоверием...."
-        "Это вторая пони, которую я видел вблизи... Синий мех, как у Мокси, но у нее, кажется, немного другой цвет сосков, и ее фиолетовые волосы и зеленые глаза выглядят потрясающе!"
-        "I walked past many strange denizens on the way here too, it's all so alien to me."
+        "Это вторая пони, которую я видел вблизи... Синий мех, как у Мокси, но, кажется, немного другой цвет сосков, фиолетовые волосы и зеленые глаза это просто потрясающе!"
+        "Конечно, я тоже встретил много странных поней жителей по пути сюда, но я словно на другой планете."
         show penelope laughing with dissolve
-        penelope "I have never seen something like that before in my entire life, did you accidentally defluff a stallion?"
+        penelope "Я никогда в жизни не видела ничего подобного, неужто ты побрила жеребца?"
         show moxie laughing with dissolve
-        moxie "Oh, he’s not so bad, he’s my familiar! From that spell you told me about, remember? I totally nailed it, I blew that spell’s expectations out of the water, he can talk!"
+        moxie "О, все не так уж плохо, он мой фамильяр! Из того заклинания, о котором ты мне рассказывал, помнишь? Я отлично с ним справилась, оно сработало на все сто и даже больше, он умеет говорить!"
         show penelope shy with dissolve
-        penelope "Come on Moxie, you know that’s not how it works, that spell had limitations. We just wanted a temporary familiar, right?"
+        penelope "Ну же, Мокси, ты же понимаешь, что это не так работает, у этого заклинания были ограничения. Мы просто хотели временного фамильяра, да?"
         show moxie shy with dissolve
-        penelope "I don’t know what you ended up casting but I’m pretty sure familiars aren’t supposed to look like that. Between you and me, mine had boobs."
-        "I instinctively check my chest. I haven't seen myself in a mirror since I arrived, fortunately everything seems to be as usual."
+        penelope "Не знаю, что ты там наколдовала, но я почти уверена, что фамильяры выглядят не так. Между нами говоря, у моего были сиськи."
+        "Я инстинктивно потрогал свою грудь. Я не смотрелся в зеркало с тех пор как появился чувствует, fortunately everything seems to be as usual."
         show penelope shocked with dissolve
         penelope "This is… some kind of hairless pony… I suppose he’s pleasant to look at, but… it’s just bizarre. I doubt we can do anything with this."
         show penelope neutral with dissolve
