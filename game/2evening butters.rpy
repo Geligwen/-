@@ -401,7 +401,7 @@ label eveningbutters:
                     jump altmorning
                 else:
                     jump morning
-            "Мессионерская позза (с оплодотворением)" if buttersmissionaryunlock == 1 and butterspregnant == 0:
+            "Миссионерская поза (с оплодотворением)" if buttersmissionaryunlock == 1 and butterspregnant == 0:
                 $ butterspregnant = 1
                 show butters dresshappy with dissolve
                 butters "Ооохх, спасибо большое! Это правда потрясающе."
@@ -508,25 +508,25 @@ label eveningbutters:
                 butters "Ммм… мне очень понравилось."
                 butters "Может быть, мы сможем повторить это позже. Во всяком случае, ты обязательно должен навестить меня завтра! Я думаю, что нужна еще одна порция спермы на всякий случай."
                 mc "Конечно, я с радостью пожертвую свою сперму любой кобыле в Аркадии."
-                butters "Арх, какой же ты извращенец! Пойдем, я угощу тебя ужином."
+                butters "Арх, какой же ты извращенец! Пойдем, я накормлю тебя ужином."
                 scene bg black with dissolve
                 "..."
                 scene bg buttershousenight with dissolve
                 show butters dresshappy with dissolve
                 jump eveningbuttersmenu
-            "Missionary (Standard Version)" if buttersmissionaryunlock == 1:
+            "Миссионерская поза (обычная)" if buttersmissionaryunlock == 1:
                     show butters dressneutral with dissolve
-                    butters "Ooohh, I usually try to avoid sex before dinner, but I’m so horny lately..."
+                    butters "Ооохх, обычно я стараюсь избегать секса перед ужином, но в последнее время я так возбуждена..."
                     mc "Well, I better fuck it out of you before you turn Succubus on me."
                     butters "True! Let's do it."
                     scene bg black with dissolve
                     play music sex1 fadein 3.0
                     stop ambience fadeout 3.0
                     show butters missionary1 with dissolve
-                    "We walk to the bedroom where Butters readily presents herself to me on the bed."
-                    "She looks beautiful right now. The last of today's light shimmers from the setting sun, through the mountains, and peers through the window to illuminate her body."
+                    "Мы идём в спальню, где Баттерс с готовностью преподносит мне себя на кровати."
+                    "Она выглядит потрясающе. Угасающие лучики закатного солнца пробиваются сквозь горы и, заглядывая в окно, освещают её шикарное тело."
                     "All this beauty, and I’m lucky enough for her to offer it to me."
-                    butters "Hah... [playername]..."
+                    butters "Ахх... [playername]..."
                     "She’s so wet, she’s clearly in a very lustful mood. Her legs are already splayed open as she eagerly awaits penetration."
                     "I approach the bed, drinking in every detail of her beautiful form."
                     show butters missionary2 with dissolve
