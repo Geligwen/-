@@ -583,32 +583,32 @@ label prologue:
         penelope "Ну же, Мокси, ты же понимаешь, что это не так работает, у этого заклинания были ограничения. Мы просто хотели временного фамильяра, да?"
         show moxie shy with dissolve
         penelope "Не знаю, что ты там наколдовала, но я почти уверена, что фамильяры выглядят не так. Между нами говоря, у моего были сиськи."
-        "Я инстинктивно потрогал свою грудь. Я не смотрелся в зеркало с тех пор как появился чувствует, fortunately everything seems to be as usual."
+        "Я инстинктивно потрогал свою грудь. Я не смотрелся в зеркало с тех пор как появился чувствует, к счастью все как обычно."
         show penelope shocked with dissolve
-        penelope "This is… some kind of hairless pony… I suppose he’s pleasant to look at, but… it’s just bizarre. I doubt we can do anything with this."
+        penelope "Этоо… какой - то безволосый пони… Вообще, наверно на него приятно смотреть, ноо… это так странно. Не думаю, что мы сможем что-то с этим сделать."
         show penelope neutral with dissolve
-        penelope "Unless this is a strange familiar, it looks to me like you cast the wrong spell, Moxie."
+        penelope "Мокси, похоже ты наколдовала что-то не то, если только это не какой-то необычный фамильяр."
         show moxie sad with dissolve
-        moxie "Ahaha, ha… yeah, maybe... Look though, this is so much better than a familiar, I was serious when I said he can talk!"
-        penelope "Talk? You said that earlier, but he hasn't said anything..."
-        moxie "Oh, right! I told him to leave the talking to me, sorry!"
-        "Moxie gently nudges me as if trying to get me to perform. I realize I’ve been so caught up in thought that I haven’t said anything yet."
+        moxie "Ахаха, ха… эх, может и так... Но посмтри с другой сторны, это намного лучше, чем фамильяр, когда я говорила, что он может говорить, я была абсолютно серьезна!"
+        penelope "Говорить? Ты уже это говорила, но он так ничего и не сказал..."
+        moxie "О, точно! Я сказал ему, что буду говорить за него, извини!"
+        "Мокси легонько толкает меня локтем как будто пытаясь заставить меня показать себя. Я понимаю, что был так поглощен своими мыслями, что еще ничего не сказал."
         "I'm still not used to this, meeting people, being naked, being different."
         show moxie neutral with dissolve
         menu:
-            "Uh, hi":
+            "Э-э, привет":
                 show penelope embarrassed with dissolve
-                penelope "Oh... It talks, hello."
-            "Nice to meet you, I'm [playername].":
+                penelope "Оо... Оно говорит, привет."
+            "Приятно познакомиться, я [playername].":
                 show penelope embarrassed with dissolve
-                penelope "... Nice to meet you too? I'm Penelope."
-            "I don't know what's going on.":
+                penelope "... Мне тоже? Я Пенелопа."
+            "Я понимаю, что происходит.":
                 show penelope embarrassed with dissolve
-                penelope "Huh, you can talk..."
-        "Penelope was truly shocked when she heard me speak."
-        penelope "You… tried to summon a familiar and this person appeared? Moxie, Moxie… I thought this might have been a trick, but… if I were to believe you, this is incredible!"
+                penelope "Ха, ты можешь говорить..."
+        "Пенелопа была просто ошарашена, когда услышала как я говорю."
+        penelope "Тыы… попыталась призвать фамильяра и появился этот человек? Мокси, Мокси… Я подумал, что это может быть какой-то трюк, но… если это правда, то это было бы просто невероятно!"
         show moxie laughing with dissolve
-        moxie "Ehehe, well… here’s everything I know so far."
+        moxie "Ехехе, ну… это все, что я сейчас знаю."
         hide moxie with None
         hide penelope with dissolve
         scene bg black with dissolve
@@ -622,14 +622,14 @@ label prologue:
         show penelope happy with dissolve:
             xpos 200
             ypos 30
-        "A short discussion was had between the three of us. I properly introduced myself and Moxie explained the events of the evening prior with the sexual details omitted. "
+        "Мы немного поговорили втроем. Я как следует представился и Мокси пересказала события предыдущего вечера опустив сексуальные подробности. "
         show penelope laughing with dissolve
-        penelope "Why, yes, I have heard of this before, I believe Lily has dabbled in this field of magic."
-        moxie "Meh, it would be her."
+        penelope "Да, я уже слышала об таком раньше, Я думаю, Лили игралась с этим видом магии."
+        moxie "Мэ, это была бы она."
         show penelope happy with dissolve
         show moxie althappy with dissolve
-        penelope "Familiars aren't supposed to be permanent, they're supposed to disappear after a while, but our friend here has stuck around."
-        moxie "Mhm, he's been here over twelve hours now."
+        penelope "Фамильяры не должны быть постоянными, они исчезают через некоторое время, но наш друг похоже здесь застрял."
+        moxie "Ммм, он здесь уже больше двенадцати часов."
         penelope "With that being said, my hypothesis is that you didn’t 'Create' [playername], you 'Summoned' [playername] from a far off place."
         penelope "I know that might seem confusing, but I don’t think you cast the right spell. Or, the spell had a drastically unintended effect."
         "Although both Moxie and I had already assumed that was the case, it doesn’t hurt to have a third opinion from an expert."
