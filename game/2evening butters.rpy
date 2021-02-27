@@ -438,8 +438,8 @@ label eveningbutters:
                 butters "О мой…"
                 "Она слегка краснеет, когда я пристраиваюсь ближе и нависаю над ней в традиционной миссионерской позе."
                 "Моя любовница, без сомнения, возбуждена, но она все равно нуждается в любови и ласке. Я провожу пальцами по ее спутанным шелковистым волосам и целую ее."
-                "Одной рукой я массирую ее большие мясистые сиськи, а другой стимулирую свою усиливающуюся эрекцию."
-                "Наконец полностью эрегерованный и готовый, я выпрямляюсь не сводя глаз с моего драгоценного подарка."
+                "Одной рукой я массирую её пышную упругую грудь, а другой стимулирую свою усиливающуюся эрекцию."
+                "Наконец полностью эрегерованный и полностью на готове, я выпрямляюсь, не сводя глаз с моего драгоценного подарка."
                 "Баттерс делает глубокий вдох и дрожит в ожидании моего прикосновения, ее хвост практически обвивается вокруг моего бедра."
                 butters "Аххх, Я-я вся твоя."
                 "Глядя на её румяные от желания щёчки, я ухмыляюсь и начинаю тереть головкой члена о её вульву."
@@ -450,20 +450,20 @@ label eveningbutters:
                 butters "Ааххх, ааххх… Кажется зелье сделало меня немного чувствительней, но не волнуйся эти ощущения даже приятнее, чем обычно"
                 "Стенки ее киски сжимаются вокруг моего члена, обвалакивая его теплотой и нежно прилегая ко всем моим чувствительным местам."
                 play ambience sex fadein 3.0
-                "Мы стонем от удовольствия, когда я выхожу и сразу же резко вхожу упираясь в основание её манящих I slide back out, and push back deeply into the hilt of her inviting insides."
-                "Сочный зад Баттерс и её пышная грудь трясутся от каждого моего толчка, и с её губ срываются сладкие стоны."
-                "Мы вошли бешеный ритм безудержной глубокой ебли, грязные хлюпающие звуки смешались с нашими страстными стонами Finding a pace of deep and sensual fucking, indecent squelching noises mix with the moans each time our bodies come together."
+                "Мы стонем от удовольствия, когда я выхожу и сразу же резко вхожу упираясь в самое основание её манящего лона."
+                "Сочный зад и пышная грудь Баттерс трясутся с каждыс моим толчком, и с её губ срываются сладкие стоны."
+                "Наконец-то подобрав нужный темп глубокого и чувственного траха, я был вознаграждён непристойной смесью хлюпающих звуков и страстных стонов при каждом соприкосновении наших тел"
                 "Похоже, у зелья были какие-то побочные эффекты помимо фертильности, потому что я уверен, что Баттерс обычно не такая мокрая."
                 "It’s also impossible to deny the pleasure she’s feeling, as she throws her arms and head back into the pillow, her tongue lolling slightly as her mind blanks from the powerful erotic sensations."
                 butters "Ооохх, не останавливайся… я уже близко. Ахх, ахх…"
-                "I continue my rutting, using her plump thighs as leverage in order to pump her deeply and hard. As she’s getting closer and closer, she wraps her legs around my hips and pushes me closer."
+                "Я продолжал неумолимо трахать Баттерс, используя её пухлые бёдра, как опору, чтобы входить в неё ещё глубже и жёстче. Помере того, как она подходила всё ближе и ближе, она обхватила меня ногами и стала прижимать к себе ещё сильнее, быстро приближая мой оргазм."
                 show butters missionary4 with dissolve
                 butters "Йааа, дааа… Ох, [playername], я кончаю! Ахх, ахх!"
                 "Она закричала во весь голос, её глаза закатываются после того, как всё её тело пронзает сильнейший оргазм."
-                "Её киска туго сжимается вокруг моего стержня, я начинаю жарить Баттерс в два раза интенсивнее и страстно долблю её киску, полный желания наполнить её своей спермой."
-                "Her sloppy cunt squeezes even tighter around my cock, causing me to throb and drip precum. It doesn’t take long for the familiar sense of impending orgasm to arrive."
-                "Мои мышцы напряглись, мой член сильно затвердел, когда я приблизился к краю глубоко внутри. Постоянные стоны и страстные движения моей партнерши доводят меня до пика, она манит меня кончить."
-                butters "Кончи для меня, кончи в меня [playername]! Я хочу чтобы ты наполнил мою матку, оплодотвори меня!"
+                "Её интимные мышцы в спазме сокращаются ещё сильнее стимулируя мой стержень, я начинаю жарить Баттерс в два раза интенсивнее и страстно долблю её киску, полный желания наполнить её своей спермой."
+                "Её скользкая промокшая насквозь пиздёнка всё сильнее сжимается вокруг моего члена, заставляя его пульсировать и сочиться смазкой. И вот я уже всё сильнее ощущаю приближение оргазма."
+                "Мои мышцы напряглись, мой член сильно затвердел, когда я приблизился к краю, находясь глубоко внутри неё. Постоянные стоны и страстные движения моей партнерши легко доводят меня до пика, она манит меня кончить."
+                butters "Кончи в меня, кончи в меня [playername]! Я хочу чтобы ты наполнил мою матку, оплодотвори меня!"
                 play sound cum
                 show butters missionary5 with cum
                 play sound cum
@@ -485,7 +485,7 @@ label eveningbutters:
                 show butters missionary5 with cum
                 "Третье извержение, шестое, девятое, двенадцатое?! Должно быть, зелье через любовные соки повлияло и на меня."
                 "Спермы так много, что она брызжет и изливается наружу, заливая простыни под нами."
-                "Баттерс так сильно наслаждается оргазмом, что не разжимает ноги до последнего и не позволяет мне перестать её трахать до тех пор, пока мой член не становится чувствительным."
+                "Баттерс так сильно наслаждается оргазмом, что не разжимает свои ноги до последнего и не позволяет мне перестать её трахать до тех пор, пока мой член не становится чувствительным."
                 show butters missionary6a with dissolve
                 stop ambience
                 stop music fadeout 3.0
@@ -503,7 +503,7 @@ label eveningbutters:
                 mc "Поздравляю. Если через несколько месяцев у тебя не появится пузо, обязательно позови меня."
                 butters "Ахах, Я надеюсь, что ты сможешь в меня кончить гораздо больше."
                 scene bg black with dissolve
-                "Следующие пять минут мы нежно обнимаемся, просто наслаждаясь мягкостью друг друга. Ее мех контрастировал с моей упругой кожей.."
+                "Ещё минут пять мы нежно обнимаемся, просто наслаждаясь мягкостью друг друга. Ее мех приятно контрастировал с моей упругой кожей."
                 show bg buttersbednight with dissolve
                 butters "Ммм… мне очень понравилось."
                 butters "Может быть, мы сможем повторить это позже. Во всяком случае, ты обязательно должен навестить меня завтра! Я думаю, что нужна еще одна порция спермы на всякий случай."
@@ -517,73 +517,73 @@ label eveningbutters:
             "Миссионерская поза (обычная)" if buttersmissionaryunlock == 1:
                     show butters dressneutral with dissolve
                     butters "Ооохх, обычно я стараюсь избегать секса перед ужином, но в последнее время я так возбуждена..."
-                    mc "Well, I better fuck it out of you before you turn Succubus on me."
-                    butters "True! Let's do it."
+                    mc "Что ж, лучше мне оттрахать тебя по полной программе, пока ты снова не превратилась в суккуба."
+                    butters "И то правда. Давай!"
                     scene bg black with dissolve
                     play music sex1 fadein 3.0
                     stop ambience fadeout 3.0
                     show butters missionary1 with dissolve
                     "Мы идём в спальню, где Баттерс с готовностью преподносит мне себя на кровати."
                     "Она выглядит потрясающе. Угасающие лучики закатного солнца пробиваются сквозь горы и, заглядывая в окно, освещают её шикарное тело."
-                    "All this beauty, and I’m lucky enough for her to offer it to me."
+                    "Вся эта пленительная красота - и я именно тот счастливчик, кому Баттерс предлагает всю себя."
                     butters "Ахх... [playername]..."
-                    "She’s so wet, she’s clearly in a very lustful mood. Her legs are already splayed open as she eagerly awaits penetration."
-                    "I approach the bed, drinking in every detail of her beautiful form."
+                    "Она такая мокрая, она явно в очень похотливом настроении. Ее ноги уже раздвинуты и она жаждет, чтобы ей овладели."
+                    "Я подхожу к кровати, опьянённый каждой деталью её шикарных форм."
                     show butters missionary2 with dissolve
-                    "Her tail flickers excitedly as I kneel before her and pull her hips slightly closer."
-                    butters "Oh my…"
-                    "She blushes a little as I close the distance and lean close over her in a traditional missionary position."
-                    "My lover is no doubt horny, but she still deserves to be treated with love. I brush my fingers through her messy locks of silken hair while I kiss her."
-                    "With one hand I massage her large soft breasts, while I masturbate my growing erection with the other."
-                    "Once fully erect and ready to go, I bring myself back upright with my eyes on the prize."
-                    "Butters takes a deep breath and shivers in anticipation of my touch, her tail practically curling around my thigh needily."
-                    butters "Ahh, I-I’m all yours."
-                    "With her cheeks flushed in desire, I grin as I take the head of my cock and rub it up and down her vulva."
+                    "Её хвост вохбуждённо вздрагивает, когда я сажусь перед ней на колени и подтягиваю её бедра чуть ближе."
+                    butters "О мой…"
+                    "Она слегка краснеет, когда я пристраиваюсь ближе и нависаю над ней в традиционной миссионерской позе."
+                    "Моя любовница, без сомнения, возбуждена, но она все равно нуждается в любови и ласке. Я провожу пальцами по ее спутанным шелковистым волосам и целую ее."
+                    "Одной рукой я массирую её пышную упругую грудь, а другой стимулирую свою усиливающуюся эрекцию."
+                    "Наконец полностью эрегерованный и полностью на готове, я выпрямляюсь, не сводя глаз с моего драгоценного подарка."
+                    "Баттерс делает глубокий вдох и дрожит в ожидании моего прикосновения, ее хвост практически обвивается вокруг моего бедра."
+                    butters "Аххх, Я-я вся твоя."
+                    "Глядя на её румяные от желания щёчки, я ухмыляюсь и начинаю тереть головкой члена о её вульву."
                     play sound cum
                     show butters missionary3 with dissolve
-                    "She’s dripping wet, causing my tip to glisten in the glow of the sun. Having teased her enough, I line up with her entrance and push inwards."
-                    "I slide myself deeply into my lover, strings of sticky wetness connect us as my shaft pushes into the deepest reaches of her nether."
-                    butters "Aahhh, aahhh… I’m so horny lately. Don’t hold back, I need you to knock some sense into me, heh."
-                    "The walls of her pussy clamp down around my member, enveloping me in warmth and squeezing pleasantly around every nerve ending."
+                    "Она уже вся мокрая, отчего мой кончик начинает блестеть в лучах солнца. Достаточно раздразнив её, я делаю аккуратное движение и вхожу в неё."
+                    "Я глубоко вскальзываю в свою возлюбленную, нити липкой влаги сцепляют нас, когда мой член проникает в её самое сокровенное место."
+                    butters "Ааххх, ааххх… В последнее время я так возбуждена. Не сдерживайся, мне нужно, чтобы ты вправил мне мозги своим инструментом, хехе."
+                    "Стенки ее киски сжимаются вокруг моего члена, обвалакивая его теплотой и нежно прилегая ко всем моим чувствительным местам."
                     play ambience sex fadein 3.0
-                    "I groan and she moans with pleasure as I slide back out, and push back deeply into the hilt of her inviting insides."
-                    "With each thrust, Butters large breasts and juicy ass jiggle, and an adorable moan escapes her mouth."
-                    "Finding a pace of deep and sensual fucking, indecent squelching noises mix with the moans each time our bodies come together."
+                    "Мы стонем от удовольствия, когда я выхожу и сразу же резко вхожу упираясь в самое основание её манящего лона"
+                    "Сочный зад и пышная грудь Баттерс трясутся с каждым моим толчком, и с её губ срываются сладкие стоны."
+                    "Наконец-то подобрав нужный темп глубокого и чувственного траха, я был вознаграждён непристойной смесью хлюпающих звуков и страстных стонов при каждом соприкосновении наших тел"
                     "It’s also impossible to deny the pleasure she’s feeling, as she throws her arms and head back into the pillow, her tongue lolling slightly as her mind blanks from the powerful erotic sensations."
-                    butters "Ooohh, keep going… I’m getting close. Ahh, ahh…"
-                    "I continue my rutting, using her plump thighs as leverage in order to pump her deeply and hard. As she’s getting closer and closer, she wraps her legs around my hips and pushes me closer."
+                    butters "Ооохх, не останавливайся… я уже близко. Ахх, ахх…"
+                    "Я продолжал неумолимо трахать Баттерс, используя её пухлые бёдра, как опору, чтобы входить в неё ещё глубже и жёстче. Помере того, как она подходила всё ближе и ближе, она обхватила меня ногами и стала прижимать к себе ещё сильнее, быстро приближая мой оргазм."
                     show butters missionary4 with dissolve
-                    butters "Yeahh, yesss… Oh, [playername], I’m going to come! Ahh, ahh!"
-                    "She moans aloud as her eyes roll back in the wake of a full body orgasm."
-                    "As her pussy contracts and sucks around my shaft, I redouble my passion-filled fucking and pound her pussy with determination to fill it with my cum."
-                    "Her sloppy cunt squeezes even tighter around my cock, causing me to throb and drip precum. It doesn’t take long for the familiar sense of impending orgasm to arrive."
-                    "My muscles grow tense, and my cock stiffens as my climax swells up deep inside. The constant moaning and shifting of my partner pushing me over the edge as she beckons me to cum."
-                    butters "Cum for me, cum for me [playername]! Fill up my pussy!"
+                    butters "Йааа, дааа… Ох, [playername], я кончаю! Ахх, ахх!"
+                    "Она закричала во весь голос, её глаза закатываются после того, как всё её тело пронзает сильнейший оргазм."
+                    "Её интимные мышцы в спазме сокращаются ещё сильнее стимулируя мой стержень, я начинаю жарить Баттерс в два раза интенсивнее и страстно долблю её киску, полный желания наполнить её своей спермой."
+                    "Её скользкая промокшая насквозь пиздёнка всё сильнее сжимается вокруг моего члена, заставляя его пульсировать и сочиться смазкой. И вот я уже всё сильнее ощущаю приближение оргазма."
+                    "Мои мышцы напряглись, мой член сильно затвердел, когда я приблизился к краю, находясь глубоко внутри неё. Постоянные стоны и страстные движения моей партнерши легко доводят меня до пика, она манит меня кончить."
+                    butters "Кончи в меня, кончи в меня [playername]! Я хочу чтобы ты наполнил мою матку, оплодотвори меня!"
                     play sound cum
                     show butters missionary5 with cum
                     play sound cum
                     show butters missionary5 with cum
-                    "And just like an orgasm switch was pressed, the pressure reaches breaking point, my cock swells and I unload copious amounts of cum deep into my highly fertile lover."
+                    "И как по щелчку меня пронзает оргазм, напряжение достигает высшей точки, мой член набухает и изливает обильный поток спермы глубоко внутрь моей крайне плодовитой любовницы."
                     play sound cum
                     show butters missionary5 with cum
                     play sound cum
                     show butters missionary5 with cum
-                    "Butters seems to orgasm a second time in a row, indulging in the euphoria of being filled with hot, thick semen."
-                    "There’s so much that it drips and splatters outwards, splattering our point of connection."
-                    "Butters enjoys her orgasm and the moment so much, that she doesn’t unwrap her legs and let me stop fucking until my cock started to get sensitive."
+                    "Баттерс, предавшись эйфории от наполнения горячей, густой спермой, похоже, испытывает второй оргазм подряд."
+                    "Спермы так много, что она брызжет и изливается наружу, заливая простыни под нами."
+                    "Баттерс так сильно наслаждается оргазмом, что не разжимает свои ноги до последнего и не позволяет мне перестать её трахать до тех пор, пока мой член не становится чувствительным."
                     show butters missionary6b with dissolve
                     stop ambience
                     stop music fadeout 3.0
-                    "We both pant as she unwraps her legs and I pull back, some more cum oozing over her pussy."
-                    "She looks up to me, seemingly exhausted, but smiling with glee."
+                    "Мы оба тяжело дышим, она выпрямляет свои ноги, я отстраняюсь назад и еще немного спермы вытекает из её киски."
+                    "Она смотрит на меня снизу вверх, выглядя полностью обессилившей, но радостно улыбаясь."
                     play ambience ambiencenight fadein 5.0
                     scene bg black with dissolve
-                    "We cuddle lovingly for the next five minutes, just enjoying the feeling of each other’s softness. Her fur, contrasting against my supple skin."
+                    "Ещё минут пять мы нежно обнимаемся, просто наслаждаясь мягкостью друг друга. Ее мех приятно контрастировал с моей упругой кожей."
                     show bg buttersbednight with dissolve
-                    butters "Mmm… I really enjoyed this."
-                    butters "Every time with you is like my first, it’s truly special."
+                    butters "Ммм… мне очень понравилось."
+                    butters "Каждый раз с тобой, ощущается как первый - это что-то правда особенное."
                     mc "I could say the same with you. You have some qualities that no mare in Arcadia can match."
-                    butters "Awhh, you’re such a flatterer."
+                    butters "А-а-а, ты мне льстишь."
                     scene bg black with dissolve
                     "..."
                     scene bg buttershousenight with dissolve
