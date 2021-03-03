@@ -18,8 +18,8 @@ label forestvisit1:
     "В этом лесу живёт таинственная девушка, я бы мог поработать у неё."
     "Что может случиться? Кроме того, что я могу заблудиться по дороге к ней."
     show bg foresthouseexterior with dissolve
-    "К счастью, тропа была хорошо различимой и вела меня довольно глубоко в лес прямо к уютному домику посреди поляны."
-    "Подойдя к двери коттеджа, я осматриваюсь и не замечаю ничего необычного. Не вижу ничего, что могло бы подсказать, какую работу мне предстоит здесь выполнять."
+    "К счастью, тропа была хорошо различимой и вела меня довольно глубоко в лес прямо к уютному коттеджу посреди поляны."
+    "Подойдя к двери дома, я осматриваюсь и не замечаю ничего необычного. Не вижу ничего, что могло бы подсказать, какую работу мне предстоит здесь выполнять."
     "Здесь довольно много растений, цветов и зелени. Я буду заниматься садоводством?"
     "Я постучался и тут же услышал приближающиеся шаги, но потом всё стихает."
     "Все окна закрыты шторами, но я не могу избавиться от ощущения, что за мной прямо сейчас наблюдают."
@@ -31,14 +31,14 @@ label forestvisit1:
     "К моему изумлению, эта кобыла одета в красивую и экстравагантную одежду, почти полностью скрывающую весь её мех."
     "Я никогда не чувствовал себя таким голым, как сейчас."
     show butters dresshappy with dissolve
-    butters "Приходите в мой чудесный дом, все животные леса - мои желанные гости."
+    butters "Проходите в мой чудесный дом, все животные леса - мои желанные гости."
     mc "Животные? Я не… Я имею в виду, технически да, но…"
     show butters dresssurprised with dissolve
-    butters "Oh my, ты можешь говорить на моем языке? Вы, должно быть, очень умны, как интересно!"
-    "While these compliments are heartwarming, I can't help but feel somewhat patronised."
+    butters "Оу, вы можете говорить на моем языке? Вы, должно быть, очень умны, как интересно!"
+    "Хоть эти комплименты довольно приятны, я не могу не чувствовать, что на меня смотрят с высока."
     hide butters with dissolve
     show bg buttershouse with dissolve
-    "I take a step inside of her home, the cottage looks even more beautiful from the inside, it’s finely decorated and well-kept."
+    "Я переступил порог и зашёл в её дом, изнутри коттедж выглядел ещё красивее, it’s finely decorated and well-kept."
     "Each room is full of seemingly rare trinkets and shiny baubles that would make even the most dedicated collectors jealous."
     "What's more is there's an adorable snow-white bunny scooting around on the floor, seemingly running away from me because I'm a stranger."
     "Wait, the bunny is an actual bunny, does that mean there are no anthropomorphic bunnies? Or does this mean there are actual four-legged ponies?"
