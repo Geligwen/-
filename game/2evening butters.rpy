@@ -338,7 +338,7 @@ label eveningbutters:
                 play music sex1 fadein 3.0
                 butters "Ты хочешь вести? Хорошо, давай!"
                 hide butters with dissolve
-                "Она вприпрыжку идёт в спальню, прежде чем нелепо нырнуть в кровать, упёршись лицом в подушку."
+                "Она вприпрыжку идёт в спальню, прежде чем нелепо плюхнуться на кровать, упёршись лицом в подушку."
                 show butters legupdoggy1 with dissolve
                 "И затем мне открылся невероятно соблазнительный вид: её круп приподнялся, вслед за чем она задрала свою ногу, демонстрируя моему взгляду свою влажную от соков и уже готовую киску."
                 butters "Ммм, Я вся твоя, милый..."
@@ -589,25 +589,25 @@ label eveningbutters:
                     scene bg buttershousenight with dissolve
                     show butters dresshappy with dissolve
                     jump eveningbuttersmenu
-            "Milky Paizuri" if milkypaizuriunlocked == 1:
+            "Milky Пайцури" if milkypaizuriunlocked == 1:
                 play music sex1 fadein 3.0
                 stop ambience fadeout 2.0
-                butters "You wanna play with my boobs?"
+                butters "Хочешь поиграть с моими титьками?"
                 scene bg buttersbedday with dissolve
-                "She wanders to the bedroom with a skip in her step, before cartoonishly diving onto the bed and jiggling her tits."
+                "Она вприпрыжку идёт в спальню, магнетически тряся своими прелестями, прежде чем нелепо плюхнуться на кровать."
                 show butters paizuri2 with dissolve
-                "Мне нравится её игривость."
+                "Мне нравится её игривое настроение."
                 "I position myself below her on the bed, and lay down between her thighs. Butters takes it upon herself to sit on my thighs, её обнажённая фигура  me to the point of erection."
                 "With little hesitation, she begins to stroke my shaft until my tip throbs and dribbles with precum. Some drops of milk splattering onto my skin."
                 "Once she’s satisfied, she lowers her entire body and prepares to put her pillowy bosom to good work."
                 show butters paizuri3 with dissolve
                 butters "I really enjoy doing paizuri with you. Even though I'm usually too horny and just want it in my pussy, hehe…"
                 show butters paizuri2 with dissolve
-                butters "My nipples and breasts aren't quite as sensitive as they were before, so I don't think I'll be able to orgasm from just breast stimulation."
-                butters "But I think I'll have no problem getting you off..."
-                "My cock throbs at her lewd words, prodding her boobs and causing her to giggle."
+                butters "Мои соски и груди не были настолько чувствительными прежде, впрочем, я не думаю, что меня доведёт до оргазма лишь стимуляция груди."
+                butters "Но, я думаю, что без труда смогу довести тебя..."
+                "Я сильно завёлся от этих слов, и мой член упёрся прямо в её грудь, от чего она захихикала."
                 play ambience blowjob fadein 3.0
-                "She eases her breasts around my shaft, and then uses her arms to squish them together, squashing my member surprisingly effectively."
+                "Она мягко охватывает мой стояк своими грудями, после чего стискивает их руками, довольно сильно сжимая мой член."
                 "There were already a few droplets of milk around my cock, creating a warmth and a wetness that lubricates us slightly."
                 "She begins to rise and fall, catching the skin of my shaft and pulling it back and forth over my glans eliciting pleasureful sensations despite the otherwise simple and slow motions."
                 "Butters wasn’t joking, her breasts really are splaying more milk, her nipples now fully standing to attention as my pelvis dampens with a slight glisten of milk."
