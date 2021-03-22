@@ -1070,122 +1070,122 @@ label bakery:
                 "Утром я возвращаюсь домой, удовлетворённый как вечеринкой, так и секс-марафоном после."
                 jump altmorning
             "Блоссом" if farmvisit3 == 1:
-                "I talk to Blossom a lot tonight, she's a little more quiet than everyone else but provides great conversation none-the-less."
-                "We agree to go back to her place that night."
+                "Мы много болтаем с Блоссом в течение этой ночи, она чуть тише всех вокруг, но это не мешает мне всё равно наслаждаться её компанией и нашим общением."
+                "Мы договаримаеся пойти переночевать у неё."
                 stop music fadeout 3.0
                 stop ambience fadeout 3.0
                 $ blossomsex = 1
-                "I climb into bed with Blossom and she playfully rolls me over."
-                blossom "I'll be on top, all that alcohol has filled me with energy."
+                "Я залезаю в кровать с Блоссом, и она игриво переворачивает меня на спину."
+                blossom "Я буду сверху, весь выпитый алкоголь наполнил меня энергией."
                 hide blossom
                 show blossomb2 sex
                 show blossom sex1
                 with dissolve
                 play music sex1 fadein 3.0
-                "As much as I'd like to protest, I'm left mesmerised as Blossom straddles me and starts to rub her pussy on my cock whilst giggling girlishly"
-                "She wraps her spare hand around my member and starts to give it gentle strokes up and down, causing my cock to swell up and stiffen completely."
-                "Blossom bites her lips and wiggles her hips, she's already eager for more, and the dripping wetness between her legs signals that she's ready to take me."
+                "Как бы я ни хотел сопротивляться, я заворожен видом оседлавшей меня Блоссом, начавшей тереться своей киской о мой член с девчачьим хихиканьем."
+                "Она обхватила свободной рукой мой член и начала нежно гладить его сверху-вниз, почти сразу вызывая у меня эрекцию."
+                "Блоссом кусает свои губы и качает бёдрами, уже жаждя большего: влажные капли, стекающие по её бёдрам, недвусмысленно намекают, что она уже готова принять меня."
                 play sound cum
                 show blossom sex2 with dissolve
-                "With a bit of her teasing, my cock is now raging hard and throbbing. Fortunately, Blossom is all too willing to satisfy as she lifts herself over me and allows my cock to sink deeply into her."
-                "She takes her time sliding down my thick cock, I can feel my cock spread her lips apart with a delectable slowness until I'm finally at the hilt."
-                "Blossom let's out a satisfied sigh and stares into my eyes with dreamy longingless, she merely nods before her hips begin to move with a passion."
+                "Под шквалом её поддразниваний, мой член уже стоит колом и пульсирует. К счастью, Блоссом и без того слишком желает удовлетворить меня: она приподнимается надо мной и позволяет моему члену нырнуть глубоко внутрь её киски."
+                "Не торопясь, она соскользывает по моему члену, я чувствую, как её губы раздвигаются от давления моего конца, пока тот не входит до упора."
+                "Блоссом издаёт полный удовольсвия стон и мечтательно вглядывается мне в глаза. Кивнув мне, она начинает свои страстные движения бёдрами."
                 play ambience sex fadein 3.0
-                "As she rises and falls along my member a mixture of gasps and moans slip from her lips as she loses herself in the throes of passion."
-                "Every drop of the hips is accompanied by a lewd, arousing schlick as her wetness gleams off my cock and driplets of her lust pool at my pelvis."
+                "Поднимаясь и опускаясь на моём члене, она всё больше теряла себя в страстном ритме, из её разгорячённых губ раздавалась смесь из стонов и вздохов."
+                "Каждый удар её бедёр сопровождался непристойным возбуждающим хлюпом: её соки мерцают на моём члене и капли её страсти уже стали скапливаться у меня на животе."
                 show blossom sex3 with dissolve
-                blossom "Aahhh, mmmphh, we should do this every day, haahh, ahh..."
-                "Her riding gains speed and she arches her back in response to the quaking pleasure throughout her body, I too feel tense from the overwhelming sensation she's providing me."
-                "With each deep thrust I can feel myself getting closer and closer, her pussy trying to milk my cock with all its worth."
-                blossom "Mmphh, please cum in your lil' cumslut, please give me your cum!"
-                "She begs as our sex devolves into an orgasmic mess, her pussy clamps down around my cock tightly which in turn pushes me over the edge."
+                blossom "Ааххх, мммфхх, мы должны этим заниматься каждый день, хаахх, ахх..."
+                "Её скачка становится всё неистовее, в ответ на нарастающее внутри неё удовольствие, она выгибает спину, я тоже начинаю чувствовать всё усиливающееся напряжение от переполняющих меня ощущений, которые она мне даёт."
+                "С каждым глубоким рывком я чувствую себя всё ближе и ближе к пику, её киска пытается со всей своей силой сжать мой член."
+                blossom "Ммфхх, пожалуйста, кончи в свою маленькую спермошлюшку, прошу, дай мне свою сперму!"
+                "Она усоляет меня до тех пор, пока наш бурный секс не превращается в оргазмический хаос, её киска плотно сжимается вокруг моего члена, что заставляет и меня уйти за точку невозврата."
                 show blossom sex4 with cum
                 play sound cum
                 show blossom sex4 with cum
                 play sound cum
-                "And in sudden orgasm I shoot several thick loads deep into her womb which squelch and drip down our point of connection."
+                "Ошарашенный своим внезапным оргазмом, я выстреливаю несколькими горячими сгустками своей спермы внутрь, переполняя её утробу, от чего наши смешавшиеся любовные соки, хлюпая, стекают из точки нашего соприкосновения."
                 show blossom sex4 with cum
                 play sound cum
                 show blossom sex4 with cum
                 play sound cum
-                "She rides out both of our orgasms with glee before the climax fades and with that our energy."
+                "С радостной улыбкой, она продолжает седлать меня на протяжении наших оргазмов, пока они полностью не иссякают, а вместе с ними - и наши силы."
                 stop ambience fadeout 3.0
                 scene bg black with dissolve
-                "Blossom finds herself snuggled against against my chest and we cuddle, still joined at the hips."
-                "We sleep together, and in the morning I return home."
+                "Блоссом ложится на мою грудь, и мы обнимаемся, всё ещё не разомкнув наши бёдра."
+                "Мы засыпаем вместе, и на утро я возвращаюсь домой."
                 jump altmorning
             "Руби" if boutiquevisit2 ==  1:
-                "Ruby and I spend the majority of the night talking together, she handles her drink quite well."
-                "She's a little more subtle than the other ladies with her flirts, at one time while we're alone she kisses me and encourages me to come to her place that night."
-                "You know I'll be there."
+                "Руби и я проводим большую часть вечера за беседами друг с другом, сопровождая разговоры алкоголем. Она знает, как пить."
+                "Она чуть менее навязчива в флирте, чем остальные дамы, и позволила себе поцеловать меня и пригласила к себе переночевать лишь когда мы остались наедине."
+                "Конечно же, я приду."
                 show bg rubybedroom with dissolve
                 show ruby sexlipbite with dissolve
-                ruby "Oh darling... It's so unlady like to fuck while I'm so drunk! *Giggles*"
+                ruby "Ох, дорогуша... Это же так неприлично для дамы, трахаться, когда она так пьяна! *Хихикает*"
                 play music sex1 fadein 3.0
-                ruby "I've been having a lot of naughty thoughts about you today [playername], look how wet you made me."
-                ruby "A gentlemen needs to help a lady relieve some stress, how about it?"
+                ruby "Я сегодня очень много думала о тебе, [playername], и посмотри, какая я влажная от этих пошлых мыслей!"
+                ruby "Настоящий джентльмен всегда поможет даме снять стресс, не так ли?"
                 play sound cum
                 play ambience sex fadein 3.0
-                "As she sinks that tight pussy over my cock and begins to hump me it feels as good as I imagined."
-                ruby "Mmmphhh, you feel so good inside me..."
-                "She bites her lip, and starts to ride my cock up and down at a teasing yet pleasureful pace."
-                ruby "Just sit back and relax dear, and try not to cum before me, hehe."
+                "Нависнув над моим членом своей жаждущей киской, она начинает тереться об меня - и это настолько же прекрасное чувство, насколько себе это можно представить."
+                ruby "Мммфххх, я так хорошо чувствую тебя внутри..."
+                "Она кусает свою губу и начинает ездить на моём члене вверх и вниз с дразнящим, но крайне приятным темпом."
+                ruby "Просто расслабься и наслаждайся. И постарайся не кончить до меня, хехе."
                 show ruby sexofacedeep with dissolve
                 show ruby sexoface with dissolve
-                "Her hips start to gain speed as she leans forward, and balances herself so she can put more oomph into the riding."
+                "Её бёдра начинают двигаться всё быстрее, она наклоняется вперёд и чуть меняет прикладываемую силу, чтобы добавить страсти своим движениям."
                 show ruby sexofacedeep with dissolve
                 show ruby sexofaceaction with dissolve
                 show ruby sexofacedeep with dissolve
                 show ruby sexofaceaction with dissolve
-                ruby "Mmphh, your cock is so thick inside me, I love fucking you darling."
-                "Her experienced hips start to twist and gyrate my cock in magnificent ways, toying and teasing my shaft while squeezing as much pleasure from me as she can."
+                ruby "Ммфхх, твой член так набух внутри меня, я обожаю трахаться с тобой, дорогуша."
+                "Её опытные бёдра великолепными способами начинают слегка крутить и вращать мой член, играя и дразня его, в то же время выжимая из меня максимум удовольсвия."
                 show ruby sexofacedeep with dissolve
                 show ruby sexofaceaction with dissolve
-                "My point of contact with the mare is a deluge of her juices that constantly dribble and drip onto my pelvis, the wet sounds created from our rutting are vulgar to say the least."
+                "Место моего контакта с кобылкой окружено сплошным потоком из её любовных соков, постоянно стекающими и капающими на мой таз. Влажные звуки нашего секса крайне вульгарны - и это ещё мягко сказано!"
                 show ruby sexofacedeep with dissolve
                 show ruby sexofaceaction with dissolve
                 show ruby sexofacedeep with dissolve
                 show ruby sexofaceaction with dissolve
-                ruby "Ohoh gosh, this feels too good, I'll lose my mind!"
+                ruby "Ох-ох-ох, боже! Это так замечательно, я скоро сойду с ума!"
                 show ruby sexofacedeep with dissolve
                 show ruby sexofaceaction with dissolve
-                "She purrs pure joy as she pounds against my lap, manhandling my cock with the grip of her tight walls which squeeze and constrict in an attempt to milk me."
+                "Руби просто мурчит от восторга, раз за разом ударяясь своими бёдрами о мои и сжимая мой член своей тугой киской, которая пытается выжать меня до последней капли."
                 show ruby sexahegaodeep with dissolve
                 show ruby sexahegaoaction with dissolve
-                "Driven by pure pleasure, she begins to rub her pussy too. She's unable to contain her blissful moans in the face of the dual pleasures which rapidly build her up to a mind-shattering orgasm."
+                "Движимая чистым удовольствием, она начинает ласкать свой клитор. Под натиском удвоенного удовольсвия, кобылка уже не в состоянии сдерживать свои сладостные стоны, всё ближе подходя к нарастающему оргазму потрясающей силы."
                 show ruby sexahegaodeep with dissolve
                 show ruby sexahegaoaction with dissolve
-                "Her moans of ecstasy make it clear that she's going to orgasm any second, and as she does, she squeals loudly while her vagina clenches around my cock."
+                "Её стоны экстаза явно намекают мне, что она кончит уже в любую секунду - и как только она достигает своего пика, Руби громко вскрикивает и её вагина сжимает свои стенки вокруг моего слена стальной, но невозможно приятной хваткой."
                 show ruby sexahegaodeep with dissolve
                 show ruby sexahegaoaction with dissolve
-                "I can’t hold back any longer. The combination of her moans and her contractions push me over the edge..."
+                "Я не могу больше сдерживаться! Сочетание её стонов и сокращений её киски перекинуло меня через край..."
                 show ruby sexahegaocumdeep with cum
                 show ruby sexahegaoactioncum with dissolve
                 show ruby sexahegaocumdeep with cum
                 show ruby sexahegaoactioncum with dissolve
-                "I orgasm, ejaculating thick loads of my cum deep inside of her while she continues to ride, causing a sloppy mess of my cum that bubbles and seeps out of her."
+                "Я достигаю оргазма, эякулируя мощным потоком своей горячей спермы внутрь неё, пока она продолжает свою скачку на мне. Это привело к обильному излиянию бурлящей смеси из моей спермы и её соков на кровать."
                 show ruby sexahegaocumdeep with cum
                 show ruby sexahegaoactioncum with dissolve
                 show ruby sexahegaocumdeep with cum
                 show ruby sexahegaoactioncum with dissolve
-                ruby "Ohh, yes… Mmm…"
+                ruby "Охх, да… Ммм…"
                 show ruby sexlipbitecum with dissolve
                 stop ambience fadeout 3.0
-                "She slowly comes to a stop and catches her breath."
+                "Она потихоньку замедляется, пытаясь перехватить дыхание."
                 stop music fadeout 10.0
-                ruby "Hehe, look how much you came..."
-                ruby "Darling, you are a wonderful sex partner…"
-                mc "I think you're one of my favourites too, but don't tell the others!"
-                ruby "Hehe, we're so good that people would tune in to watch. Maybe next time we should do a camshow, but no drinking beforehand!"
+                ruby "Хехе, посмотри, как много ты кончил..."
+                ruby "Дорогуша, ты замечательный сексуальный партнёр…"
+                mc "Я бы сказал, ты явно одна из моих фавориток в этом плане, только не говори остальным!"
+                ruby "Хехе, мы с тобой так хороши, что люди бы с радостью подключались к просмотру. Может, в следующий раз мы запустим камшоу, но уже без алкоголя!"
                 scene bg black with dissolve
-                "We snuggle in bed together and fall asleep"
+                "Мы обнимаемся в кровати и засыпаем."
                 stop ambience fadeout 3.0
-                "In the morning we part ways and I return home."
+                "Наутро мы прощаемся, и я возвращаюсь домой."
                 jump altmorning
             "Мелоди" if boutiquevisit3 == 1:
-                "As I talk with Melody, she's a relentless tease as usual, although far more watered down when around the others."
-                "She does seem to show subtle signs of jealousy though, and she's the one that actually asks if I want to come to her place."
-                "While she'd never admit that she brought me home for sex, I can definitely tell the alcohol has made her hornier than usual."
+                "Во время моих разговоров с Мелоди она, как обычно, всё также безжалостно поддразнивала меня, однако была чуть мягче в окружении других гостей."
+                "Что не мешало ей, впрочем, проявлять определённый уровень ревнивости, что, наверное, и сподвигло её спросить, не хочу ли я зайти к ней."
+                "И хоть она никогда и не признается, что пригласила меня домой ради секса, я могу с уверенностью сказать, что алкоголь сделал её куда похотливее, чем обычно."
                 scene bg melodybedroomnight
                 show melody closehappy with dissolve
                 jump melodyeveningsex
@@ -1472,7 +1472,7 @@ label bakery:
         cream "Таким образом, настоящий смысл жизни должен быть одинаковым как для 10-секундного ребёнка, так и для 100-летней старухи, но также и для бесконечного бессмертного существа."
         "Довольно озадаченный, я стою и изредка поглядываю в духовку. Выпечка тортов кажется такой приятной по сравнению с этими разговорами..."
         show cream neutral with dissolve
-        cream "Yeah, maybe the meaning of life is to breed and continue your species, but I’d like to think with my sentient arrogance that it’s more than that."
+        cream "Хотя, может, смысл жизни и правда лишь в размножении и продолжении рода, но мне хотелось бы думать со всем своим разумным высокомерием, что есть что-то большее."
         mc "There are millions of people that have died and been forgotten. It’s pretty depressing to think that in the grand scheme of humanity, let alone the universe, all our actions are completely and utterly meaningless."
         mc "But… we surely derive our own personal meanings to make our existence satisfying."
         mc "We make great friends, we laugh and joke, we fall in love and can ultimately have a fun life full of meaning."
